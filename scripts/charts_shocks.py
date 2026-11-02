@@ -11,7 +11,11 @@ EP=[ # code, title, start, end, shock_start, shock_end, suppliers, measure, ylab
  ('8703','Japan earthquake (11 Mar 2011): passenger cars','2010-06','2012-06','2011-04','2011-05',['JPN','USA','GBR','THA'],'primaryValue','USD million'),
  ('8704','Thailand floods (Oct-Dec 2011): trucks & pickups','2010-06','2012-06','2011-10','2011-12',['JPN','THA','USA'],'primaryValue','USD million'),
  ('1001','India wheat export ban (13 May 2022; shipments stop Sep 2022)','2021-01','2024-06','2022-09','2023-08',['IND','CAN','AUS','RUS'],'netWgt','thousand tonnes'),
- ('0703','India onion export ban (8 Dec 2023 - 4 May 2024)','2023-01','2025-06','2023-12','2024-05',['IND','PAK','CHN','TUR'],'netWgt','thousand tonnes'),
+ # [Sultan's coding agent, 2 Nov 2026] Shock window changed from 2023-12..2024-05 to 2023-12..2024-04.
+ # The ban was lifted on 4 May 2024 and India shipped 24 kt in May, so May is not a ban month.
+ # Effect on India: was 19.6 -> 5.7 kt a month (-71%); now 19.6 -> 2.1 kt (-89%). Note the 6-month pre-window
+ # (Jun-Nov 2023) already includes the 40% duty (Aug 2023) and the minimum export price (Oct 2023).
+ ('0703','India onion export ban (8 Dec 2023 - 4 May 2024)','2023-01','2025-06','2023-12','2024-04',['IND','PAK','CHN','TUR'],'netWgt','thousand tonnes'),
  ('1511','Indonesia palm oil export ban (28 Apr - 23 May 2022)','2021-06','2023-06','2022-04','2022-05',['IDN','MYS'],'netWgt','thousand tonnes'),
  ('1006','India non-basmati white rice ban (20 Jul 2023)','2022-06','2024-12','2023-08','2024-07',['IND','PAK','THA','VNM'],'netWgt','thousand tonnes'),
 ]

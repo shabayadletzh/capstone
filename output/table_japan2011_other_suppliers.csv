@@ -1,0 +1,38 @@
+source,supplier,pre_m (monthly mean; BACI: 2010 total),shock_m (monthly mean; BACI: 2011 total),change_pct
+Comtrade monthly (USD),AUS,12.17,7.68,-36.89
+Comtrade monthly (USD),CAN,3.47,5.38,54.95
+Comtrade monthly (USD),CHN,0.93,1.36,45.55
+Comtrade monthly (USD),GBR,36.61,28.42,-22.37
+Comtrade monthly (USD),JPN,193.77,49.74,-74.33
+Comtrade monthly (USD),MEX,8.22,4.82,-41.36
+Comtrade monthly (USD),THA,11.42,9.61,-15.82
+Comtrade monthly (USD),USA,133.37,134.25,0.66
+Eurostat monthly (EUR),AT,1.84,1.68,-8.53
+Eurostat monthly (EUR),BE,1.46,0.41,-71.99
+Eurostat monthly (EUR),DE,62.12,50.25,-19.1
+Eurostat monthly (EUR),ES,0.84,1.17,39.01
+Eurostat monthly (EUR),FR,2.34,1.28,-45.5
+Eurostat monthly (EUR),GB,26.89,19.72,-26.65
+Eurostat monthly (EUR),IT,3.28,3.2,-2.47
+Eurostat monthly (EUR),SK,3.35,2.33,-30.41
+Eurostat monthly (EUR),EU27+UK total,103.22,81.34,-21.2
+BACI annual 2010 vs 2011 (USD),AUS,165.19,146.58,-11.27
+BACI annual 2010 vs 2011 (USD),AUT,31.69,34.73,9.57
+BACI annual 2010 vs 2011 (USD),BEL,20.62,18.27,-11.4
+BACI annual 2010 vs 2011 (USD),BHR,8.53,24.25,184.24
+BACI annual 2010 vs 2011 (USD),CAN,37.89,54.11,42.83
+BACI annual 2010 vs 2011 (USD),CHN,11.31,31.79,180.95
+BACI annual 2010 vs 2011 (USD),DEU,964.82,1030.47,6.8
+BACI annual 2010 vs 2011 (USD),FRA,31.81,54.66,71.84
+BACI annual 2010 vs 2011 (USD),GBR,317.09,350.51,10.54
+BACI annual 2010 vs 2011 (USD),IDN,47.35,84.77,79.01
+BACI annual 2010 vs 2011 (USD),IND,3.83,20.45,434.19
+BACI annual 2010 vs 2011 (USD),ITA,48.41,79.76,64.77
+BACI annual 2010 vs 2011 (USD),JPN,2440.26,2037.09,-16.52
+BACI annual 2010 vs 2011 (USD),KOR,326.76,783.89,139.9
+BACI annual 2010 vs 2011 (USD),MEX,46.61,96.59,107.24
+BACI annual 2010 vs 2011 (USD),S19,132.07,161.41,22.21
+BACI annual 2010 vs 2011 (USD),SAU,38.6,50.4,30.57
+BACI annual 2010 vs 2011 (USD),SVK,45.36,57.18,26.05
+BACI annual 2010 vs 2011 (USD),THA,132.65,161.92,22.07
+BACI annual 2010 vs 2011 (USD),USA,1463.69,1781.13,21.69

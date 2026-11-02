@@ -8,7 +8,10 @@ CASES=[('Japan quake 2011, cars','8703','JPN',2010,2011),
        ('India wheat ban 2022','1001','IND',2021,2023),
        ('Ukraine war 2022, sunflower oil','1512','UKR',2021,2022),
        ('Indonesia palm oil ban 2022','1511','IDN',2021,2022),
-       ('India onion ban 2023-24','0703','IND',2022,2024)]
+       # [Sultan's coding agent, 2 Nov 2026] Post year changed from 2024 to 2023. The README rule is to stop
+       # share analysis at 2023 because BACI 2024 is built from partner reports only. Restrictions began with
+       # the 40% duty on 19 Aug 2023, so 2023 already has five restricted months. Case label kept unchanged.
+       ('India onion ban 2023-24','0703','IND',2022,2023)]
 rows=[]
 for name,k,s,t0,t1 in CASES:
     g=b[(b.hs4==k)&(b.year.isin([t0,t1]))]

@@ -7,6 +7,7 @@ Question: when a major supplier of a product to the UAE is hit by an outside sup
 - `DATA_DICTIONARY.md`: every file and column, sources, units, known issues.
 - `REPORT.md`: data check, dependence, shock cases, and what has been found so far.
 - `audit/`: reliability and identification checks (`validity_checks_log.txt` is the quickest read).
+- `CHANGES_BY_SULTANS_AGENT.md`: [Sultan's coding agent, 2 Nov 2026] what Sultan's agent changed in this repository and why, plus its cross-check results. Every edited line is marked `[Sultan's coding agent, 2 Nov 2026]`.
 
 ## Layout
 | Folder | Content |

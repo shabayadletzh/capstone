@@ -65,6 +65,16 @@ I tested six candidate events. For each I compared average monthly shipments to 
 | Thailand floods, Oct-Dec 2011 | Thailand, trucks and pickups | Thai shipments fell ~56%, Japanese and US shipments rose | Usable as a second case, but overlaps with Japan's own recovery |
 | India rice ban, 20 Jul 2023 | India, non-basmati white rice | India's rice to the UAE barely moved (-6%) | **Negative result.** The UAE got a 75,000 t exemption and basmati was not banned. The shock did not bind for the UAE |
 
+> **[Sultan's coding agent, 2 Nov 2026] Notes on the table above.** Adilet's text is left as it was. Details are in `CHANGES_BY_SULTANS_AGENT.md`.
+> - **Japan:** the 33% → 55% US share is a share among the Comtrade reporters only. Korea (monthly data only from 2013) and the EU suppliers are not in it. The new table `output/table_japan2011_other_suppliers.csv` adds them:
+>   - EU27+UK car exports to the UAE also fell in Apr-May 2011 (EUR 103m → 81m a month, −21%; Germany −19%).
+>   - US shipments were flat (+0.7%).
+>   - So the US share rose because Japan fell, not because the US shipped more.
+>   - Korea, the biggest annual gainer (USD 327m → 784m), is still unobserved monthly.
+> - **Onions:** the shock window in `scripts/charts_shocks.py` is now Dec 2023-Apr 2024, the ban months; it was Dec 2023-May 2024. With it, India falls from 19.6 to 2.1 kt a month (−89%, previously ~6 kt, −71%). Pakistan goes from 2.3 to 10.9 kt and China from 7.1 to 10.3 kt. India was already at 2.5 kt in Nov 2023, after the Aug 2023 duty, so the shock could be dated from August.
+> - **Palm oil:** Malaysia's shipments to the UAE rose from about USD 11m a month (Nov 2021-Feb 2022) to 24m in March and 41m in April, before the 28 Apr ban. Part of the replacement predates the ban.
+> - **Rice:** −6% uses Feb-Jul 2023 as the base. With Jan-Jun 2023 it is −15%. The conclusion is unchanged.
+
 I also ran a systematic annual screen over all 59 headings and all suppliers with at least 15% share (`output/table_annual_shock_screen.csv`). It flags years when a supplier's exports to the UAE and to the rest of the world both fell sharply. Most hits are 2009 and 2020 (global demand drops) or gold and fuel price swings, which are not what we want. That is a useful filter in itself. It also confirms India wheat 2023 and points to a few cases worth a look later, like India hot-rolled steel in 2023.
 
 What I would not use as the main shock: COVID (it hit every supplier and UAE demand at the same time), defense deals (UAE procurement choices), and gold (price-driven, re-export hub).
@@ -89,6 +99,10 @@ I think so. The data support a question like: when a major supplier of a product
 - Rejected candidates: India rice ban (UAE exemption), Shanghai lockdown 2022 (no drop), Qatar blockade (UAE's own decision), Australian alumina 2020 (UAE started its own refinery in 2019).
 - Cross-Gulf first look (step 2 of the design). Monthly exports of the shocked and replacing suppliers to all six GCC importers. Japan's car exports fell 54-69% to every Gulf importer in Apr-Jun 2011, and China's Feb 2020 exports were 32-62% below Feb 2019 to every one, so these are supply shocks, not UAE demand. Exposure differs a lot across the Gulf (India had 34% of UAE wheat but almost none of Saudi wheat). In the food cases other suppliers gained more where exposure was higher, onions most clearly. With six importers it is a picture, not a test. Chart `09`.
 - Red Sea attacks (from Nov 2023) added as a failed candidate: EU exports to the UAE rose from about EUR 3.2bn a month in 2023 to 3.7bn in 2024.
+  - **[Sultan's coding agent, 2 Nov 2026]** This rejection is weak. Values are in euro, with no trend or price control: they also rose to 4.3bn a month in 2025. A route shock also raises costs for every Suez user rather than removing one supplier. A cleaner test compares, within each product, suppliers that ship through Suez with those that do not.
+- **[Sultan's coding agent, 2 Nov 2026]** In `scripts/gcc_first_look.py` the onion case now compares 2022 with 2023, not 2024, following the README rule to stop at 2023.
+  - In 2023 annual data India's onion exports to the UAE still rose (+10.7% of pre-shock imports). The annual comparison cannot see this ban; the monthly data can.
+  - The pooled slope of other suppliers' gain on exposure falls from 19.6 (se 26.4) to 3.9 (se 22.1), n = 36.
 - Comtrade monthly data for the new sectors is now complete for Jan 2010 - Sep 2026.
 - The meeting prep (question, literature, design, timeline) is in the Claude doc "Capstone meeting prep: UAE supplier substitution". Timeline chart: `charts/08_timeline.png`.
 
