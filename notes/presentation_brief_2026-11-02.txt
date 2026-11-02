@@ -1,0 +1,350 @@
+PRESENTATION BRIEF FOR SULTAN'S CLAUDE AGENT
+Prepared by Adilet's Claude agent, 2 Nov 2026
+Repository: https://github.com/shabayadletzh/capstone
+
+This file has two parts.
+PART 1 is the task, rewritten as one prompt with every decision and fact you need.
+PART 2 is the slide-by-slide plan that Adilet's agent produced for it.
+Please read PART 1 before commenting on PART 2.
+
+
+==========================================================================
+PART 1. THE TASK (rewritten prompt with full context)
+==========================================================================
+
+WHO AND WHAT
+- NYUAD Economics Capstone 2026-27. Team: Adilet and Sultan. Supervisor: Prof. Jean Imbs.
+- Topic: when a big supplier of a product to the UAE is hit by an outside shock, how much
+  of the lost supply is replaced, how fast, and by whom.
+
+THE PROFESSOR'S REQUEST (verbatim)
+"Next week we are in fact supposed to finalize groups and topics. I am reasonably optimistic
+that most of you have more or less reached that stage. Still, I would like to organize
+meetings with each group, preferably in person, over the course of next week. The purpose of
+these meetings is for you to give me a presentation of your project: the question at hand,
+some of the relevant literature, the data you will exploit, and, last but definitely not
+least, who will do what when over the course of the year. All group members must be here and
+all group members must participate to the presentation. It does not have to be long, maybe
+10-15mn. But it has to be done well."
+
+WHAT ADILET ASKED FOR
+- A description of what to write and say on each slide. Not a slide deck file.
+- 10-15 minutes. Both of us present. It will be conversational: the professor will likely ask
+  questions on every slide.
+- The slides must cover: the proposal, the motivation, the hypotheses, the methods, and the
+  flaws, plus the literature, data, cut-offs, and who does what when.
+- Keep it simple. Don't overwhelm with data or complex vocabulary. Only briefly describe the
+  data and a few key facts.
+- The focus should not only be the data work. Also cover how we will use the data and what
+  we take from the papers.
+- No "delusional" points: nothing claimed that the data does not support.
+- Writing style: simple, concise, human. No em dashes, no semicolons, no cliche endings.
+
+DECISIONS ALREADY MADE (Adilet, after discussion with Sultan)
+1. Scope: all sectors. Strategic products plus food, energy and chemicals, construction
+   materials, medical supplies.
+2. Research question: two parts with equal weight. (1) How much is replaced and how fast.
+   (2) Who replaces, and why them.
+3. Definition of a "big" supplier:
+   - Main rule: at least 50% of UAE imports of the product.
+   - Candidate screen: 20%.
+   - Every result is shown at 20, 30, 40 and 50%, so nothing rests on one number.
+   - Persistence (from Sultan's rule): the share must pass the threshold in the year before
+     the drop AND in at least one of the two years before that.
+   - Sultan's HHI > 0.4 alternative was NOT adopted. Adilet kept only the share rule.
+4. A drop: the supplier's share falls 15 points or more AND its sales fall at least a third
+   (log change <= -0.4), in a product worth $30m or more in the year before.
+5. A shock is dated from official sources (decrees, sanctions orders, disaster dates). It is
+   never picked because imports fell. The data screen only suggests candidates.
+6. Comparison group: the six Gulf importers (ARE, SAU, OMN, KWT, QAT, BHR) as the main group,
+   run at the product x country level. World importers from BACI as a backup check.
+7. Hypotheses (all four kept):
+   H1. In the short run, other suppliers replace only a small part of the loss.
+   H2. Food is replaced faster than other goods. This was narrowed from "commodities" because
+       fuels and metals turned out to be no faster.
+   H3. The replacers were already selling to the UAE before the shock.
+   H4. The UAE replaces faster than other Gulf importers (trade hub with more suppliers).
+       Not tested yet.
+8. Model: simple intuition only. Buyers treat goods from different countries as close but not
+   perfect substitutes (CES / Armington), and switching suppliers has a cost.
+9. Roles, split by data track:
+   - Sultan: annual screen at 20/30/40/50%, final case list, dating each shock from official
+     sources, literature review and proposal, who-replaces regression with gravity data (H3).
+   - Adilet: monthly data for the case products and all six Gulf importers, event studies,
+     Gulf comparison with the world check (H1, H2, H4), figures and replication files.
+   - Both: robustness, writing, final presentation. Weekly meetings.
+10. Seminar deadlines are not known yet. The timeline (charts/08_timeline.png) is tentative.
+
+METHOD (three steps)
+- Step 1. Event study per shock (descriptive, H1 and H2). Monthly imports from the hit
+  supplier and each alternative, 12 months before to 24 after. Supplier-product effects and
+  calendar-month effects. PPML in levels so zero months stay in.
+- Step 2. Gulf comparison (causal, H1 and H4). Exports of alternative j to Gulf importer d of
+  product k, on Exposure(dk) x Post, with j-k-time effects and d-time effects. Exposure = the
+  hit supplier's pre-shock share of d's imports of k. Add a UAE x Exposure x Post term for H4.
+- Step 3. Who replaces (H3). Gain in UAE share regressed on prior share, world exports,
+  distance, trade agreement, unit price, with case effects. Gravity data from CEPII.
+- Inference: few shocks, so case-by-case results, clustering by supplier-product, and a wild
+  cluster bootstrap or randomization inference.
+
+DATA (all collected, checked and in the repository)
+- CEPII BACI HS92 v202601: annual 1995-2024 (use 1995-2023, since 2024 is built from partner
+  reports only).
+- UN Comtrade: monthly exports to the UAE reported by about 30 supplier countries, Jan 2010 to
+  Sep 2026, 97 product groups. Also monthly exports to all six Gulf importers for the case
+  products. The UAE itself does not publish monthly imports by country.
+- Eurostat Comext DS-045409: monthly EU and UK exports to the UAE and the Gulf, 1988 to Aug 2026.
+- SIPRI and OECD BaTIS: background only.
+
+KEY FACTS (all verified against the data)
+- UAE goods imports were about $390bn in 2023 (BACI).
+- In 20 of 59 strategic products, one supplier holds more than half of UAE imports. In 2023,
+  China had 79% of computers, Brazil 77% of poultry, India 74% of rice, and Saudi Arabia 55% of
+  polyethylene.
+- China's share of all UAE imports rose from about 5% (late 1990s) to about 20% (2023).
+- Reliability: BACI is within about 10% of UAE-reported totals in most years. Partner ranking
+  correlation is 0.98+. Monthly supplier data summed to years has a median ratio of 0.99 to
+  BACI. The 30 monthly reporters cover about two thirds of UAE imports.
+- 2013-16: the UAE booked about a third of its imports as "unspecified" (chapter 99). Those
+  years are flagged.
+- Japan earthquake 2011: Japan's car shipments to the UAE fell 74% in Apr-May 2011. US
+  shipments stayed flat (+0.7%) and EU car exports to the UAE fell 21%, so nobody filled the gap
+  in those months. Over 2011, Korean cars to the UAE went from $327m to $784m and US cars rose 22%.
+- India wheat ban (May 2022): India fell from 43% of UAE wheat (2022) to 0.5% (2023). Russia
+  gained 23 points.
+- India onion ban (Dec 2023 - May 2024, window Dec-Apr): India -89%, from 19.6 to 2.1 kt a month.
+  Pakistan rose from 2.3 to 10.9 kt and China from 7.1 to 10.3 kt.
+- Iran 2018-19: Iran's share of semi-finished steel went from 71% to 11%.
+- Iran 2012: Iran's polyethylene share went from 46% to 7%, and Saudi Arabia gained 28 points.
+- Ukraine 2022: sunflower oil share 57% to 36%, pig iron 65% to 4%.
+- Rejected cases: India rice ban (the UAE got an exemption), Shanghai lockdown 2022 (no drop),
+  Qatar blockade (the UAE's own decision), Australian alumina 2020 (new UAE refinery), Red Sea
+  2024 (EU exports kept rising, but that test is weak).
+- First look at the hypotheses. Sample: supplier-wide drops, 1996-2023 excluding 2013-16.
+  - H1: by the next year, others make up a median 4-11% of the loss, at every cut-off.
+  - H2: food about 24% made up, other groups about 4-5% (20% cut-off).
+  - H3: in 93% of drops, the biggest gainer was already selling to the UAE the year before
+    (median share about 5%).
+  - These are descriptive medians, not causal results.
+- Where the cases fall under the big-supplier rule:
+  - 50% at HS4: Japan trucks, Iran steel 2019, Indonesia palm oil, Ukraine sunflower oil,
+    Ukraine pig iron.
+  - Japan cars: only 30% overall (38% in 2010), but 50% for small cars (HS 870322, 64%).
+  - India onions: 20% overall, 40% for fresh onions.
+  - India wheat: fails every threshold with 2019-21 as pre-years (1%, 4%, 34%). It passes at
+    30% with 2020-22.
+  - Iran polyethylene 2012: 30%.
+- Identification checks already run (audit/validity_*):
+  - The drops for Japan cars, India wheat and India onions are worse than in 98-100% of other
+    months for the same pair. Palm oil is within normal noise.
+  - In 6 of 7 cases the supplier sold less everywhere, so the cause is on the supply side.
+    Iran 2012 is the exception: only the UAE stopped buying.
+  - Weight fell as much as value, so the drops are real quantities, not price moves.
+  - Anticipation: wheat shipments were up 67% in the months before the drop (contract rush),
+    and onion exports were already down 48% after the August 2023 duty.
+  - Exposure is correlated with pre-shock growth across the six Gulf importers (-0.81 to +0.52).
+
+THINGS NOT TO CLAIM
+- No causal results yet. Everything so far is descriptive.
+- H4 is not tested.
+- Japan cars is not a 50% case overall.
+- Monthly replacement is a lower bound, because Korea is missing before 2013, Russia after
+  2021 and China after 2024.
+- Do not say "nobody has studied this". Say "the only UAE paper we found" (Ali, Manikas and
+  Sundarakani 2022, which measures concentration with no shocks).
+
+LITERATURE USED (DOIs in the proposal and repository)
+- Core: Freund, Mattoo, Mulabdic and Ruta (2022, IMF Econ Review). Boehm, Flaaen and
+  Pandalai-Nayar (2019, REStat). Monarch (2022, REStat). Lafrogne-Joussier, Martin and Mejean
+  (2023, IMF Econ Review). Carvalho et al. (2021, QJE). Barrot and Sauvagnat (2016, QJE).
+- Bans and sanctions: Giordani, Rocha and Ruta (2016, JIE). Haidar (2017, Economic Policy).
+  Fajgelbaum et al. (2024, AER: Insights). Al-Malk, Maystadt and Zanardi (2025, JEG).
+- Closest design: Boschemeier and Mau (2023, De Economist).
+- UAE: Ali, Manikas and Sundarakani (2022, Cogent Economics and Finance).
+- Background: Broda and Weinstein (2006, QJE). Baldwin and Freeman (2022, ARE). Grossman,
+  Helpman and Lhuillier (2023, JPE).
+
+WHERE THINGS ARE IN THE REPOSITORY
+- README.md and DATA_DICTIONARY.md: start here.
+- REPORT.md: findings, including section 7 on the big-supplier definition.
+- scripts/big_supplier_thresholds.py and output/table_big_supplier_*.csv: the cut-off results.
+- scripts/hypotheses_first_look.py and output/table_hypotheses_first_look.csv: H2 and H3
+  numbers.
+- audit/validity_*.csv and audit/validity_checks_log.txt: identification checks.
+- charts/10_big_supplier_thresholds.png: results at each cut-off.
+- charts/08_timeline.png: who does what when.
+- Run python3 scripts/unpack_raw.py once before re-running any script.
+- Adilet also has two Claude docs: a meeting prep doc and a proposal doc. They are private to
+  his account until he shares them.
+
+OPEN QUESTIONS FOR THE TEAM
+1. Is Sultan happy to present slides 1, 2, 4, 5, step 3 of slide 9, and half of slide 10?
+2. Is H2 as "food" fine, or should it stay broad and show the surprise?
+3. What are the actual seminar deadlines?
+4. Iran 2012 and defense: main thesis, separate section, or background?
+5. Who registers the free UN Comtrade API key?
+6. Can each of us explain an event study, a difference-in-differences and PPML in two
+   sentences?
+
+
+==========================================================================
+PART 2. SLIDE-BY-SLIDE PLAN (Adilet's agent's response)
+==========================================================================
+
+12 slides, about 15 minutes. Most slides get about a minute.
+
+Slide 1. Title (Sultan, 20 sec)
+- On the slide: "When a big supplier fails: how the UAE replaces lost imports." Adilet and
+  Sultan, Prof. Jean Imbs, NYUAD Economics Capstone 2026-27.
+- Say: "We study what happens to UAE imports when a major supplier is hit by a shock it didn't
+  choose."
+
+Slide 2. Proposal in one slide (Sultan, 1 min)
+- On the slide:
+  - Question: when a big supplier is hit by an outside shock, how much of the lost supply is
+    replaced and how fast, and who replaces it.
+  - Approach: shocks dated from official sources. We follow monthly imports before and after,
+    compare the UAE with the other Gulf importers, and explain who wins.
+  - Data: CEPII BACI (yearly, 1995-2023), UN Comtrade (monthly, 2010-2026), Eurostat (monthly).
+    Already collected and checked.
+  - What's new: the importer side, for a small trade hub, across many shocks and sectors.
+- Say: "The data is ready and we have a first look. What we need to settle is the right model
+  and comparison group."
+
+Slide 3. Motivation (Adilet, 1 min)
+- On the slide:
+  - The UAE imports about $390bn of goods a year (2023) and can't make most of it at home.
+  - In 20 of 59 strategic products, one country supplies more than half. For example, China
+    has 79% of computers, Brazil 77% of poultry and India 74% of rice.
+  - China's share of all UAE imports went from about 5% (late 1990s) to about 20% (2023).
+  - Shocks keep happening: the Japan earthquake (2011), Indian export bans (2022-24), the
+    Ukraine war (2022), sanctions on Iran (2012, 2018-19).
+- Say: "Governments talk a lot about supply-chain risk. Whether a lost supplier gets replaced
+  quickly or slowly tells us how costly depending on one country really is."
+- He may ask: "Why the UAE and not the whole Gulf?" Answer: it's the most trade-dependent and a
+  re-export hub. We use the rest of the Gulf as the comparison group.
+
+Slide 4. Hypotheses (Sultan, 1.5 min)
+- On the slide, four lines, each naming where it comes from:
+  - H1: in the short run, other suppliers replace only a small part of the loss. From Boehm
+    et al. (2019) and Monarch (2022): switching suppliers is slow and costly.
+  - H2: food is replaced faster than other goods. From Broda and Weinstein (2006): wheat from
+    one country is close to wheat from another, which isn't true of cars.
+  - H3: the replacers already sold to the UAE before the shock. From Monarch (2022): buyers go
+    to suppliers they already know.
+  - H4: the UAE replaces faster than other Gulf importers, because a trade hub has more
+    suppliers. This one is our own.
+- Say: "The first three come from the papers. The fourth is about the UAE specifically, and
+  only our Gulf comparison can test it."
+- He may ask: "Why only food in H2?" Answer: we started with commodities in general, but the
+  data shows fuels and metals are no faster. So we narrowed it, and we can say why.
+
+Slide 5. Literature (Sultan, 2 min)
+- On the slide, three boxes, each with one line on what we take:
+  - Supply shocks and switching: Freund et al. (2022) and Boehm et al. (2019) on the 2011
+    earthquake, plus Monarch (2022). They give us H1 and H3, and the idea that pre-shock
+    exposure predicts switching.
+  - Bans and sanctions: Giordani, Rocha and Ruta (2016) show bans follow world prices, so we
+    control for them. Haidar (2017) shows sanctioned goods find other routes, so we check for
+    rerouting.
+  - Closest design: Boschemeier and Mau (2023), one country's monthly imports after its
+    partners' lockdowns. This is our template.
+  - The gap, at the bottom: these papers study firms in large economies, usually after one
+    shock. We found only one UAE paper (Ali et al. 2022), which measures concentration with no
+    shocks.
+- He may ask: "How are you different from Freund et al.?" Answer: they ask whether supply
+  chains reshaped worldwide after one shock. We ask how one import-dependent country replaces
+  lost supply across many shocks, and which suppliers win.
+
+Slide 6. Data and our cut-offs (Adilet, 1.5 min)
+- On the slide, a small table of the three sources, years and reliability:
+  - BACI matches the UAE's own totals within about 10%.
+  - Monthly supplier reports summed to years match BACI (ratio 0.99).
+  And our cut-offs:
+  - Big supplier: 50% or more of UAE imports of a product. This is the main rule.
+  - Screen: we start from 20%, and show every result at 20, 30, 40 and 50%.
+  - The supplier must pass the line in the year before and in one of the two years before that.
+  - Drop: its share falls 15 points or more and its sales by at least a third.
+  - Shock: has an official date (decree, sanctions order, disaster). We never pick one because
+    imports fell.
+- Say: "We show every cut-off so no result depends on one number we chose."
+- He may ask: "Why trust what the suppliers report?" Answer: the UAE doesn't publish monthly
+  data by country. Supplier reports match BACI when summed to years, so we use them for timing
+  and BACI for levels.
+
+Slide 7. What the data shows so far (Adilet, 2 min)
+- On the slide: chart 10, plus two examples and the first look at each hypothesis.
+  - Japan earthquake: car shipments to the UAE fell 74% in two months, and nobody filled the gap
+    in those months.
+  - India wheat ban: India fell from 43% of UAE wheat to almost zero. Russia gained 23 points.
+  - H1: by the next year, others make up only 4-11% of the loss, at every cut-off.
+  - H2: food sees about 24% made up, other goods about 4-5%.
+  - H3: in 93% of drops, the biggest winner was already selling to the UAE.
+  - H4: not tested yet.
+- Say: "These are averages, not causal results. They tell us the question is real and the data
+  can answer it."
+- Don't claim that anything here is proven, or that H4 is tested.
+
+Slide 8. Method, part 1: the economics and the event study (Adilet, 1.5 min)
+- On the slide:
+  - Intuition: buyers treat goods from different countries as close but not perfect
+    substitutes, and switching has a cost. So replacement should be faster when products are
+    similar (H2), slow overall (H1), and should go to known suppliers (H3).
+  - Step 1, event study: for each shock, monthly imports from the hit supplier and from each
+    alternative, 12 months before to 24 months after. Seasonal effects removed. Estimated with
+    PPML so that months with zero imports stay in. This shows the loss, the recovery, and
+    whether anything moved before the shock.
+- He may ask: "Why PPML?" Answer: India's wheat to the UAE is exactly zero for a year. Logs
+  would drop those months, and PPML keeps them.
+
+Slide 9. Method, part 2: Gulf comparison and who replaces (Adilet for step 2, Sultan for
+step 3, 1.5 min)
+- On the slide:
+  - Step 2, Gulf comparison (the causal step): the six Gulf countries depended on the hit
+    supplier to different degrees. For example, India had 34% of UAE wheat but almost none of
+    Saudi wheat. If alternatives grow more where dependence was bigger, the shock caused it. We
+    run it at the product by country level, so each shock gives many observations. World
+    importers are a backup check. H4 is tested here.
+  - Step 3, who replaces: each alternative's gain in UAE share is explained by its earlier
+    share, world exports, distance, trade agreements and price. This tests H3.
+- He may ask: "Only six countries?" Answer: yes, that's our main weakness. We work at the
+  product by country level, test whether trends differed before the shock, and check against
+  world importers.
+
+Slide 10. Flaws and how we handle them (both, 2 min, Adilet the first three, Sultan the rest)
+- On the slide, short lines:
+  - Six Gulf comparison countries is too few. How much each relied on the hit supplier is
+    correlated with its earlier trends. Fix: product by country level, pre-trend tests, world
+    check.
+  - Some shocks were expected. India rushed wheat out before the ban bit, and onion exports
+    fell after a duty in August 2023. Fix: date each shock at its first restriction.
+  - Only six to ten shocks. Fix: case-by-case results and bootstrap inference.
+  - Monthly data misses some suppliers (Korea before 2013, Russia after 2021). Fix: monthly
+    replacement is a lower bound, and BACI covers the full picture yearly.
+  - Rerouting (Bulgaria may be shipping Ukrainian oil) and re-exports through the UAE. Fix:
+    check the winners' own production, and drop Oman as a check.
+  - Our best case isn't a 50% case. Japan cars is 30% overall, and India only became a big
+    wheat supplier in 2021. Fix: show every cut-off.
+- Already checked:
+  - The drops are bigger than in 98-100% of normal months.
+  - In 6 of 7 cases the supplier sold less everywhere, so it was a supply problem, not the
+    UAE choosing to buy less.
+  - Quantities fell, not just prices.
+- Say: "We'd rather tell you the weak points ourselves."
+
+Slide 11. Who does what when (both, 1 min)
+- On the slide: chart 08.
+  - Sultan: annual screen, dating the shocks, literature and proposal, who-replaces regression
+    (H3).
+  - Adilet: monthly data, event studies, Gulf comparison (H1, H2, H4).
+  - Both: robustness, writing, final presentation. Weekly meetings.
+- Say: "The dates are a draft until we have the seminar deadlines."
+
+Slide 12. Questions for you (both, 30 sec)
+- Is 50% a good main rule, with 20-40% as checks?
+- Is the Gulf comparison convincing, or should world importers be the main group?
+- Is supplier-reported monthly data fine as our main monthly source?
+- Should Iran 2012, where only the UAE stopped buying, go in a separate section? And defense
+  as background only?
+
+If you only show two charts, use chart 10 on slide 7 and chart 08 on slide 11.
