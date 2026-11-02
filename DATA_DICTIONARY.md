@@ -121,6 +121,9 @@ Natural gas (2711) in BACI alternates between large values and zero for some sup
 | `audit/audit_uae_reported_unspecified_share.csv` | Share of UAE-reported imports in chapter 99 (unspecified). Explains the 2013-16 gap |
 | `audit/audit_mirror_monthly_vs_baci.csv` | Monthly mirror summed to the year vs BACI, by reporter x HS4 x year |
 | `audit/audit_log.txt` | Printed summary of all checks |
+| `output/table_big_supplier_threshold_summary.csv` | Big-supplier drops and what followed, at 20/30/40/50% thresholds, for all years and excluding 2013-16, all drops and supplier-wide drops. Columns: flags, suppliers, products, lost_bn_usd, median share of the loss replaced by others in the same and next year, share fully replaced by the next year, median change in total UAE imports of the product |
+| `output/table_big_supplier_flags_by_threshold.csv` | Every flagged drop at each threshold: shares in the three pre-years (s_l3, s_l2, s_l1) and the drop year (s), values, loss, replacement ratios (replaced_t, replaced_t1), total import change, type, who gained |
+| `output/table_big_supplier_event_cases.csv` | For the dated events: the supplier's share in the three pre-years at HS4 and at its strongest HS6 line, and the thresholds it passes |
 | `audit/file_inventory.csv` | Rows, columns, years, duplicates, missing share and negative values for every file |
 | `audit/validity_placebo_and_pretrend.csv` | Placebo-in-time test and pre-trend for six cases |
 | `audit/validity_supply_vs_demand.csv` | Shocked supplier's exports to the UAE vs rest of world, and UAE imports from others |

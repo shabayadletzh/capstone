@@ -1,0 +1,12 @@
+event,supplier,pre_years,hs4,hs4_share_pre_years,hs4_passes_at,strongest_hs6,hs6_imports_last_pre_year_musd,hs6_share_pre_years,hs6_passes_at
+"Japan earthquake 2011, cars",JPN,2008-2010,8703,46% / 32% / 38%,"20, 30",870322,221.0,79% / 64% / 64%,"20, 30, 40, 50"
+"Japan earthquake 2011, trucks",JPN,2008-2010,8704,35% / 56% / 51%,"20, 30, 40, 50",870422,370.0,49% / 80% / 82%,"20, 30, 40, 50"
+"Thailand floods 2011, trucks",THA,2008-2010,8704,15% / 16% / 16%,none,870431,276.0,49% / 44% / 43%,"20, 30, 40"
+"Iran sanctions 2012, polyethylene",IRN,2009-2011,3901,0% / 38% / 46%,"20, 30",390120,398.0,0% / 0% / 48%,none
+"Iran sanctions 2018-19, semi-finished steel",IRN,2016-2018,7207,28% / 67% / 71%,"20, 30, 40, 50",,,,
+India wheat ban 2022 (pre-years before the ban),IND,2019-2021,1001,1% / 4% / 34%,none,100190,373.0,1% / 4% / 36%,none
+India wheat ban 2022 (pre-years before the annual drop),IND,2020-2022,1001,4% / 34% / 43%,"20, 30",100190,508.0,4% / 36% / 50%,"20, 30"
+Indonesia palm oil ban 2022,IDN,2019-2021,1511,63% / 62% / 56%,"20, 30, 40, 50",151190,329.0,63% / 62% / 56%,"20, 30, 40, 50"
+"Ukraine war 2022, sunflower oil",UKR,2019-2021,1512,76% / 78% / 57%,"20, 30, 40, 50",151211,79.0,82% / 95% / 59%,"20, 30, 40, 50"
+"Ukraine war 2022, pig iron",UKR,2019-2021,7201,89% / 77% / 64%,"20, 30, 40, 50",,,,
+India onion ban 2023-24,IND,2020-2022,0703,27% / 28% / 42%,20,070310,113.0,38% / 47% / 66%,"20, 30, 40"

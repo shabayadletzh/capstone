@@ -121,3 +121,29 @@ I think so. The data support a question like: when a major supplier of a product
 - Indonesia palm oil ban lifted 23 May 2022: https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/agriculture/051922-indonesia-to-lift-ban-on-palm-oil-exports-from-may-23-trade-reactions-vary
 - Japan car output after the 2011 quake: https://www.european-rubber-journal.com/2011/04/28/japanese-auto-production-sinks-57-percent-in-march
 - Thailand floods and supply chains: https://www.insurancejournal.com/news/international/2011/10/28/221972.htm
+
+## 7. Definition of a "big" supplier (agreed 2 Nov 2026)
+
+- Main definition: the supplier had at least **50%** of UAE imports of the product, in the year before the drop and in at least one of the two years before that.
+- Candidate screen: **20%**, so weaker cases are not missed.
+- Every result is reported at **20, 30, 40 and 50%** so that no conclusion rests on one cut-off. Script: `scripts/big_supplier_thresholds.py`. Tables: `output/table_big_supplier_*.csv`. Chart: `charts/10_big_supplier_thresholds.png`.
+
+What the screen shows (1996-2023, excluding 2013-16):
+
+| Threshold | Drops | Of which supplier-wide | Median share of the loss made up by others by the next year (all / supplier-wide) | Median change in total UAE imports of the product by the next year (all / supplier-wide) |
+|---|---|---|---|---|
+| 20% | 988 | 260 | 27% / 8% | -14% / -33% |
+| 30% | 677 | 175 | 20% / 11% | -19% / -33% |
+| 40% | 467 | 133 | 12% / 5% | -30% / -39% |
+| 50% | 313 | 97 | 11% / 4% | -37% / -49% |
+
+At every threshold other suppliers make up only a small part of a big supplier's loss within a year. The larger fall in total imports at higher thresholds is partly mechanical (a bigger supplier's drop moves the total more), the low replacement share is not.
+
+Where the dated events fall (share in the three pre-years, 2 of 3 rule):
+
+- Pass at 50% at HS4: Japan trucks 2011, Iran semi-finished steel 2019, Indonesia palm oil 2022, Ukraine sunflower oil 2022, Ukraine pig iron 2022.
+- Japan cars 2011: 30% at HS4 (38% in 2010), but 50% at the strongest HS6 line (870322, 64% in 2010).
+- India onions: 20% at HS4, 40% at HS6 (070310, 66% in 2022).
+- Iran polyethylene 2012: 30% at HS4.
+- India wheat: none if pre-years are 2019-21, because India only became a big supplier in 2021 (1%, 4%, 34%). With 2020-22 (the annual drop is in 2023) it passes at 30%.
+- Thailand trucks: none at HS4, 40% at HS6 (870431).

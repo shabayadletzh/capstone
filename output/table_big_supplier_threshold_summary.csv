@@ -1,0 +1,17 @@
+threshold,years,drops,flags,suppliers,products,lost_bn_usd,median_replaced_same_year_pct,median_replaced_next_year_pct,share_fully_replaced_next_year_pct,median_total_imports_change_same_year_pct,median_total_imports_change_next_year_pct
+20%,all years 1996-2023,all drops,1177,75,472,133.3,16,22,26,-27,-18
+20%,all years 1996-2023,supplier-wide drops,297,46,188,38.2,5,6,18,-39,-34
+20%,excluding 2013-2016,all drops,988,70,432,114.9,17,27,27,-27,-14
+20%,excluding 2013-2016,supplier-wide drops,260,43,176,32.6,4,8,17,-42,-33
+30%,all years 1996-2023,all drops,812,62,399,106.5,13,17,21,-33,-24
+30%,all years 1996-2023,supplier-wide drops,198,38,140,25.2,4,11,15,-45,-34
+30%,excluding 2013-2016,all drops,677,60,364,90.4,13,20,23,-33,-19
+30%,excluding 2013-2016,supplier-wide drops,175,37,132,20.4,4,11,13,-46,-33
+40%,all years 1996-2023,all drops,549,57,318,84.1,9,11,17,-42,-32
+40%,all years 1996-2023,supplier-wide drops,146,34,111,20.1,1,5,10,-52,-43
+40%,excluding 2013-2016,all drops,467,54,291,70.8,9,12,18,-42,-30
+40%,excluding 2013-2016,supplier-wide drops,133,34,106,15.8,0,5,10,-53,-39
+50%,all years 1996-2023,all drops,363,50,225,63.3,9,11,15,-48,-39
+50%,all years 1996-2023,supplier-wide drops,104,27,79,14.3,1,4,11,-58,-51
+50%,excluding 2013-2016,all drops,313,48,205,56.3,9,11,15,-48,-37
+50%,excluding 2013-2016,supplier-wide drops,97,27,77,10.9,0,4,10,-58,-49
