@@ -1,0 +1,41 @@
+threshold,drops,product_group,flags,median_replaced_next_year_pct,top_gainer_already_supplied_pct,top_gainer_median_prev_share_pct
+20%,all drops,food (HS 01-24),146,47,86,5.8
+20%,all drops,"fuels, metals, basic chemicals and plastics",316,22,89,5.2
+20%,all drops,"machinery, vehicles, electronics",251,28,96,5.3
+20%,all drops,other manufactures,275,18,96,6.9
+20%,all drops,all products,988,27,92,5.8
+20%,supplier-wide drops,food (HS 01-24),36,24,89,6.6
+20%,supplier-wide drops,"fuels, metals, basic chemicals and plastics",110,4,91,5.1
+20%,supplier-wide drops,"machinery, vehicles, electronics",57,5,96,3.6
+20%,supplier-wide drops,other manufactures,57,4,96,7.7
+20%,supplier-wide drops,all products,260,8,93,5.4
+30%,all drops,food (HS 01-24),100,27,87,5.4
+30%,all drops,"fuels, metals, basic chemicals and plastics",216,18,88,4.7
+30%,all drops,"machinery, vehicles, electronics",159,32,96,5.4
+30%,all drops,other manufactures,202,13,96,5.9
+30%,all drops,all products,677,20,92,5.4
+30%,supplier-wide drops,food (HS 01-24),24,22,92,5.8
+30%,supplier-wide drops,"fuels, metals, basic chemicals and plastics",76,10,92,4.4
+30%,supplier-wide drops,"machinery, vehicles, electronics",35,12,94,4.8
+30%,supplier-wide drops,other manufactures,40,4,98,7.3
+30%,supplier-wide drops,all products,175,11,94,4.9
+40%,all drops,food (HS 01-24),74,22,86,5.4
+40%,all drops,"fuels, metals, basic chemicals and plastics",152,12,88,3.9
+40%,all drops,"machinery, vehicles, electronics",97,19,94,4.8
+40%,all drops,other manufactures,144,9,94,4.6
+40%,all drops,all products,467,12,91,4.6
+40%,supplier-wide drops,food (HS 01-24),18,11,89,4.5
+40%,supplier-wide drops,"fuels, metals, basic chemicals and plastics",58,4,91,4.3
+40%,supplier-wide drops,"machinery, vehicles, electronics",27,5,93,2.4
+40%,supplier-wide drops,other manufactures,30,5,97,6.4
+40%,supplier-wide drops,all products,133,5,92,4.5
+50%,all drops,food (HS 01-24),50,22,86,4.8
+50%,all drops,"fuels, metals, basic chemicals and plastics",110,5,90,3.8
+50%,all drops,"machinery, vehicles, electronics",61,13,93,4.8
+50%,all drops,other manufactures,92,9,92,3.6
+50%,all drops,all products,313,11,91,3.8
+50%,supplier-wide drops,food (HS 01-24),13,19,85,5.3
+50%,supplier-wide drops,"fuels, metals, basic chemicals and plastics",45,0,96,3.7
+50%,supplier-wide drops,"machinery, vehicles, electronics",19,20,89,3.6
+50%,supplier-wide drops,other manufactures,20,-2,95,3.6
+50%,supplier-wide drops,all products,97,4,93,3.7
