@@ -1,3 +1,11 @@
 __pycache__/
 *.pyc
 .DS_Store
+raw/*.csv
+raw/*.json
+raw/*.txt
+raw/*.psv
+data/baci/baci_panel_supplier_uae_vs_rest_of_world.csv
+data/baci/baci_uae_imports_hs4_ALL_products_1995_2024.csv
+data/baci/baci_uae_imports_hs6_new_sectors_1995_2024.csv
+data/baci/baci_uae_imports_hs6_strategic_1995_2024.csv

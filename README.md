@@ -20,6 +20,7 @@ Question: when a major supplier of a product to the UAE is hit by an outside sup
 | `audit/` | Data quality and identification checks |
 | `charts/` | PNG charts 01-09 |
 | `scripts/` | Python used to clean and analyse the data |
+| `raw/` | Raw extracts as downloaded (gzipped). Run `python3 scripts/unpack_raw.py` once before re-running any script (it also unzips the .csv.gz data files) |
 
 Files ending in `.csv.gz` are gzip-compressed CSVs (`pd.read_csv` reads them directly).
 
