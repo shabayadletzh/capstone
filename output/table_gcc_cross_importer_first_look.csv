@@ -1,0 +1,37 @@
+case,hs4,shocked,pre_year,post_year,importer,imports_pre_musd,exposure_pre,loss_pct_of_pre,others_gain_pct_of_pre,total_change_pct
+"Japan quake 2011, cars",8703,JPN,2010,2011,ARE,6387.1,0.382,-6.3,18.4,12.1
+"Japan quake 2011, cars",8703,JPN,2010,2011,BHR,925.1,0.408,-6.8,10.9,4.1
+"Japan quake 2011, cars",8703,JPN,2010,2011,KWT,2714.6,0.343,-3.8,8.9,5.0
+"Japan quake 2011, cars",8703,JPN,2010,2011,OMN,3510.3,0.677,-11.4,5.7,-5.7
+"Japan quake 2011, cars",8703,JPN,2010,2011,QAT,1764.5,0.469,-20.7,1.5,-19.2
+"Japan quake 2011, cars",8703,JPN,2010,2011,SAU,10511.7,0.271,-6.0,25.4,19.4
+"Japan quake 2011, trucks",8704,JPN,2010,2011,ARE,926.6,0.508,1.1,17.0,18.2
+"Japan quake 2011, trucks",8704,JPN,2010,2011,BHR,90.3,0.552,-16.6,16.2,-0.4
+"Japan quake 2011, trucks",8704,JPN,2010,2011,KWT,295.2,0.104,11.8,6.8,18.6
+"Japan quake 2011, trucks",8704,JPN,2010,2011,OMN,652.2,0.289,-15.0,-10.8,-25.8
+"Japan quake 2011, trucks",8704,JPN,2010,2011,QAT,269.1,0.298,-7.3,-17.3,-24.6
+"Japan quake 2011, trucks",8704,JPN,2010,2011,SAU,2204.4,0.362,-1.1,6.1,5.0
+India wheat ban 2022,1001,IND,2021,2023,ARE,405.1,0.335,-32.8,68.6,35.7
+India wheat ban 2022,1001,IND,2021,2023,BHR,23.0,0.011,-1.0,76.2,75.2
+India wheat ban 2022,1001,IND,2021,2023,KWT,140.9,0.0,-0.0,35.9,35.8
+India wheat ban 2022,1001,IND,2021,2023,OMN,397.1,0.054,-5.4,-42.9,-48.3
+India wheat ban 2022,1001,IND,2021,2023,QAT,23.0,0.149,-14.9,52.1,37.2
+India wheat ban 2022,1001,IND,2021,2023,SAU,1593.1,0.0,-0.0,20.9,20.9
+"Ukraine war 2022, sunflower oil",1512,UKR,2021,2022,ARE,145.7,0.568,-10.1,38.5,28.4
+"Ukraine war 2022, sunflower oil",1512,UKR,2021,2022,BHR,9.8,0.095,-6.5,23.6,17.1
+"Ukraine war 2022, sunflower oil",1512,UKR,2021,2022,KWT,23.4,0.057,-3.7,18.9,15.2
+"Ukraine war 2022, sunflower oil",1512,UKR,2021,2022,OMN,60.4,0.349,-13.3,26.3,12.9
+"Ukraine war 2022, sunflower oil",1512,UKR,2021,2022,QAT,29.1,0.639,-28.1,69.2,41.1
+"Ukraine war 2022, sunflower oil",1512,UKR,2021,2022,SAU,211.4,0.522,-33.0,42.6,9.5
+Indonesia palm oil ban 2022,1511,IDN,2021,2022,ARE,328.9,0.563,5.8,18.2,24.0
+Indonesia palm oil ban 2022,1511,IDN,2021,2022,BHR,21.4,0.142,-3.5,85.8,82.4
+Indonesia palm oil ban 2022,1511,IDN,2021,2022,KWT,34.9,0.03,-2.9,62.2,59.2
+Indonesia palm oil ban 2022,1511,IDN,2021,2022,OMN,192.1,0.738,23.7,21.4,45.1
+Indonesia palm oil ban 2022,1511,IDN,2021,2022,QAT,29.2,0.066,-5.8,67.7,61.9
+Indonesia palm oil ban 2022,1511,IDN,2021,2022,SAU,696.1,0.402,3.4,36.5,39.9
+India onion ban 2023-24,0703,IND,2022,2024,ARE,177.8,0.422,-16.6,80.5,63.9
+India onion ban 2023-24,0703,IND,2022,2024,BHR,25.2,0.452,-16.0,44.4,28.4
+India onion ban 2023-24,0703,IND,2022,2024,KWT,63.8,0.253,-0.5,27.5,27.0
+India onion ban 2023-24,0703,IND,2022,2024,OMN,57.1,0.331,-22.2,-17.4,-39.6
+India onion ban 2023-24,0703,IND,2022,2024,QAT,45.4,0.528,-38.6,62.9,24.3
+India onion ban 2023-24,0703,IND,2022,2024,SAU,155.8,0.04,-3.2,-19.8,-23.0

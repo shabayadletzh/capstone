@@ -1,0 +1,36 @@
+== A. Placebo in time: is the shock-window drop unusual for this supplier and product? ==
+drop = log(avg monthly value in shock window / avg of the 12 months before). Placebo = the same statistic at every other start month 2010-2026 for the same pair, excluding windows that overlap the shock.
+                      case supplier  hs4 shock_start  window_months  drop_log  drop_pct  placebo_windows  share_of_placebos_as_bad_or_worse_pct  pre_trend_last6_vs_first6_pct
+         Japan quake, cars      JPN 8703     2011-03              3     -0.86     -58.0              167                                    1.8                            4.0
+   Thailand floods, trucks      THA 8704     2011-10              3     -0.80     -55.0              157                                   11.5                            4.0
+           India wheat ban      IND 1001     2022-09             12    -16.88    -100.0              114                                    0.0                           67.0
+    Indonesia palm oil ban      IDN 1511     2022-05              1     -0.32     -28.0              122                                   29.5                            9.0
+Ukraine war, sunflower oil      UKR 1512     2022-03             10     -0.37     -31.0               90                                   16.7                          -11.0
+           India onion ban      IND 0703     2023-12              5     -1.60     -80.0              135                                    0.7                          -48.0
+
+== B. Supply or demand? Shocked supplier exports to the UAE vs to the rest of the world, and total UAE imports of the product (BACI, log changes) ==
+                                       case supplier  hs4      years  to_uae_pct  to_rest_of_world_pct  to_other_gcc_pct  uae_imports_from_everyone_else_pct
+                          Japan quake, cars      JPN 8703 2010->2011         -17                    -5               -21                                  30
+                            India wheat ban      IND 1001 2021->2023         -98                   -97              -100                                 103
+                 Ukraine war, sunflower oil      UKR 1512 2021->2022         -18                   -12               -57                                  89
+                      Ukraine war, pig iron      UKR 7201 2021->2022         -96                   -57                34                                  87
+          Iran sanctions 2012, polyethylene      IRN 3901 2011->2012         -92                    14               -68                                  -6
+Iran sanctions 2018-19, semi-finished steel      IRN 7207 2018->2019         -92                   -27               -46                                  57
+                            India onion ban      IND 0703 2022->2024         -39                   -25               -52                                 139
+                     Indonesia palm oil ban      IDN 1511 2021->2022          10                     9                15                                  42
+
+== C. Is it volume or price? Value vs net weight change for the shocked supplier, same windows as A ==
+                      case  value_change_pct volume_measure  volume_change_pct
+         Japan quake, cars               -58          units                NaN
+   Thailand floods, trucks               -55          units                NaN
+           India wheat ban              -100     net weight             -100.0
+    Indonesia palm oil ban               -28     net weight              -39.0
+Ukraine war, sunflower oil               -31     net weight              -34.0
+           India onion ban               -80     net weight              -93.0
+
+== D. Balance check for the cross-importer design: does pre-shock exposure predict pre-shock growth of imports from other suppliers? ==
+                           case  importers  corr_exposure_vs_pre_growth
+         Japan quake 2011, cars          6                        -0.45
+           India wheat ban 2022          6                         0.52
+Ukraine war 2022, sunflower oil          6                         0.39
+        India onion ban 2023-24          6                        -0.81

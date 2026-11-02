@@ -1,0 +1,56 @@
+sector,hs4,product,imports_2023_musd,top1_2023,top1_share_2023,top2_2023,top2_share_2023,hhi_2019_23,hhi_1995_99,top1_2005,top1_2015,top1_switches,n_suppliers_2023
+Construction materials,6802,Worked stone & marble,362.0,CHN,0.247,ITA,0.181,1253,4248,ITA,CHN,8,88
+Construction materials,4407,Sawn wood,352.0,DEU,0.134,ROU,0.128,807,1807,CHL,ROU,14,82
+Construction materials,6907,Ceramic tiles (unglazed),350.0,IND,0.383,ITA,0.237,2294,4038,CHN,CHN,7,50
+Construction materials,4412,Plywood,212.0,CHN,0.677,IDN,0.098,6164,7543,IDN,CHN,3,58
+Construction materials,7604,Aluminium bars & profiles,128.0,SAU,0.289,OMN,0.222,1792,1733,SAU,OMN,10,74
+Construction materials,7005,Float glass,106.0,IND,0.243,CHN,0.139,1246,3025,USA,USA,8,40
+Construction materials,7610,Aluminium structures,101.0,CHN,0.406,NLD,0.104,1647,1382,SAU,CHN,13,76
+Construction materials,6910,Sanitary ware,79.0,CHN,0.475,IND,0.121,2700,1714,IND,CHN,7,62
+Construction materials,6810,Concrete articles,51.0,IND,0.212,CHN,0.204,1224,2850,SAU,ITA,20,66
+Construction materials,7007,Safety glass,49.0,CHN,0.406,IND,0.147,1847,1289,USA,CHN,13,71
+Construction materials,2515,Marble blocks,11.0,ITA,0.377,IND,0.227,2065,3145,ESP,ESP,8,30
+Construction materials,2523,Cement,10.0,KOR,0.332,FRA,0.231,2228,2664,IND,OMN,21,36
+Construction materials,7213,Steel wire rod,10.0,CHN,0.879,IND,0.065,5018,3693,TUR,CHN,14,21
+Energy & chemicals,3901,Polyethylene,1359.0,SAU,0.545,OMN,0.131,4258,3267,SAU,SAU,8,60
+Energy & chemicals,3926,Plastic articles,1058.0,CHN,0.321,USA,0.181,2090,933,CHN,CHN,5,149
+Energy & chemicals,3907,Polyesters & PET,692.0,CHN,0.342,SAU,0.186,1391,880,THA,KOR,18,82
+Energy & chemicals,2701,Coal,436.0,ZAF,0.246,MOZ,0.196,2773,5289,ZAF,ZAF,7,30
+Energy & chemicals,2902,Cyclic hydrocarbons,385.0,S19,0.293,SAU,0.255,2207,3039,IND,IRN,16,36
+Energy & chemicals,3904,PVC,329.0,SAU,0.286,USA,0.192,2210,1927,SAU,USA,10,47
+Energy & chemicals,3902,Polypropylene,283.0,SAU,0.485,OMN,0.141,3699,1725,SAU,SAU,6,54
+Energy & chemicals,2905,Alcohols incl. methanol,265.0,SAU,0.617,ZAF,0.08,3118,3415,SAU,SAU,1,52
+Energy & chemicals,2711,Natural gas & LPG,264.0,QAT,0.598,NGA,0.154,3298,6375,IRN,OMN,18,36
+Energy & chemicals,3903,Polystyrene,147.0,CHN,0.488,S19,0.126,2146,2059,SAU,S19,15,54
+Energy & chemicals,3105,Mixed fertilizers,68.0,KEN,0.482,ITA,0.115,2791,2720,CHN,RUS,12,44
+Energy & chemicals,3102,Nitrogen fertilizers,65.0,CHL,0.418,SWE,0.159,2855,2782,SWE,SWE,13,36
+Energy & chemicals,2814,Ammonia,2.0,IND,0.498,PAK,0.431,6478,3512,IND,IND,12,14
+Fresh food,0406,Cheese,492.0,SAU,0.2,BHR,0.174,879,1799,SAU,SAU,2,75
+Fresh food,0201,"Beef, fresh",478.0,PAK,0.364,AUS,0.26,2089,2588,AUS,PAK,8,38
+Fresh food,0204,Sheep & goat meat,445.0,AUS,0.433,KEN,0.192,2368,3643,AUS,AUS,0,47
+Fresh food,0202,"Beef, frozen",439.0,BRA,0.508,IND,0.278,3466,4980,IND,IND,1,48
+Fresh food,0805,Citrus,346.0,ZAF,0.538,EGY,0.181,2705,2510,ZAF,ZAF,3,69
+Fresh food,0808,Apples & pears,201.0,ZAF,0.295,NZL,0.102,1223,3159,USA,USA,6,65
+Fresh food,0302,"Fish, fresh",192.0,NOR,0.409,TUR,0.142,1921,2860,OMN,NOR,11,60
+Fresh food,0407,Eggs,171.0,TUR,0.664,OMN,0.138,3366,2463,IND,BRA,9,33
+Fresh food,0803,Bananas,158.0,ECU,0.628,IND,0.206,4235,6795,PHL,PHL,2,39
+Fresh food,0405,Butter,147.0,NZL,0.3,IND,0.264,1838,1946,NZL,NZL,6,61
+Fresh food,0401,Milk & cream,144.0,SAU,0.448,NZL,0.136,2556,3217,SAU,SAU,4,62
+Fresh food,2009,Fruit juices,142.0,SAU,0.378,THA,0.08,2432,2283,SAU,SAU,5,92
+Fresh food,0806,Grapes,135.0,IRN,0.211,IND,0.21,1294,2921,IRN,ZAF,16,50
+Fresh food,0303,"Fish, frozen",126.0,NOR,0.166,GHA,0.143,817,7128,MMR,MMR,15,63
+Fresh food,0701,Potatoes,82.0,EGY,0.273,PAK,0.204,1783,3465,SAU,EGY,16,55
+Fresh food,1507,Soybean oil,66.0,ARG,0.288,SAU,0.276,3133,3199,BRA,SAU,8,32
+Fresh food,0702,Tomatoes,52.0,IRN,0.32,JOR,0.139,2006,6100,JOR,JOR,7,59
+Fresh food,0104,Live sheep & goats,49.0,IRN,0.286,SOM,0.276,2341,5446,SOM,IND,10,15
+Fresh food,1517,Margarine,32.0,MYS,0.215,ESP,0.211,1499,5089,MYS,MYS,9,50
+Fresh food,1101,Wheat flour,30.0,TUR,0.236,ITA,0.128,2931,7701,ARG,IND,17,62
+Fresh food,0102,Live cattle,4.0,SOM,0.874,IND,0.041,4319,5686,SOM,SOM,13,25
+Medical supplies,9021,Orthopaedic & implants,214.0,USA,0.288,KOR,0.109,1418,1636,USA,USA,8,80
+Medical supplies,9022,X-ray equipment,190.0,USA,0.222,CHN,0.189,1378,1696,USA,DEU,15,59
+Medical supplies,6307,Textile articles incl. masks,117.0,CHN,0.376,IND,0.22,3266,1992,CHN,CHN,8,121
+Medical supplies,3006,Pharma goods n.e.s.,95.0,DEU,0.213,USA,0.177,1087,2055,DEU,USA,12,70
+Medical supplies,9019,Therapy & respiration apparatus,81.0,CHN,0.431,AUS,0.154,1731,1579,USA,USA,9,70
+Medical supplies,3005,Bandages & dressings,75.0,CHN,0.188,USA,0.162,1104,1773,USA,GBR,12,59
+Medical supplies,4015,Rubber gloves,39.0,CHN,0.313,THA,0.229,3181,2420,MYS,MYS,7,83
+Medical supplies,3822,Diagnostic reagents,1.0,ARG,0.492,LBN,0.441,3704,2508,USA,DEU,12,5

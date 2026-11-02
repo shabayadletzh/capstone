@@ -1,0 +1,9 @@
+case,supplier,hs4,years,to_uae_pct,to_rest_of_world_pct,to_other_gcc_pct,uae_imports_from_everyone_else_pct
+"Japan quake, cars",JPN,8703,2010->2011,-17,-5,-21,30
+India wheat ban,IND,1001,2021->2023,-98,-97,-100,103
+"Ukraine war, sunflower oil",UKR,1512,2021->2022,-18,-12,-57,89
+"Ukraine war, pig iron",UKR,7201,2021->2022,-96,-57,34,87
+"Iran sanctions 2012, polyethylene",IRN,3901,2011->2012,-92,14,-68,-6
+"Iran sanctions 2018-19, semi-finished steel",IRN,7207,2018->2019,-92,-27,-46,57
+India onion ban,IND,0703,2022->2024,-39,-25,-52,139
+Indonesia palm oil ban,IDN,1511,2021->2022,10,9,15,42

@@ -1,0 +1,60 @@
+sector,hs4,product,imports_2023_musd,top1_2023,top1_share_2023,top2_2023,hhi_2023,hhi_1995_99,hhi_2019_23,top1_1995,top1_2005,top1_2015,top1_switches_1995_2024,n_suppliers_2023
+Aerospace,8411,"Turbojets, turbines (gas)",7024.0,USA,0.524,GBR,3313,2407,3083,USA,HKG,USA,8,83
+Aerospace,8803,Aircraft parts,3328.0,USA,0.541,FRA,3174,2726,3452,USA,GBR,USA,8,116
+Aerospace,8802,"Aircraft, helicopters, spacecraft",476.0,HUN,0.498,FRA,2732,6492,4192,USA,USA,DEU,13,44
+Defense & military,8906,Warships & other vessels,773.0,SAU,0.949,GBR,9010,3677,8567,NLD,TUR,ITA,20,34
+Defense & military,9305,Parts of arms,66.0,AUS,0.733,KOR,5583,4403,4780,GBR,BGR,KOR,16,35
+Defense & military,9306,"Bombs, missiles, ammunition",60.0,USA,0.439,KOR,3293,6460,2488,USA,FRA,USA,18,36
+Defense & military,8710,Tanks & armoured vehicles,28.0,USA,0.778,THA,6171,6025,4018,SVK,FRA,GBR,21,10
+Defense & military,9301,Military weapons,8.0,KOR,0.542,USA,3770,9564,4454,CHE,USA,USA,15,9
+Food staples,0207,Poultry meat,1124.0,BRA,0.766,USA,5948,2384,5311,DNK,BRA,BRA,3,45
+Food staples,0402,Milk powder,1015.0,NZL,0.386,NLD,1934,4653,2017,NLD,NLD,NZL,1,66
+Food staples,1701,Sugar,711.0,BRA,0.715,IND,5464,4143,5038,DEU,BRA,BRA,3,72
+Food staples,1006,Rice,630.0,IND,0.735,PAK,5683,4865,5337,THA,PAK,IND,6,60
+Food staples,1001,Wheat,550.0,RUS,0.392,CAN,2385,6731,2565,IND,IND,RUS,14,33
+Food staples,1511,Palm oil,372.0,IDN,0.514,MYS,3684,7629,4087,MYS,MYS,IDN,1,34
+Food staples,0902,Tea,237.0,IND,0.369,KEN,2543,3982,2394,IND,LKA,LKA,7,88
+Food staples,1005,Maize,195.0,ARG,0.41,BRA,2261,6102,2756,USA,ARG,ARG,7,52
+Food staples,0703,Onions & garlic,193.0,IND,0.487,CHN,3434,3227,2768,IND,IND,CHN,11,60
+Food staples,1512,Sunflower oil,135.0,UKR,0.496,TUR,3052,2833,4183,USA,ARG,UKR,7,56
+ICT & electronics,8525,Transmitters & cameras,36565.0,CHN,0.757,IND,5910,2108,5037,JPN,FIN,CHN,10,138
+ICT & electronics,8471,Computers,9355.0,CHN,0.794,USA,6342,1357,6173,SGP,CHN,CHN,5,129
+ICT & electronics,8473,Computer parts,3840.0,CHN,0.415,JPN,2162,1458,2478,SGP,GBR,CHN,8,132
+ICT & electronics,8528,Monitors & TVs,1437.0,CHN,0.322,EGY,1959,1740,1967,MYS,CHN,CHN,6,113
+ICT & electronics,8517,Telephones & telecom equipment,793.0,CHN,0.642,VNM,4432,1008,4980,JPN,CHN,CHN,8,99
+ICT & electronics,8541,"Diodes, transistors, solar cells",531.0,CHN,0.941,NLD,8853,1809,7681,IND,PHL,CHN,12,77
+ICT & electronics,8542,Integrated circuits,436.0,VNM,0.323,CHN,2091,1790,2266,SGP,GBR,CHN,19,99
+ICT & electronics,8526,Radar & navigation,155.0,USA,0.204,LTU,1052,1938,1485,USA,DEU,FRA,21,76
+Machinery & electrical equipment,8481,Valves & taps,2174.0,USA,0.209,CHN,1167,1970,1172,ITA,ITA,ITA,6,123
+Machinery & electrical equipment,8544,Insulated wire & cable,1769.0,CHN,0.209,SAU,1109,1045,1196,SAU,SAU,SAU,9,134
+Machinery & electrical equipment,8415,Air conditioners,1649.0,CHN,0.47,THA,2714,1417,2404,USA,USA,CHN,13,89
+Machinery & electrical equipment,8429,"Bulldozers, excavators",1561.0,CHN,0.298,JPN,1884,1899,1896,JPN,JPN,JPN,2,63
+Machinery & electrical equipment,8504,Transformers,1284.0,CHN,0.39,DEU,1770,803,1972,GBR,DEU,CHN,13,132
+Machinery & electrical equipment,8413,Pumps,1201.0,USA,0.236,CHN,1076,1168,1037,DEU,CHN,USA,10,125
+Machinery & electrical equipment,8502,Generating sets,725.0,GBR,0.219,CHN,1439,2350,1440,USA,CHN,USA,13,77
+Machinery & electrical equipment,8507,Batteries,718.0,CHN,0.361,IND,1734,1027,1469,OMN,IDN,KOR,6,93
+Machinery & electrical equipment,8406,Steam turbines,38.0,IND,0.239,GBR,1532,2640,1384,GBR,JPN,KOR,23,41
+Medical technology,9018,Medical instruments,822.0,USA,0.223,DEU,965,1552,1079,USA,USA,USA,1,122
+Metals & basic materials,7403,Refined copper,3418.0,COG,0.608,COD,4743,5940,4015,OMN,IND,ZMB,14,61
+Metals & basic materials,7208,Hot-rolled steel flat,2578.0,CHN,0.536,IND,3323,1388,2418,GBR,UKR,CHN,12,54
+Metals & basic materials,7304,Seamless steel tubes,1801.0,CHN,0.388,JPN,1918,1595,1696,ITA,JPN,CHN,4,86
+Metals & basic materials,2818,Alumina,1172.0,AUS,0.756,VNM,5898,3888,5299,FRA,AUS,AUS,11,34
+Metals & basic materials,2601,Iron ore,974.0,BHR,0.454,OMN,3349,4615,3039,BRA,CAN,BRA,15,22
+Metals & basic materials,7308,Steel structures,665.0,BHR,0.338,CHN,2115,1161,1792,SAU,SAU,CHN,18,88
+Metals & basic materials,7210,Coated steel flat,451.0,CHN,0.648,IND,4459,1267,3238,JPN,IND,IND,6,51
+Metals & basic materials,7214,Steel bars (rebar),375.0,OMN,0.95,EGY,9027,7915,8516,TUR,TUR,TUR,2,44
+Metals & basic materials,7306,Other steel tubes,373.0,CHN,0.312,IND,1935,1034,1976,JPN,JPN,CHN,22,72
+Metals & basic materials,7601,Unwrought aluminium,58.0,QAT,0.365,OMN,2599,3401,4292,IND,IRN,OMN,13,37
+Pharmaceuticals,3004,Medicaments,4285.0,USA,0.196,DEU,845,1318,760,GBR,GBR,USA,8,101
+Pharmaceuticals,3002,Vaccines & blood products,1129.0,USA,0.244,DEU,1351,1784,1483,GBR,FRA,DEU,10,75
+Precious metals & stones,7108,Gold,75498.0,TUR,0.126,GIN,548,4287,509,USA,CHE,IND,20,118
+Precious metals & stones,7102,Diamonds,19235.0,IND,0.234,AGO,1207,3236,1207,BEL,IND,IND,8,52
+Precious metals & stones,7113,Jewellery,16822.0,IND,0.322,TUR,1469,1891,2029,ITA,IND,IND,3,117
+Refined fuels,2710,Refined petroleum,17650.0,IRQ,0.234,IND,1315,2355,1311,ITA,ITA,ITA,16,132
+Vehicles & ships,8703,Passenger cars,24737.0,JPN,0.261,USA,1338,2347,1857,JPN,JPN,JPN,1,98
+Vehicles & ships,8708,Vehicle parts,4163.0,JPN,0.325,CHN,1565,1308,1593,JPN,JPN,JPN,1,168
+Vehicles & ships,8704,Trucks,2659.0,THA,0.293,JPN,1711,2880,1817,JPN,JPN,JPN,2,67
+Vehicles & ships,8905,Drilling platforms & special vessels,1959.0,SAU,0.587,CHN,4202,7467,3863,NLD,SGP,IND,18,22
+Vehicles & ships,4011,Tyres,1187.0,CHN,0.238,JPN,1263,1503,1789,JPN,JPN,CHN,5,78
+Vehicles & ships,8901,Cargo & passenger ships,1083.0,SAU,0.489,IND,2817,7223,2491,FIN,CHN,SAU,18,35
+Vehicles & ships,8701,Tractors,395.0,DEU,0.257,SWE,1318,3501,1121,USA,DEU,DEU,9,53

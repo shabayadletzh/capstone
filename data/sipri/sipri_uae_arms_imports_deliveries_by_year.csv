@@ -1,0 +1,910 @@
+SIPRI AT Database ID,Supplier,Recipient,Designation,Description,Armament category,Order date,Order date is estimate,Deliveries in the Year Range,Deliveries in the Year Range is estimate,Delivery year,Delivery year is estimate,Status,SIPRI estimate,TIV deal unit,TIV delivery values,Local production
+40075,United States,United Arab Emirates,AGM-114L Hellfire,anti-tank missile,Missiles,2009,No,631.0,Yes,2012.0,Yes,New,0.07,0.07,44.17,No
+40075,United States,United Arab Emirates,AGM-114L Hellfire,anti-tank missile,Missiles,2009,No,631.0,Yes,2013.0,Yes,New,0.07,0.07,44.17,No
+55972,Turkiye,United Arab Emirates,CIRIT,air-to-surface missile,Missiles,2013,Yes,500.0,No,2013.0,No,New,0.01,0.01,5.0,No
+55972,Turkiye,United Arab Emirates,CIRIT,air-to-surface missile,Missiles,2013,Yes,500.0,No,2014.0,No,New,0.01,0.01,5.0,No
+55972,Turkiye,United Arab Emirates,CIRIT,air-to-surface missile,Missiles,2013,Yes,1000.0,Yes,2015.0,Yes,New,0.01,0.01,10.0,No
+58259,Canada,United Arab Emirates,aircraft engine 1001-2000,aircraft engine,Engines,2014,No,4.0,Yes,2015.0,No,New,0.5,0.5,2.0,No
+58259,Canada,United Arab Emirates,aircraft engine 1001-2000,aircraft engine,Engines,2014,No,12.0,Yes,2016.0,No,New,0.5,0.5,6.0,No
+58259,Canada,United Arab Emirates,aircraft engine 1001-2000,aircraft engine,Engines,2014,No,8.0,Yes,2017.0,No,New,0.5,0.5,4.0,No
+15804,France,United Arab Emirates,SA-342 Gazelle,light helicopter,Aircraft,1978,Yes,6.0,Yes,1979.0,No,New,0.85,0.85,5.1,No
+15804,France,United Arab Emirates,SA-342 Gazelle,light helicopter,Aircraft,1978,Yes,6.0,Yes,1980.0,No,New,0.85,0.85,5.1,No
+61519,Germany,United Arab Emirates,ship engine 2501-4000,ship engine,Engines,2013,No,8.0,No,2017.0,No,New,1.2,1.2,9.6,No
+36606,United States,United Arab Emirates,Paveway,guided bomb,Missiles,2004,No,50.0,Yes,2005.0,Yes,New,0.02,0.02,1.0,No
+36579,Switzerland,United Arab Emirates,GDF 35mm,anti-aircraft gun,Air-defence systems,1983,No,30.0,Yes,1984.0,Yes,New,0.75,0.75,22.5,No
+37083,South Africa,United Arab Emirates,RG-31 Nyala,armoured personnel carrier,Armoured vehicles,2007,No,12.0,Yes,2009.0,Yes,New,0.18,0.18,2.16,No
+37083,South Africa,United Arab Emirates,RG-31 Nyala,armoured personnel carrier,Armoured vehicles,2007,No,12.0,Yes,2010.0,No,New,0.18,0.18,2.16,No
+37083,South Africa,United Arab Emirates,RG-31 Nyala,armoured personnel carrier,Armoured vehicles,2007,No,12.0,Yes,2011.0,Yes,New,0.18,0.18,2.16,No
+37083,South Africa,United Arab Emirates,RG-31 Nyala,armoured personnel carrier,Armoured vehicles,2007,No,12.0,Yes,2012.0,Yes,New,0.18,0.18,2.16,No
+37153,Italy,United Arab Emirates,Compact 76mm,naval gun,Naval weapons,1977,Yes,2.0,No,1980.0,No,New,2.5,2.5,5.0,No
+37153,Italy,United Arab Emirates,Compact 76mm,naval gun,Naval weapons,1977,Yes,4.0,No,1981.0,No,New,2.5,2.5,10.0,No
+37217,Italy,United Arab Emirates,Super Rapid 76mm,naval gun,Naval weapons,2003,Yes,1.0,No,2012.0,No,New,2.75,2.75,2.75,No
+37217,Italy,United Arab Emirates,Super Rapid 76mm,naval gun,Naval weapons,2003,Yes,2.0,No,2013.0,No,New,2.75,2.75,5.5,No
+37217,Italy,United Arab Emirates,Super Rapid 76mm,naval gun,Naval weapons,2003,Yes,1.0,No,2015.0,No,New,2.75,2.75,2.75,No
+37217,Italy,United Arab Emirates,Super Rapid 76mm,naval gun,Naval weapons,2003,Yes,2.0,No,2016.0,No,New,2.75,2.75,5.5,No
+37216,Italy,United Arab Emirates,Super Rapid 76mm,naval gun,Naval weapons,1986,No,3.0,No,1990.0,No,New,2.75,2.75,8.25,No
+37216,Italy,United Arab Emirates,Super Rapid 76mm,naval gun,Naval weapons,1986,No,1.0,No,1991.0,No,New,2.75,2.75,2.75,No
+37218,Italy,United Arab Emirates,Compact-40,naval gun,Naval weapons,1977,Yes,2.0,No,1980.0,No,New,2.5,2.5,5.0,No
+37218,Italy,United Arab Emirates,Compact-40,naval gun,Naval weapons,1977,Yes,4.0,No,1981.0,No,New,2.5,2.5,10.0,No
+37344,United Kingdom,United Arab Emirates,Viper (1200),turbojet,Engines,1984,No,2.0,No,1984.0,No,New,0.4,0.4,0.8,No
+61460,Spain,United Arab Emirates,C-295 -,transport aircraft,Aircraft,2017,No,5.0,Yes,2019.0,No,New,12.5,12.5,62.5,No
+37729,United States,United Arab Emirates,AGM-114L Hellfire,anti-tank missile,Missiles,2002,Yes,240.0,Yes,2005.0,Yes,New,0.07,0.07,16.8,No
+38992,United States,United Arab Emirates,S-70L Black Hawk,transport helicopter,Aircraft,2007,No,10.0,No,2008.0,No,New,7.25,7.25,72.5,No
+66982,Italy,United Arab Emirates,Orion RTN-30X,fire-control radar,Sensors,2021,Yes,1.0,No,2025.0,,New,4.5,4.5,4.5,No
+3831,United States,United Arab Emirates,C-130H Hercules,transport aircraft,Aircraft,1982,Yes,1.0,No,1983.0,No,New,28.0,28.0,28.0,No
+64492,Italy,United Arab Emirates,Kronos,multi-function radar,Sensors,2021,No,1.0,No,2025.0,,New,10.0,10.0,10.0,No
+66983,Italy,United Arab Emirates,DART-76,guided shell,Missiles,2021,Yes,100.0,Yes,2025.0,Yes,New,0.02,0.02,2.0,No
+65388,Israel,United Arab Emirates,SPYDER-MR,surface-to-air missile system,Air-defence systems,2022,No,2.0,Yes,2022.0,,New,45.0,45.0,90.0,No
+56161,France,United Arab Emirates,Helios-2,surveillance satellite,Satellites,2015,No,1.0,No,2020.0,No,New,50.0,50.0,50.0,No
+52231,France,United Arab Emirates,CAPTAS-2,anti-submarine sonar,Sensors,2009,Yes,1.0,No,2013.0,No,New,9.0,9.0,9.0,No
+62230,South Africa,United Arab Emirates,Seeker-400,(armed) reconnaissance drone,Aircraft,2018,No,3.0,Yes,2020.0,Yes,New,1.0,1.0,3.0,No
+62230,South Africa,United Arab Emirates,Seeker-400,(armed) reconnaissance drone,Aircraft,2018,No,3.0,Yes,2021.0,Yes,New,1.0,1.0,3.0,No
+62142,South Africa,United Arab Emirates,Seeker,reconnaissance drone,Aircraft,2017,No,3.0,Yes,2020.0,Yes,New,0.2,0.2,0.6,No
+65171,Germany,United Arab Emirates,BR-710 (7600),turbofan,Engines,2021,No,4.0,,2024.0,,New,2.5,2.5,10.0,No
+61446,France,United Arab Emirates,Gowind-2500 -,frigate,Ships,2019,No,1.0,,2024.0,,New,211.0,211.0,211.0,No
+61446,France,United Arab Emirates,Gowind-2500 -,frigate,Ships,2019,No,1.0,No,2023.0,No,New,211.0,211.0,211.0,No
+62710,France,United Arab Emirates,MICA,long-range air-to-air missile,Missiles,2018,Yes,25.0,Yes,2023.0,Yes,New,0.4,0.4,10.0,No
+62710,France,United Arab Emirates,MICA,long-range air-to-air missile,Missiles,2018,Yes,25.0,Yes,2024.0,Yes,New,0.4,0.4,10.0,No
+53611,United Kingdom,United Arab Emirates,Trent-700 (31000),turbofan,Engines,2008,No,6.0,No,2013.0,No,New,6.0,6.0,36.0,No
+53613,United Kingdom,United Arab Emirates,Air refuel system,air refuel system,Other,2008,No,3.0,No,2013.0,No,New,10.0,10.0,30.0,No
+31914,France,United Arab Emirates,A-330 MRTT -,tanker/transport aircraft,Aircraft,2008,No,3.0,No,2013.0,No,New,98.0,98.0,294.0,No
+64995,United Kingdom,United Arab Emirates,Trent-700 (31000),turbofan,Engines,2021,No,2.0,No,2024.0,,New,6.0,6.0,12.0,No
+64995,United Kingdom,United Arab Emirates,Trent-700 (31000),turbofan,Engines,2021,No,2.0,,2025.0,,New,6.0,6.0,12.0,No
+64996,United Kingdom,United Arab Emirates,Air refuel system,air refuel system,Other,2021,No,1.0,No,2024.0,,New,10.0,10.0,10.0,No
+64996,United Kingdom,United Arab Emirates,Air refuel system,air refuel system,Other,2021,No,1.0,,2025.0,,New,10.0,10.0,10.0,No
+60744,Italy,United Arab Emirates,Marte-2,anti-ship missile,Missiles,2017,No,24.0,Yes,2018.0,Yes,New,0.4,0.4,9.6,No
+60744,Italy,United Arab Emirates,Marte-2,anti-ship missile,Missiles,2017,No,24.0,Yes,2019.0,Yes,New,0.4,0.4,9.6,No
+4810,France,United Arab Emirates,Mirage-2000,fighter/ground-attack aircraft,Aircraft,1984,No,3.0,No,1989.0,No,New,22.0,22.0,66.0,No
+4810,France,United Arab Emirates,Mirage-2000,fighter/ground-attack aircraft,Aircraft,1984,No,13.0,No,1990.0,No,New,22.0,22.0,286.0,No
+4810,France,United Arab Emirates,Mirage-2000,fighter/ground-attack aircraft,Aircraft,1984,No,2.0,No,1991.0,No,New,22.0,22.0,44.0,No
+4101,France,United Arab Emirates,Mirage-2000,fighter/ground-attack aircraft,Aircraft,1983,No,18.0,Yes,1989.0,No,New,22.0,22.0,396.0,No
+65140,France,United Arab Emirates,M-53 (7500),turbofan,Engines,1998,No,2.0,Yes,2003.0,Yes,New,1.75,1.75,3.5,No
+65140,France,United Arab Emirates,M-53 (7500),turbofan,Engines,1998,No,3.0,Yes,2004.0,Yes,New,1.75,1.75,5.25,No
+65140,France,United Arab Emirates,M-53 (7500),turbofan,Engines,1998,No,2.0,Yes,2005.0,Yes,New,1.75,1.75,3.5,No
+65140,France,United Arab Emirates,M-53 (7500),turbofan,Engines,1998,No,3.0,Yes,2006.0,Yes,New,1.75,1.75,5.25,No
+65140,France,United Arab Emirates,M-53 (7500),turbofan,Engines,1998,No,2.0,Yes,2007.0,Yes,New,1.75,1.75,3.5,No
+25743,France,United Arab Emirates,Mirage-2000-5-2,fighter/ground-attack aircraft,Aircraft,1998,No,12.0,Yes,2003.0,No,New,37.5,37.5,450.0,No
+25743,France,United Arab Emirates,Mirage-2000-5-2,fighter/ground-attack aircraft,Aircraft,1998,No,16.0,Yes,2004.0,No,New,37.5,37.5,600.0,No
+25743,France,United Arab Emirates,Mirage-2000-5-2,fighter/ground-attack aircraft,Aircraft,1998,No,16.0,Yes,2005.0,No,New,37.5,37.5,600.0,No
+25743,France,United Arab Emirates,Mirage-2000-5-2,fighter/ground-attack aircraft,Aircraft,1998,No,16.0,Yes,2006.0,No,New,37.5,37.5,600.0,No
+25743,France,United Arab Emirates,Mirage-2000-5-2,fighter/ground-attack aircraft,Aircraft,1998,No,2.0,Yes,2007.0,No,New,37.5,37.5,75.0,No
+57324,South Africa,United Arab Emirates,Mamba AV,armoured personnel carrier,Armoured vehicles,2013,No,28.0,No,2013.0,No,New,0.15,0.15,4.2,No
+57324,South Africa,United Arab Emirates,Mamba AV,armoured personnel carrier,Armoured vehicles,2013,No,18.0,Yes,2014.0,Yes,New,0.15,0.15,2.7,No
+57324,South Africa,United Arab Emirates,Mamba AV,armoured personnel carrier,Armoured vehicles,2013,No,10.0,Yes,2015.0,Yes,New,0.15,0.15,1.5,No
+65145,France,United Arab Emirates,M-53 (7500),turbofan,Engines,1983,No,3.0,Yes,1989.0,Yes,New,1.75,1.75,5.25,No
+65145,France,United Arab Emirates,M-53 (7500),turbofan,Engines,1983,No,2.0,Yes,1990.0,Yes,New,1.75,1.75,3.5,No
+65145,France,United Arab Emirates,M-53 (7500),turbofan,Engines,1983,No,2.0,Yes,1991.0,Yes,New,1.75,1.75,3.5,No
+65052,South Korea,United Arab Emirates,Cheongung MI,surface-to-air missile,Missiles,2022,No,200.0,Yes,2024.0,,New,0.6,0.6,120.0,No
+65052,South Korea,United Arab Emirates,Cheongung MI,surface-to-air missile,Missiles,2022,No,200.0,Yes,2025.0,Yes,New,0.6,0.6,120.0,No
+64520,South Africa,United Arab Emirates,RG-31 Nyala,armoured personnel carrier,Armoured vehicles,2019,No,10.0,Yes,2020.0,Yes,New,0.18,0.18,1.8,No
+64520,South Africa,United Arab Emirates,RG-31 Nyala,armoured personnel carrier,Armoured vehicles,2019,No,23.0,Yes,2021.0,Yes,New,0.18,0.18,4.14,No
+53904,South Africa,United Arab Emirates,RG-31 Nyala,armoured personnel carrier,Armoured vehicles,2011,No,12.0,Yes,2013.0,No,New,0.18,0.18,2.16,No
+53904,South Africa,United Arab Emirates,RG-31 Nyala,armoured personnel carrier,Armoured vehicles,2011,No,26.0,Yes,2014.0,No,New,0.18,0.18,4.68,No
+53904,South Africa,United Arab Emirates,RG-31 Nyala,armoured personnel carrier,Armoured vehicles,2011,No,34.0,Yes,2015.0,Yes,New,0.18,0.18,6.12,No
+59359,South Africa,United Arab Emirates,N-35 -,armoured personnel carrier,Armoured vehicles,2015,No,28.0,Yes,2016.0,No,New,0.37,0.37,10.36,No
+59359,South Africa,United Arab Emirates,N-35 -,armoured personnel carrier,Armoured vehicles,2015,No,30.0,Yes,2017.0,No,New,0.37,0.37,11.1,No
+59359,South Africa,United Arab Emirates,N-35 -,armoured personnel carrier,Armoured vehicles,2015,No,30.0,No,2018.0,No,New,0.37,0.37,11.1,No
+59359,South Africa,United Arab Emirates,N-35 -,armoured personnel carrier,Armoured vehicles,2015,No,12.0,Yes,2019.0,No,New,0.37,0.37,4.44,No
+59406,South Africa,United Arab Emirates,RG-31 Nyala,armoured personnel carrier,Armoured vehicles,2015,No,24.0,Yes,2016.0,No,New,0.18,0.18,4.32,No
+37084,Germany,United Arab Emirates,vehicle engine 1101-1500,vehicle engine,Engines,1993,No,2.0,No,2005.0,No,New,0.3,0.3,0.6,No
+37084,Germany,United Arab Emirates,vehicle engine 1101-1500,vehicle engine,Engines,1993,No,5.0,No,2004.0,No,New,0.3,0.3,1.5,No
+37084,Germany,United Arab Emirates,vehicle engine 1101-1500,vehicle engine,Engines,1993,No,10.0,Yes,2003.0,No,New,0.3,0.3,3.0,No
+37084,Germany,United Arab Emirates,vehicle engine 1101-1500,vehicle engine,Engines,1993,No,34.0,Yes,2002.0,No,New,0.3,0.3,10.2,No
+37084,Germany,United Arab Emirates,vehicle engine 1101-1500,vehicle engine,Engines,1993,No,35.0,Yes,2001.0,No,New,0.3,0.3,10.5,No
+37084,Germany,United Arab Emirates,vehicle engine 1101-1500,vehicle engine,Engines,1993,No,35.0,Yes,2000.0,No,New,0.3,0.3,10.5,No
+37084,Germany,United Arab Emirates,vehicle engine 1101-1500,vehicle engine,Engines,1993,No,65.0,Yes,1999.0,No,New,0.3,0.3,19.5,No
+37084,Germany,United Arab Emirates,vehicle engine 1101-1500,vehicle engine,Engines,1993,No,67.0,Yes,1998.0,No,New,0.3,0.3,20.1,No
+37084,Germany,United Arab Emirates,vehicle engine 1101-1500,vehicle engine,Engines,1993,No,68.0,No,1997.0,No,New,0.3,0.3,20.4,No
+37084,Germany,United Arab Emirates,vehicle engine 1101-1500,vehicle engine,Engines,1993,No,58.0,No,1996.0,No,New,0.3,0.3,17.4,No
+37084,Germany,United Arab Emirates,vehicle engine 1101-1500,vehicle engine,Engines,1993,No,25.0,No,1995.0,No,New,0.3,0.3,7.5,No
+37084,Germany,United Arab Emirates,vehicle engine 1101-1500,vehicle engine,Engines,1993,No,5.0,No,1994.0,No,New,0.3,0.3,1.5,No
+37084,Germany,United Arab Emirates,vehicle engine 1101-1500,vehicle engine,Engines,1993,No,9.0,Yes,2006.0,Yes,New,0.3,0.3,2.7,No
+37084,Germany,United Arab Emirates,vehicle engine 1101-1500,vehicle engine,Engines,1993,No,1.0,No,2008.0,No,New,0.3,0.3,0.3,No
+37084,Germany,United Arab Emirates,vehicle engine 1101-1500,vehicle engine,Engines,1993,No,10.0,Yes,2009.0,No,New,0.3,0.3,3.0,No
+37084,Germany,United Arab Emirates,vehicle engine 1101-1500,vehicle engine,Engines,1993,No,7.0,Yes,2010.0,Yes,New,0.3,0.3,2.1,No
+63294,France,United Arab Emirates,SmartGlider,guided glide bomb,Missiles,2021,Yes,,,,,New,0.0,0.0,,No
+59410,Germany,United Arab Emirates,BR-710 (7600),turbofan,Engines,2015,No,4.0,Yes,2020.0,No,New,2.5,2.5,10.0,No
+62802,Australia,United Arab Emirates,R-400S IFV,infantry fighting vehicle turret,Other,2019,No,50.0,Yes,2019.0,Yes,New,0.8,0.8,40.0,No
+62802,Australia,United Arab Emirates,R-400S IFV,infantry fighting vehicle turret,Other,2019,No,25.0,Yes,2024.0,Yes,New,0.8,0.8,20.0,No
+62802,Australia,United Arab Emirates,R-400S IFV,infantry fighting vehicle turret,Other,2019,No,25.0,Yes,2023.0,Yes,New,0.8,0.8,20.0,No
+63067,South Africa,United Arab Emirates,Sejeel,guided bomb,Missiles,2015,No,600.0,Yes,2021.0,Yes,New,0.02,0.02,12.0,Yes
+63067,South Africa,United Arab Emirates,Sejeel,guided bomb,Missiles,2015,No,600.0,Yes,2019.0,Yes,New,0.02,0.02,12.0,Yes
+63067,South Africa,United Arab Emirates,Sejeel,guided bomb,Missiles,2015,No,600.0,Yes,2020.0,Yes,New,0.02,0.02,12.0,Yes
+63067,South Africa,United Arab Emirates,Sejeel,guided bomb,Missiles,2015,No,600.0,Yes,2018.0,Yes,New,0.02,0.02,12.0,Yes
+63067,South Africa,United Arab Emirates,Sejeel,guided bomb,Missiles,2015,No,500.0,Yes,2017.0,Yes,New,0.02,0.02,10.0,Yes
+63067,South Africa,United Arab Emirates,Sejeel,guided bomb,Missiles,2015,No,600.0,Yes,2022.0,No,New,0.02,0.02,12.0,Yes
+63067,South Africa,United Arab Emirates,Sejeel,guided bomb,Missiles,2015,No,500.0,Yes,2023.0,No,New,0.02,0.02,10.0,Yes
+64433,Serbia,United Arab Emirates,LRSVM Morava,multiple rocket launcher,Artillery,2015,Yes,5.0,Yes,2018.0,Yes,New,0.4,0.4,2.0,No
+64433,Serbia,United Arab Emirates,LRSVM Morava,multiple rocket launcher,Artillery,2015,Yes,26.0,Yes,2017.0,No,New,0.4,0.4,10.4,No
+23601,Austria,United Arab Emirates,Camcopter S-100,reconnaissance drone,Aircraft,2006,No,15.0,Yes,2008.0,No,New,0.2,0.2,3.0,Yes
+23601,Austria,United Arab Emirates,Camcopter S-100,reconnaissance drone,Aircraft,2006,No,12.0,Yes,2007.0,No,New,0.2,0.2,2.4,Yes
+23601,Austria,United Arab Emirates,Camcopter S-100,reconnaissance drone,Aircraft,2006,No,15.0,Yes,2009.0,No,New,0.2,0.2,3.0,Yes
+23601,Austria,United Arab Emirates,Camcopter S-100,reconnaissance drone,Aircraft,2006,No,8.0,Yes,2006.0,No,New,0.2,0.2,1.6,Yes
+23601,Austria,United Arab Emirates,Camcopter S-100,reconnaissance drone,Aircraft,2006,No,10.0,Yes,2010.0,No,New,0.2,0.2,2.0,Yes
+56865,United States,United Arab Emirates,Archangel -,ground-attack aircraft,Aircraft,2014,No,8.0,Yes,2017.0,No,New,4.9,4.9,39.2,Yes
+56865,United States,United Arab Emirates,Archangel -,ground-attack aircraft,Aircraft,2014,No,12.0,Yes,2016.0,No,New,4.9,4.9,58.8,Yes
+56865,United States,United Arab Emirates,Archangel -,ground-attack aircraft,Aircraft,2014,No,4.0,No,2015.0,No,New,4.9,4.9,19.6,Yes
+62519,United States,United Arab Emirates,ESSM Block-1,surface-to-air missile,Missiles,2016,No,48.0,Yes,2018.0,Yes,New,0.4,0.4,19.2,No
+62519,United States,United Arab Emirates,ESSM Block-1,surface-to-air missile,Missiles,2016,No,48.0,Yes,2019.0,Yes,New,0.4,0.4,19.2,No
+58570,South Africa,United Arab Emirates,Al Tariq,guided bomb,Missiles,2015,No,600.0,Yes,2024.0,,New,0.06,0.06,36.0,Yes
+58570,South Africa,United Arab Emirates,Al Tariq,guided bomb,Missiles,2015,No,600.0,No,2023.0,,New,0.06,0.06,36.0,Yes
+58570,South Africa,United Arab Emirates,Al Tariq,guided bomb,Missiles,2015,No,600.0,Yes,2022.0,No,New,0.06,0.06,36.0,Yes
+58570,South Africa,United Arab Emirates,Al Tariq,guided bomb,Missiles,2015,No,600.0,Yes,2021.0,No,New,0.06,0.06,36.0,Yes
+58570,South Africa,United Arab Emirates,Al Tariq,guided bomb,Missiles,2015,No,500.0,Yes,2020.0,No,New,0.06,0.06,30.0,Yes
+58570,South Africa,United Arab Emirates,Al Tariq,guided bomb,Missiles,2015,No,500.0,Yes,2019.0,Yes,New,0.06,0.06,30.0,Yes
+58570,South Africa,United Arab Emirates,Al Tariq,guided bomb,Missiles,2015,No,500.0,Yes,2018.0,Yes,New,0.06,0.06,30.0,Yes
+58570,South Africa,United Arab Emirates,Al Tariq,guided bomb,Missiles,2015,No,600.0,Yes,2025.0,,New,0.06,0.06,36.0,Yes
+66558,South Africa,United Arab Emirates,Sejeel,guided bomb,Missiles,2023,No,,,,,New,0.02,0.02,,Yes
+63083,Sweden,United Arab Emirates,Erieye SRSS,airborne early-warning radar,Sensors,2021,No,2.0,,2024.0,,New,40.0,40.0,80.0,No
+64392,Netherlands,United Arab Emirates,SP-5009,patrol boat,Ships,2019,Yes,2.0,No,2023.0,No,New,10.0,10.0,20.0,No
+64392,Netherlands,United Arab Emirates,SP-5009,patrol boat,Ships,2019,Yes,1.0,No,2021.0,No,New,10.0,10.0,10.0,No
+2,France,United Arab Emirates,R-440 Crotale,surface-to-air missile,Missiles,1976,No,50.0,Yes,1978.0,Yes,New,0.11,0.11,5.5,No
+2,France,United Arab Emirates,R-440 Crotale,surface-to-air missile,Missiles,1976,No,50.0,Yes,1977.0,Yes,New,0.11,0.11,5.5,No
+4688,United States,United Arab Emirates,C-130H Hercules,transport aircraft,Aircraft,1980,Yes,1.0,No,1981.0,No,New,28.0,28.0,28.0,No
+32822,United States,United Arab Emirates,C-130H Hercules,transport aircraft,Aircraft,2001,No,1.0,Yes,2002.0,Yes,Second hand,28.0,11.2,11.2,No
+32822,United States,United Arab Emirates,C-130H Hercules,transport aircraft,Aircraft,2001,No,1.0,Yes,2001.0,No,Second hand,28.0,11.2,11.2,No
+60753,Sweden,United Arab Emirates,Erieye SRSS,airborne early-warning radar,Sensors,2017,No,1.0,No,2021.0,No,New,40.0,40.0,40.0,No
+37213,Germany,United Arab Emirates,vehicle engine 301-400,vehicle engine,Engines,2002,No,24.0,Yes,2003.0,No,New,0.05,0.05,1.2,No
+37835,Germany,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2003,No,43.0,Yes,2005.0,No,New,0.08,0.08,3.44,No
+37835,Germany,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2003,No,42.0,Yes,2004.0,No,New,0.08,0.08,3.36,No
+65756,United States,United Arab Emirates,MIM-401 Talon,anti-ballistic missile missile,Missiles,2022,Yes,,,,,New,5.5,5.5,,No
+63091,Brazil,United Arab Emirates,B-250LA -,ground-attack aircraft,Aircraft,2019,No,,,,,New,0.0,0.0,,Yes
+67190,Canada,United Arab Emirates,aircraft engine 1001-2000,aircraft engine,Engines,2023,No,,,,,New,0.5,0.5,,No
+67189,Brazil,United Arab Emirates,B-250T -,trainer aircraft,Aircraft,2023,No,,,,,New,0.0,0.0,,Yes
+63135,United States,United Arab Emirates,MIM-104 PAC-3 MSE,anti-ballistic missile missile,Missiles,2019,No,50.0,Yes,2024.0,Yes,New,1.5,1.5,75.0,No
+63135,United States,United Arab Emirates,MIM-104 PAC-3 MSE,anti-ballistic missile missile,Missiles,2019,No,102.0,Yes,2025.0,Yes,New,1.5,1.5,153.0,No
+63135,United States,United Arab Emirates,MIM-104 PAC-3 MSE,anti-ballistic missile missile,Missiles,2019,No,100.0,Yes,2023.0,Yes,New,1.5,1.5,150.0,No
+63135,United States,United Arab Emirates,MIM-104 PAC-3 MSE,anti-ballistic missile missile,Missiles,2019,No,100.0,Yes,2022.0,Yes,New,1.5,1.5,150.0,No
+63135,United States,United Arab Emirates,MIM-104 PAC-3 MSE,anti-ballistic missile missile,Missiles,2019,No,100.0,Yes,2021.0,Yes,New,1.5,1.5,150.0,No
+64491,Singapore,United Arab Emirates,Falaj-3 -,corvette,Ships,2021,No,1.0,Yes,2025.0,,New,78.7,78.7,78.7,Yes
+66130,France,United Arab Emirates,CAPTAS-1,anti-submarine sonar,Sensors,2017,Yes,1.0,Yes,2021.0,Yes,New,7.5,7.5,7.5,No
+66130,France,United Arab Emirates,CAPTAS-1,anti-submarine sonar,Sensors,2017,Yes,1.0,Yes,2020.0,Yes,New,7.5,7.5,7.5,No
+35982,Germany,United Arab Emirates,ship engine 4001-6000,ship engine,Engines,2003,Yes,4.0,No,2016.0,No,New,1.5,1.5,6.0,No
+35982,Germany,United Arab Emirates,ship engine 4001-6000,ship engine,Engines,2003,Yes,8.0,No,2013.0,No,New,1.5,1.5,12.0,No
+35982,Germany,United Arab Emirates,ship engine 4001-6000,ship engine,Engines,2003,Yes,4.0,No,2015.0,No,New,1.5,1.5,6.0,No
+35982,Germany,United Arab Emirates,ship engine 4001-6000,ship engine,Engines,2003,Yes,4.0,No,2017.0,No,New,1.5,1.5,6.0,No
+35982,Germany,United Arab Emirates,ship engine 4001-6000,ship engine,Engines,2003,Yes,4.0,No,2011.0,No,New,1.5,1.5,6.0,No
+2878,Germany,United Arab Emirates,TNC-45 -,missile boat,Ships,1977,No,2.0,No,1980.0,No,New,44.0,44.0,88.0,No
+2878,Germany,United Arab Emirates,TNC-45 -,missile boat,Ships,1977,No,4.0,No,1981.0,No,New,44.0,44.0,176.0,No
+3085,United States,United Arab Emirates,C-130H Hercules,transport aircraft,Aircraft,1980,Yes,2.0,No,1981.0,No,New,28.0,28.0,56.0,No
+3087,United Kingdom,United Arab Emirates,Hawk-60,trainer/combat aircraft,Aircraft,1982,Yes,8.0,No,1983.0,No,New,9.0,9.0,72.0,No
+3147,Italy,United Arab Emirates,OF-40 Mk-1,tank,Armoured vehicles,1981,No,6.0,No,1981.0,No,New,2.0,2.0,12.0,No
+3147,Italy,United Arab Emirates,OF-40 Mk-1,tank,Armoured vehicles,1981,No,6.0,Yes,1982.0,No,New,2.0,2.0,12.0,No
+3147,Italy,United Arab Emirates,OF-40 Mk-1,tank,Armoured vehicles,1981,No,6.0,Yes,1983.0,No,New,2.0,2.0,12.0,No
+3150,Switzerland,United Arab Emirates,PC-7 -,(armed) trainer aircraft,Aircraft,1981,Yes,14.0,No,1982.0,No,New,1.25,1.25,17.5,No
+3152,France,United Arab Emirates,MM-40 Exocet,anti-ship missile,Missiles,1977,Yes,25.0,Yes,1980.0,Yes,New,0.9,0.9,22.5,No
+3152,France,United Arab Emirates,MM-40 Exocet,anti-ship missile,Missiles,1977,Yes,25.0,Yes,1981.0,Yes,New,0.9,0.9,22.5,No
+3146,Spain,United Arab Emirates,C-212,transport aircraft,Aircraft,1981,No,4.0,No,1982.0,No,New,3.8,3.8,15.2,No
+3250,United States,United Arab Emirates,TOW,anti-tank missile,Missiles,1981,No,540.0,Yes,1984.0,Yes,New,0.01,0.01,5.4,No
+3250,United States,United Arab Emirates,TOW,anti-tank missile,Missiles,1981,No,545.0,Yes,1985.0,Yes,New,0.01,0.01,5.45,No
+3334,United States,United Arab Emirates,MIM-23B I-Hawk,surface-to-air missile,Missiles,1983,No,143.0,Yes,1986.0,No,New,0.17,0.17,24.31,No
+3334,United States,United Arab Emirates,MIM-23B I-Hawk,surface-to-air missile,Missiles,1983,No,200.0,Yes,1987.0,No,New,0.17,0.17,34.0,No
+3335,United States,United Arab Emirates,I-HAWK SAMS,surface-to-air missile system,Air-defence systems,1983,No,3.0,Yes,1987.0,Yes,New,35.0,35.0,105.0,No
+3335,United States,United Arab Emirates,I-HAWK SAMS,surface-to-air missile system,Air-defence systems,1983,No,2.0,Yes,1986.0,No,New,35.0,35.0,70.0,No
+3500,Germany,United Arab Emirates,Bo-105,light helicopter,Aircraft,1981,Yes,3.0,No,1981.0,No,New,1.2,1.2,3.6,No
+3502,Italy,United Arab Emirates,Bell-212,helicopter,Aircraft,1981,No,1.0,No,1982.0,No,New,3.7,3.7,3.7,No
+3501,United States,United Arab Emirates,Bell-214,helicopter,Aircraft,1980,Yes,4.0,Yes,1981.0,No,New,4.0,4.0,16.0,No
+3583,Canada,United Arab Emirates,DHC-5,transport aircraft,Aircraft,1981,No,1.0,No,1982.0,No,New,13.22,13.22,13.22,No
+3820,France,United Arab Emirates,AS-532 Cougar,transport helicopter,Aircraft,1982,No,4.0,Yes,1982.0,No,New,7.25,7.25,29.0,No
+3820,France,United Arab Emirates,AS-532 Cougar,transport helicopter,Aircraft,1982,No,2.0,Yes,1983.0,No,New,7.25,7.25,14.5,No
+3820,France,United Arab Emirates,AS-532 Cougar,transport helicopter,Aircraft,1982,No,2.0,Yes,1984.0,No,New,7.25,7.25,14.5,No
+3821,Italy,United Arab Emirates,SF-260TP,(armed) trainer aircraft,Aircraft,1982,No,6.0,No,1983.0,No,New,0.52,0.52,3.12,No
+4100,Italy,United Arab Emirates,OF-40-2,tank,Armoured vehicles,1982,Yes,9.0,Yes,1984.0,No,New,2.1,2.1,18.9,No
+4100,Italy,United Arab Emirates,OF-40-2,tank,Armoured vehicles,1982,Yes,9.0,Yes,1985.0,No,New,2.1,2.1,18.9,No
+4311,United Kingdom,United Arab Emirates,Scorpion,light tank,Armoured vehicles,1983,Yes,15.0,Yes,1984.0,Yes,New,0.83,0.83,12.45,No
+4311,United Kingdom,United Arab Emirates,Scorpion,light tank,Armoured vehicles,1983,Yes,15.0,Yes,1985.0,Yes,New,0.83,0.83,12.45,No
+4311,United Kingdom,United Arab Emirates,Scorpion,light tank,Armoured vehicles,1983,Yes,10.0,Yes,1986.0,Yes,New,0.83,0.83,8.3,No
+4312,France,United Arab Emirates,AM-39 Exocet,anti-ship missile,Missiles,1982,Yes,12.0,Yes,1983.0,Yes,New,0.75,0.75,9.0,No
+4312,France,United Arab Emirates,AM-39 Exocet,anti-ship missile,Missiles,1982,Yes,12.0,Yes,1984.0,Yes,New,0.75,0.75,9.0,No
+4494,United Kingdom,United Arab Emirates,BN-2 Islander,light transport aircraft,Aircraft,1983,Yes,1.0,No,1983.0,No,New,0.6,0.6,0.6,No
+4502,Italy,United Arab Emirates,MB-339A -,trainer/combat aircraft,Aircraft,1984,No,2.0,No,1984.0,No,New,5.1,5.1,10.2,No
+15810,France,United Arab Emirates,M-3 VTT,armoured personnel carrier,Armoured vehicles,1975,Yes,50.0,Yes,1980.0,Yes,New,0.16,0.16,8.0,No
+15810,France,United Arab Emirates,M-3 VTT,armoured personnel carrier,Armoured vehicles,1975,Yes,100.0,Yes,1978.0,Yes,New,0.16,0.16,16.0,No
+15810,France,United Arab Emirates,M-3 VTT,armoured personnel carrier,Armoured vehicles,1975,Yes,100.0,Yes,1979.0,Yes,New,0.16,0.16,16.0,No
+15810,France,United Arab Emirates,M-3 VTT,armoured personnel carrier,Armoured vehicles,1975,Yes,83.0,Yes,1977.0,Yes,New,0.16,0.16,13.28,No
+7208,United Kingdom,United Arab Emirates,Shorland,armoured personnel carrier,Armoured vehicles,1970,Yes,6.0,No,1971.0,No,New,0.1,0.1,0.6,No
+7733,United States,United Arab Emirates,Bell-206,light helicopter,Aircraft,1971,Yes,2.0,No,1972.0,No,New,0.7,0.7,1.4,No
+7733,United States,United Arab Emirates,Bell-206,light helicopter,Aircraft,1971,Yes,1.0,No,1973.0,No,New,0.7,0.7,0.7,No
+9822,United States,United Arab Emirates,Cessna-180 Skywagon,light aircraft,Aircraft,1971,Yes,1.0,No,1971.0,No,New,0.18,0.18,0.18,No
+15803,France,United Arab Emirates,SA-316 Alouette-3,light helicopter,Aircraft,1974,Yes,5.0,No,1975.0,No,New,0.95,0.95,4.75,No
+15805,France,United Arab Emirates,R-550 Magic-1,short-range air-to-air missile,Missiles,1972,Yes,30.0,Yes,1973.0,Yes,New,0.09,0.09,2.7,No
+15805,France,United Arab Emirates,R-550 Magic-1,short-range air-to-air missile,Missiles,1972,Yes,30.0,Yes,1974.0,Yes,New,0.09,0.09,2.7,No
+15805,France,United Arab Emirates,R-550 Magic-1,short-range air-to-air missile,Missiles,1972,Yes,30.0,Yes,1975.0,Yes,New,0.09,0.09,2.7,No
+15805,France,United Arab Emirates,R-550 Magic-1,short-range air-to-air missile,Missiles,1972,Yes,30.0,Yes,1976.0,Yes,New,0.09,0.09,2.7,No
+15805,France,United Arab Emirates,R-550 Magic-1,short-range air-to-air missile,Missiles,1972,Yes,72.0,Yes,1977.0,Yes,New,0.09,0.09,6.48,No
+15806,France,United Arab Emirates,AMX-30B,tank,Armoured vehicles,1978,Yes,20.0,Yes,1980.0,Yes,New,1.8,1.8,36.0,No
+15806,France,United Arab Emirates,AMX-30B,tank,Armoured vehicles,1978,Yes,24.0,Yes,1981.0,Yes,New,1.8,1.8,43.2,No
+15806,France,United Arab Emirates,AMX-30B,tank,Armoured vehicles,1978,Yes,20.0,Yes,1982.0,Yes,New,1.8,1.8,36.0,No
+15807,France,United Arab Emirates,AML,armoured reconnaissance/fire-support vehicle,Armoured vehicles,1975,Yes,30.0,Yes,1976.0,Yes,New,0.7,0.7,21.0,No
+15807,France,United Arab Emirates,AML,armoured reconnaissance/fire-support vehicle,Armoured vehicles,1975,Yes,30.0,Yes,1977.0,Yes,New,0.7,0.7,21.0,No
+15807,France,United Arab Emirates,AML,armoured reconnaissance/fire-support vehicle,Armoured vehicles,1975,Yes,30.0,Yes,1978.0,Yes,New,0.7,0.7,21.0,No
+15809,France,United Arab Emirates,AMX-VCI,armoured personnel carrier,Armoured vehicles,1974,Yes,11.0,No,1975.0,Yes,New,0.3,0.3,3.3,No
+15811,France,United Arab Emirates,M-3 VDA,self-propelled anti-aircraft gun,Air-defence systems,1974,No,16.0,Yes,1977.0,Yes,New,0.55,0.55,8.8,No
+15811,France,United Arab Emirates,M-3 VDA,self-propelled anti-aircraft gun,Air-defence systems,1974,No,16.0,Yes,1978.0,Yes,New,0.55,0.55,8.8,No
+15812,France,United Arab Emirates,AMX-F3 155mm,self-propelled gun,Artillery,1977,No,16.0,Yes,1978.0,Yes,New,0.8,0.8,12.8,No
+15812,France,United Arab Emirates,AMX-F3 155mm,self-propelled gun,Artillery,1977,No,4.0,Yes,1982.0,Yes,New,0.8,0.8,3.2,No
+15816,United Kingdom,United Arab Emirates,L-118 105mm,towed gun,Artillery,1976,Yes,25.0,Yes,1976.0,Yes,New,0.6,0.6,15.0,No
+15816,United Kingdom,United Arab Emirates,L-118 105mm,towed gun,Artillery,1976,Yes,34.0,Yes,1977.0,Yes,New,0.6,0.6,20.4,No
+15818,Italy,United Arab Emirates,Model-56 105mm,towed gun,Artillery,1981,Yes,18.0,Yes,1981.0,Yes,New,0.45,0.45,8.1,No
+15818,Italy,United Arab Emirates,Model-56 105mm,towed gun,Artillery,1981,Yes,18.0,Yes,1982.0,Yes,New,0.45,0.45,8.1,No
+15813,United States,United Arab Emirates,Bell-212,helicopter,Aircraft,1976,Yes,3.0,Yes,1977.0,Yes,New,3.7,3.7,11.1,No
+15817,Italy,United Arab Emirates,SF-260,(armed) trainer aircraft,Aircraft,1973,Yes,1.0,No,1974.0,No,New,0.24,0.24,0.24,No
+15815,United Kingdom,United Arab Emirates,Ardhana,patrol boat,Ships,1973,Yes,4.0,No,1975.0,No,New,8.3,8.3,33.2,No
+15815,United Kingdom,United Arab Emirates,Ardhana,patrol boat,Ships,1973,Yes,2.0,No,1976.0,No,New,8.3,8.3,16.6,No
+15955,Switzerland,United Arab Emirates,PC-7 -,(armed) trainer aircraft,Aircraft,1984,No,2.0,Yes,1985.0,No,New,1.25,1.25,2.5,No
+15955,Switzerland,United Arab Emirates,PC-7 -,(armed) trainer aircraft,Aircraft,1984,No,8.0,Yes,1986.0,No,New,1.25,1.25,10.0,No
+16894,United Kingdom,United Arab Emirates,AS-350/H-125,(armed) light helicopter,Aircraft,1985,Yes,1.0,Yes,1985.0,Yes,Second hand,1.3,0.52,0.52,No
+16895,Italy,United Arab Emirates,Bell-206,light helicopter,Aircraft,1983,Yes,1.0,No,1984.0,No,New,0.7,0.7,0.7,No
+17518,United Kingdom,United Arab Emirates,Skyvan,light transport aircraft,Aircraft,1985,Yes,1.0,No,1986.0,No,New,2.5,2.5,2.5,No
+17534,United Kingdom,United Arab Emirates,Viper (1200),turbojet,Engines,1974,No,2.0,Yes,1976.0,No,New,0.4,0.4,0.8,No
+17534,United Kingdom,United Arab Emirates,Viper (1200),turbojet,Engines,1974,No,2.0,Yes,1977.0,No,New,0.4,0.4,0.8,No
+17534,United Kingdom,United Arab Emirates,Viper (1200),turbojet,Engines,1974,No,2.0,Yes,1978.0,No,New,0.4,0.4,0.8,No
+17534,United Kingdom,United Arab Emirates,Viper (1200),turbojet,Engines,1974,No,2.0,Yes,1979.0,No,New,0.4,0.4,0.8,No
+17774,United States,United Arab Emirates,AIM-9L Sidewinder,short-range air-to-air missile,Missiles,1989,No,54.0,Yes,1989.0,Yes,New,0.11,0.11,5.94,No
+17774,United States,United Arab Emirates,AIM-9L Sidewinder,short-range air-to-air missile,Missiles,1989,No,54.0,Yes,1990.0,Yes,New,0.11,0.11,5.94,No
+17796,Italy,United Arab Emirates,Bell-206,light helicopter,Aircraft,1985,Yes,2.0,No,1986.0,No,Second hand,0.7,0.28,0.56,No
+17797,United Kingdom,United Arab Emirates,Shorts-330,transport aircraft,Aircraft,1985,No,1.0,No,1986.0,No,New,4.15,4.15,4.15,No
+18066,Singapore,United Arab Emirates,Baracuda,support ship,Ships,1986,No,2.0,No,1989.0,No,New,15.0,15.0,30.0,No
+18191,United States,United Arab Emirates,TPS-70,air-search radar,Sensors,1987,No,1.0,No,1987.0,No,New,11.0,11.0,11.0,No
+18191,United States,United Arab Emirates,TPS-70,air-search radar,Sensors,1987,No,2.0,Yes,1988.0,Yes,New,11.0,11.0,22.0,No
+18387,Germany,United Arab Emirates,MGB-62 -,corvette,Ships,1986,No,1.0,No,1990.0,No,New,76.0,76.0,76.0,No
+18387,Germany,United Arab Emirates,MGB-62 -,corvette,Ships,1986,No,1.0,No,1991.0,No,New,76.0,76.0,76.0,No
+18626,United Kingdom,United Arab Emirates,Watchman,air-search radar,Sensors,1985,Yes,1.0,Yes,1986.0,Yes,New,5.0,5.0,5.0,No
+66327,France,United Arab Emirates,MU-90 IMPACT,anti-submarine torpedo,Missiles,2023,No,13.0,Yes,2024.0,Yes,New,0.5,0.5,6.5,No
+66327,France,United Arab Emirates,MU-90 IMPACT,anti-submarine torpedo,Missiles,2023,No,12.0,Yes,2023.0,Yes,New,0.5,0.5,6.0,No
+51578,Russia,United Arab Emirates,Fagot,anti-tank missile,Missiles,2007,No,100.0,Yes,2008.0,Yes,New,0.01,0.01,1.0,No
+51578,Russia,United Arab Emirates,Fagot,anti-tank missile,Missiles,2007,No,100.0,Yes,2009.0,Yes,New,0.01,0.01,1.0,No
+60975,Singapore,United Arab Emirates,SRAMS 120mm,mortar,Artillery,2015,No,24.0,No,2016.0,No,New,0.3,0.3,7.2,No
+61236,Turkiye,United Arab Emirates,Rabdan IFV -,infantry fighting vehicle,Armoured vehicles,2017,No,79.0,Yes,2020.0,No,New,0.82,0.82,64.78,Yes
+61236,Turkiye,United Arab Emirates,Rabdan IFV -,infantry fighting vehicle,Armoured vehicles,2017,No,55.0,Yes,2019.0,No,New,0.82,0.82,45.1,Yes
+61236,Turkiye,United Arab Emirates,Rabdan IFV -,infantry fighting vehicle,Armoured vehicles,2017,No,127.0,Yes,2023.0,No,New,0.82,0.82,104.14,Yes
+61236,Turkiye,United Arab Emirates,Rabdan IFV -,infantry fighting vehicle,Armoured vehicles,2017,No,38.0,Yes,2022.0,Yes,New,0.82,0.82,31.16,Yes
+61236,Turkiye,United Arab Emirates,Rabdan IFV -,infantry fighting vehicle,Armoured vehicles,2017,No,101.0,Yes,2021.0,No,New,0.82,0.82,82.82,Yes
+58407,United States,United Arab Emirates,Caiman,armoured personnel carrier,Armoured vehicles,2014,No,488.0,No,2016.0,No,Second hand,0.25,0.1,48.8,No
+58407,United States,United Arab Emirates,Caiman,armoured personnel carrier,Armoured vehicles,2014,No,23.0,Yes,2017.0,No,Second hand,0.25,0.1,2.3,No
+58407,United States,United Arab Emirates,Caiman,armoured personnel carrier,Armoured vehicles,2014,No,31.0,Yes,2018.0,Yes,Second hand,0.25,0.1,3.1,No
+58407,United States,United Arab Emirates,Caiman,armoured personnel carrier,Armoured vehicles,2014,No,11.0,Yes,2019.0,Yes,Second hand,0.25,0.1,1.1,No
+56378,Canada,United Arab Emirates,Global Express -,transport aircraft,Aircraft,2012,Yes,1.0,No,2018.0,No,New,21.0,21.0,21.0,No
+56378,Canada,United Arab Emirates,Global Express -,transport aircraft,Aircraft,2012,Yes,1.0,No,2019.0,No,New,21.0,21.0,21.0,No
+61456,United States,United Arab Emirates,DB-110,aircraft reconnaissance system,Sensors,2017,Yes,1.0,No,2018.0,No,New,4.0,4.0,4.0,No
+61456,United States,United Arab Emirates,DB-110,aircraft reconnaissance system,Sensors,2017,Yes,1.0,No,2019.0,Yes,New,4.0,4.0,4.0,No
+36051,Switzerland,United Arab Emirates,PC-21 -,trainer aircraft,Aircraft,2009,No,16.0,No,2011.0,No,New,5.0,5.0,80.0,No
+36051,Switzerland,United Arab Emirates,PC-21 -,trainer aircraft,Aircraft,2009,No,9.0,No,2012.0,No,New,5.0,5.0,45.0,No
+61237,United States,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2017,No,55.0,Yes,2019.0,No,New,0.08,0.08,4.4,No
+61237,United States,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2017,No,79.0,Yes,2020.0,No,New,0.08,0.08,6.32,No
+61237,United States,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2017,No,101.0,Yes,2021.0,No,New,0.08,0.08,8.08,No
+61237,United States,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2017,No,38.0,Yes,2022.0,Yes,New,0.08,0.08,3.04,No
+61237,United States,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2017,No,127.0,Yes,2023.0,No,New,0.08,0.08,10.16,No
+32177,Ukraine,United Arab Emirates,BTR-3 IFV -,infantry fighting vehicle,Armoured vehicles,2002,No,24.0,Yes,2003.0,No,New,0.95,0.95,22.8,Yes
+52883,Sweden,United Arab Emirates,L-22,landing craft,Ships,2004,No,2.0,Yes,2006.0,No,New,4.3,4.3,8.6,Yes
+52883,Sweden,United Arab Emirates,L-22,landing craft,Ships,2004,No,2.0,Yes,2007.0,No,New,4.3,4.3,8.6,Yes
+39671,Turkiye,United Arab Emirates,Cobra APV,armoured personnel carrier,Armoured vehicles,2004,No,14.0,No,2005.0,No,New,0.15,0.15,2.1,No
+40291,Sweden,United Arab Emirates,APID-55,reconnaissance drone,Aircraft,2006,No,2.0,Yes,2008.0,Yes,New,0.2,0.2,0.4,No
+40291,Sweden,United Arab Emirates,APID-55,reconnaissance drone,Aircraft,2006,No,5.0,Yes,2009.0,No,New,0.2,0.2,1.0,No
+39716,Turkiye,United Arab Emirates,T-122 122mm,multiple rocket launcher,Artillery,2004,Yes,12.0,Yes,2006.0,No,New,0.75,0.75,9.0,No
+39716,Turkiye,United Arab Emirates,T-122 122mm,multiple rocket launcher,Artillery,2004,Yes,12.0,Yes,2005.0,No,New,0.75,0.75,9.0,No
+39716,Turkiye,United Arab Emirates,T-122 122mm,multiple rocket launcher,Artillery,2004,Yes,12.0,Yes,2008.0,Yes,New,0.75,0.75,9.0,No
+39716,Turkiye,United Arab Emirates,T-122 122mm,multiple rocket launcher,Artillery,2004,Yes,12.0,Yes,2007.0,Yes,New,0.75,0.75,9.0,No
+39846,Singapore,United Arab Emirates,SRAMS 120mm,mortar,Artillery,2007,No,12.0,Yes,2010.0,No,New,0.3,0.3,3.6,No
+39846,Singapore,United Arab Emirates,SRAMS 120mm,mortar,Artillery,2007,No,12.0,Yes,2009.0,Yes,New,0.3,0.3,3.6,No
+39846,Singapore,United Arab Emirates,SRAMS 120mm,mortar,Artillery,2007,No,12.0,Yes,2012.0,Yes,New,0.3,0.3,3.6,No
+39846,Singapore,United Arab Emirates,SRAMS 120mm,mortar,Artillery,2007,No,12.0,Yes,2011.0,Yes,New,0.3,0.3,3.6,No
+39909,United States,United Arab Emirates,CBU-97,guided bomb,Missiles,2007,Yes,50.0,Yes,2008.0,No,New,0.15,0.15,7.5,No
+39909,United States,United Arab Emirates,CBU-97,guided bomb,Missiles,2007,Yes,50.0,Yes,2009.0,Yes,New,0.15,0.15,7.5,No
+39913,United States,United Arab Emirates,JDAM,guided bomb,Missiles,2003,No,202.0,Yes,2006.0,Yes,New,0.02,0.02,4.04,No
+40150,United States,United Arab Emirates,Paveway,guided bomb,Missiles,1998,Yes,250.0,Yes,2000.0,Yes,New,0.02,0.02,5.0,No
+40150,United States,United Arab Emirates,Paveway,guided bomb,Missiles,1998,Yes,250.0,Yes,1999.0,Yes,New,0.02,0.02,5.0,No
+40150,United States,United Arab Emirates,Paveway,guided bomb,Missiles,1998,Yes,273.0,Yes,2004.0,Yes,New,0.02,0.02,5.46,No
+40150,United States,United Arab Emirates,Paveway,guided bomb,Missiles,1998,Yes,300.0,Yes,2003.0,Yes,New,0.02,0.02,6.0,No
+40150,United States,United Arab Emirates,Paveway,guided bomb,Missiles,1998,Yes,300.0,Yes,2002.0,Yes,New,0.02,0.02,6.0,No
+40150,United States,United Arab Emirates,Paveway,guided bomb,Missiles,1998,Yes,300.0,Yes,2001.0,Yes,New,0.02,0.02,6.0,No
+40255,United States,United Arab Emirates,Paveway,guided bomb,Missiles,2008,Yes,300.0,Yes,2012.0,Yes,New,0.02,0.02,6.0,No
+40255,United States,United Arab Emirates,Paveway,guided bomb,Missiles,2008,Yes,100.0,Yes,2010.0,Yes,New,0.02,0.02,2.0,No
+40255,United States,United Arab Emirates,Paveway,guided bomb,Missiles,2008,Yes,300.0,Yes,2011.0,No,New,0.02,0.02,6.0,No
+40255,United States,United Arab Emirates,Paveway,guided bomb,Missiles,2008,Yes,238.0,Yes,2013.0,Yes,New,0.02,0.02,4.76,No
+40256,United States,United Arab Emirates,JDAM,guided bomb,Missiles,2008,No,150.0,Yes,2011.0,Yes,New,0.02,0.02,3.0,No
+40256,United States,United Arab Emirates,JDAM,guided bomb,Missiles,2008,No,150.0,Yes,2012.0,Yes,New,0.02,0.02,3.0,No
+50544,United States,United Arab Emirates,S-70L Black Hawk,transport helicopter,Aircraft,2010,No,15.0,Yes,2011.0,No,New,7.25,7.25,108.75,No
+50544,United States,United Arab Emirates,S-70L Black Hawk,transport helicopter,Aircraft,2010,No,11.0,Yes,2012.0,No,New,7.25,7.25,79.75,No
+50806,France,United Arab Emirates,VL-MICA-M,naval surface-to-air missile system,Naval weapons,2021,Yes,1.0,No,2025.0,,New,5.0,5.0,5.0,No
+50913,United States,United Arab Emirates,S-70L Black Hawk,transport helicopter,Aircraft,2008,Yes,5.0,Yes,2009.0,No,New,7.25,7.25,36.25,No
+50913,United States,United Arab Emirates,S-70L Black Hawk,transport helicopter,Aircraft,2008,Yes,5.0,Yes,2010.0,No,New,7.25,7.25,36.25,No
+50816,France,United Arab Emirates,Damocles,aircraft electro-optical system,Sensors,2004,Yes,20.0,Yes,2005.0,No,New,1.0,1.0,20.0,No
+50816,France,United Arab Emirates,Damocles,aircraft electro-optical system,Sensors,2004,Yes,21.0,Yes,2006.0,No,New,1.0,1.0,21.0,No
+50816,France,United Arab Emirates,Damocles,aircraft electro-optical system,Sensors,2004,Yes,21.0,Yes,2007.0,Yes,New,1.0,1.0,21.0,No
+50881,Germany,United Arab Emirates,COBRA GR,artillery locating radar,Sensors,2009,No,3.0,Yes,2010.0,No,New,10.0,10.0,30.0,No
+50915,United States,United Arab Emirates,S-70L Black Hawk,transport helicopter,Aircraft,2009,No,7.0,Yes,2012.0,Yes,New,7.25,7.25,50.75,No
+50915,United States,United Arab Emirates,S-70L Black Hawk,transport helicopter,Aircraft,2009,No,7.0,Yes,2013.0,Yes,New,7.25,7.25,50.75,No
+51180,Turkiye,United Arab Emirates,T-300,multiple rocket launcher,Artillery,2009,No,3.0,Yes,2010.0,No,New,2.2,2.2,6.6,No
+51562,Italy,United Arab Emirates,Falaj-2 -,corvette,Ships,2010,No,2.0,No,2013.0,No,New,82.6,82.6,165.2,No
+52229,Germany,United Arab Emirates,ship engine 2501-4000,ship engine,Engines,2010,No,4.0,No,2013.0,No,New,1.2,1.2,4.8,No
+51635,United States,United Arab Emirates,AGM-65 Maverick,air-to-surface missile,Missiles,2010,No,175.0,Yes,2011.0,Yes,New,0.15,0.15,26.25,No
+51635,United States,United Arab Emirates,AGM-65 Maverick,air-to-surface missile,Missiles,2010,No,175.0,Yes,2012.0,Yes,New,0.15,0.15,26.25,No
+51635,United States,United Arab Emirates,AGM-65 Maverick,air-to-surface missile,Missiles,2010,No,150.0,Yes,2013.0,Yes,New,0.15,0.15,22.5,No
+51828,France,United Arab Emirates,MICA,long-range air-to-air missile,Missiles,2011,Yes,20.0,Yes,2013.0,Yes,New,0.4,0.4,8.0,No
+21271,France,United Arab Emirates,MM-40-3 Exocet,anti-ship/land-attack missile,Missiles,2006,No,32.0,Yes,2013.0,Yes,New,1.0,1.0,32.0,No
+21271,France,United Arab Emirates,MM-40-3 Exocet,anti-ship/land-attack missile,Missiles,2006,No,43.0,Yes,2010.0,Yes,New,1.0,1.0,43.0,No
+21271,France,United Arab Emirates,MM-40-3 Exocet,anti-ship/land-attack missile,Missiles,2006,No,16.0,Yes,2015.0,Yes,New,1.0,1.0,16.0,No
+21271,France,United Arab Emirates,MM-40-3 Exocet,anti-ship/land-attack missile,Missiles,2006,No,30.0,Yes,2016.0,Yes,New,1.0,1.0,30.0,No
+21271,France,United Arab Emirates,MM-40-3 Exocet,anti-ship/land-attack missile,Missiles,2006,No,29.0,Yes,2017.0,Yes,New,1.0,1.0,29.0,No
+52086,Canada,United Arab Emirates,aircraft engine 1001-2000,aircraft engine,Engines,2010,No,10.0,Yes,2012.0,No,New,0.5,0.5,5.0,No
+52086,Canada,United Arab Emirates,aircraft engine 1001-2000,aircraft engine,Engines,2010,No,6.0,Yes,2011.0,No,New,0.5,0.5,3.0,No
+52086,Canada,United Arab Emirates,aircraft engine 1001-2000,aircraft engine,Engines,2010,No,4.0,Yes,2010.0,No,New,0.5,0.5,2.0,No
+52086,Canada,United Arab Emirates,aircraft engine 1001-2000,aircraft engine,Engines,2010,No,4.0,Yes,2013.0,No,New,0.5,0.5,2.0,No
+52418,France,United Arab Emirates,ATLIS,aircraft electro-optical system,Sensors,1983,Yes,18.0,Yes,1989.0,No,New,1.0,1.0,18.0,No
+52418,France,United Arab Emirates,ATLIS,aircraft electro-optical system,Sensors,1983,Yes,9.0,Yes,1990.0,Yes,New,1.0,1.0,9.0,No
+52418,France,United Arab Emirates,ATLIS,aircraft electro-optical system,Sensors,1983,Yes,9.0,Yes,1991.0,Yes,New,1.0,1.0,9.0,No
+52438,South Africa,United Arab Emirates,RG-31 Nyala,armoured personnel carrier,Armoured vehicles,2005,Yes,42.0,No,2006.0,No,New,0.18,0.18,7.56,No
+52438,South Africa,United Arab Emirates,RG-31 Nyala,armoured personnel carrier,Armoured vehicles,2005,Yes,6.0,No,2007.0,No,New,0.18,0.18,1.08,No
+52517,United States,United Arab Emirates,APG-78 Longbow,combat helicopter radar,Sensors,2007,No,12.0,Yes,2008.0,No,New,3.0,3.0,36.0,No
+52517,United States,United Arab Emirates,APG-78 Longbow,combat helicopter radar,Sensors,2007,No,18.0,Yes,2009.0,No,New,3.0,3.0,54.0,No
+52595,France,United Arab Emirates,MM-40-3 Exocet,anti-ship/land-attack missile,Missiles,2021,Yes,8.0,Yes,2025.0,Yes,New,1.0,1.0,8.0,No
+53478,United States,United Arab Emirates,GMLRS,guided rocket,Missiles,2015,No,390.0,Yes,2017.0,No,New,0.08,0.08,31.2,No
+53559,United States,United Arab Emirates,M-ATV,armoured personnel carrier,Armoured vehicles,2011,No,50.0,Yes,2011.0,Yes,New,0.25,0.25,12.5,No
+53903,Singapore,United Arab Emirates,SRAMS 120mm,mortar,Artillery,2011,No,12.0,Yes,2013.0,No,New,0.3,0.3,3.6,No
+53903,Singapore,United Arab Emirates,SRAMS 120mm,mortar,Artillery,2011,No,26.0,Yes,2014.0,No,New,0.3,0.3,7.8,No
+53903,Singapore,United Arab Emirates,SRAMS 120mm,mortar,Artillery,2011,No,34.0,Yes,2015.0,Yes,New,0.3,0.3,10.2,No
+66450,Indonesia,United Arab Emirates,LPD-163m -,amphibious assault ship,Ships,2023,No,,,,,New,0.0,0.0,,No
+54276,United States,United Arab Emirates,DB-110,aircraft reconnaissance system,Sensors,2011,No,6.0,Yes,2013.0,Yes,New,4.0,4.0,24.0,No
+54446,United States,United Arab Emirates,CBU-97,guided bomb,Missiles,2010,Yes,125.0,Yes,2012.0,Yes,New,0.15,0.15,18.75,No
+54446,United States,United Arab Emirates,CBU-97,guided bomb,Missiles,2010,Yes,125.0,Yes,2011.0,Yes,New,0.15,0.15,18.75,No
+55083,Italy,United Arab Emirates,A-244,anti-submarine torpedo,Missiles,2005,No,25.0,Yes,2006.0,Yes,New,0.25,0.25,6.25,No
+55287,South Africa,United Arab Emirates,Seeker,reconnaissance drone,Aircraft,2009,Yes,2.0,No,2010.0,No,New,0.2,0.2,0.4,No
+55922,Germany,United Arab Emirates,ship engine 1001-2500,ship engine,Engines,2009,No,8.0,Yes,2013.0,No,New,0.25,0.25,2.0,No
+55922,Germany,United Arab Emirates,ship engine 1001-2500,ship engine,Engines,2009,No,8.0,Yes,2014.0,No,New,0.25,0.25,2.0,No
+55922,Germany,United Arab Emirates,ship engine 1001-2500,ship engine,Engines,2009,No,8.0,Yes,2015.0,No,New,0.25,0.25,2.0,No
+19617,Italy,United Arab Emirates,Bell-412,helicopter,Aircraft,1989,No,3.0,No,1989.0,No,New,5.0,5.0,15.0,No
+21627,Italy,United Arab Emirates,Bell-412,helicopter,Aircraft,1991,No,1.0,No,1992.0,No,New,5.0,5.0,5.0,No
+21627,Italy,United Arab Emirates,Bell-412,helicopter,Aircraft,1991,No,1.0,No,1993.0,No,New,5.0,5.0,5.0,No
+21627,Italy,United Arab Emirates,Bell-412,helicopter,Aircraft,1991,No,1.0,Yes,1994.0,No,New,5.0,5.0,5.0,No
+21627,Italy,United Arab Emirates,Bell-412,helicopter,Aircraft,1991,No,3.0,Yes,1995.0,No,New,5.0,5.0,15.0,No
+22844,France,United Arab Emirates,AS-565S Panther,anti-submarine helicopter,Aircraft,1995,No,1.0,Yes,1999.0,Yes,New,9.5,9.5,9.5,No
+22844,France,United Arab Emirates,AS-565S Panther,anti-submarine helicopter,Aircraft,1995,No,2.0,Yes,2000.0,No,New,9.5,9.5,19.0,No
+22844,France,United Arab Emirates,AS-565S Panther,anti-submarine helicopter,Aircraft,1995,No,1.0,Yes,2002.0,No,New,9.5,9.5,9.5,No
+22844,France,United Arab Emirates,AS-565S Panther,anti-submarine helicopter,Aircraft,1995,No,1.0,No,2003.0,No,New,9.5,9.5,9.5,No
+22844,France,United Arab Emirates,AS-565S Panther,anti-submarine helicopter,Aircraft,1995,No,2.0,Yes,2004.0,Yes,New,9.5,9.5,19.0,No
+22875,France,United Arab Emirates,AS-15TT,anti-ship missile,Missiles,1997,Yes,30.0,Yes,1999.0,Yes,New,0.25,0.25,7.5,No
+22875,France,United Arab Emirates,AS-15TT,anti-ship missile,Missiles,1997,Yes,30.0,Yes,2000.0,Yes,New,0.25,0.25,7.5,No
+26001,United States,United Arab Emirates,F-16E,fighter/ground-attack aircraft,Aircraft,2000,No,8.0,No,2004.0,No,New,37.5,37.5,300.0,No
+26001,United States,United Arab Emirates,F-16E,fighter/ground-attack aircraft,Aircraft,2000,No,30.0,Yes,2005.0,No,New,37.5,37.5,1125.0,No
+26001,United States,United Arab Emirates,F-16E,fighter/ground-attack aircraft,Aircraft,2000,No,22.0,Yes,2006.0,No,New,37.5,37.5,825.0,No
+26001,United States,United Arab Emirates,F-16E,fighter/ground-attack aircraft,Aircraft,2000,No,10.0,Yes,2007.0,No,New,37.5,37.5,375.0,No
+26001,United States,United Arab Emirates,F-16E,fighter/ground-attack aircraft,Aircraft,2000,No,10.0,Yes,2008.0,No,New,37.5,37.5,375.0,No
+25239,France,United Arab Emirates,AS-565S Panther,anti-submarine helicopter,Aircraft,1997,No,1.0,No,2001.0,No,New,9.5,9.5,9.5,No
+25239,France,United Arab Emirates,AS-565S Panther,anti-submarine helicopter,Aircraft,1997,No,3.0,Yes,2002.0,No,New,9.5,9.5,28.5,No
+33450,Sweden,United Arab Emirates,Saab-340AEW,airborne early-warning aircraft,Aircraft,2009,No,1.0,No,2010.0,No,Second hand but modernized,60.0,39.6,39.6,No
+33450,Sweden,United Arab Emirates,Saab-340AEW,airborne early-warning aircraft,Aircraft,2009,No,1.0,No,2011.0,No,Second hand but modernized,60.0,39.6,39.6,No
+32449,France,United Arab Emirates,AS-15TT,anti-ship missile,Missiles,1997,Yes,15.0,Yes,2001.0,Yes,New,0.25,0.25,3.75,No
+32449,France,United Arab Emirates,AS-15TT,anti-ship missile,Missiles,1997,Yes,15.0,Yes,2002.0,Yes,New,0.25,0.25,3.75,No
+35683,United States,United Arab Emirates,FGM-148 Javelin,anti-tank missile,Missiles,2008,No,500.0,Yes,2009.0,No,New,0.03,0.03,15.0,No
+35683,United States,United Arab Emirates,FGM-148 Javelin,anti-tank missile,Missiles,2008,No,500.0,Yes,2010.0,No,New,0.03,0.03,15.0,No
+35877,Italy,United Arab Emirates,AW-139,helicopter,Aircraft,2005,No,6.0,Yes,2007.0,No,New,6.0,6.0,36.0,No
+36226,United States,United Arab Emirates,Cessna-208 Caravan,light transport aircraft,Aircraft,2005,Yes,6.0,No,2005.0,No,New,1.0,1.0,6.0,No
+36226,United States,United Arab Emirates,Cessna-208 Caravan,light transport aircraft,Aircraft,2005,Yes,1.0,No,2006.0,No,New,1.0,1.0,1.0,No
+36226,United States,United Arab Emirates,Cessna-208 Caravan,light transport aircraft,Aircraft,2005,Yes,1.0,No,2007.0,No,New,1.0,1.0,1.0,No
+37041,United States,United Arab Emirates,aircraft engine 3001-4500,aircraft engine,Engines,2005,No,6.0,Yes,2006.0,Yes,New,1.1,1.1,6.6,No
+37041,United States,United Arab Emirates,aircraft engine 3001-4500,aircraft engine,Engines,2005,No,6.0,Yes,2009.0,No,New,1.1,1.1,6.6,No
+37041,United States,United Arab Emirates,aircraft engine 3001-4500,aircraft engine,Engines,2005,No,4.0,Yes,2010.0,No,New,1.1,1.1,4.4,No
+39382,United States,United Arab Emirates,RIM-116A RAM,surface-to-air missile,Missiles,2007,No,30.0,Yes,2011.0,No,New,0.14,0.14,4.2,No
+39382,United States,United Arab Emirates,RIM-116A RAM,surface-to-air missile,Missiles,2007,No,30.0,Yes,2013.0,Yes,New,0.14,0.14,4.2,No
+39382,United States,United Arab Emirates,RIM-116A RAM,surface-to-air missile,Missiles,2007,No,30.0,Yes,2012.0,Yes,New,0.14,0.14,4.2,No
+39382,United States,United Arab Emirates,RIM-116A RAM,surface-to-air missile,Missiles,2007,No,30.0,Yes,2015.0,Yes,New,0.14,0.14,4.2,No
+39382,United States,United Arab Emirates,RIM-116A RAM,surface-to-air missile,Missiles,2007,No,30.0,Yes,2016.0,Yes,New,0.14,0.14,4.2,No
+40032,United States,United Arab Emirates,Dash-8,transport aircraft,Aircraft,2007,No,4.0,No,2007.0,No,Second hand,9.0,3.6,14.4,No
+40213,United States,United Arab Emirates,Patriot-3 SAMS,surface-to-air missile system,Air-defence systems,2008,No,2.0,Yes,2012.0,Yes,New,55.0,55.0,110.0,No
+40213,United States,United Arab Emirates,Patriot-3 SAMS,surface-to-air missile system,Air-defence systems,2008,No,4.0,Yes,2013.0,Yes,New,55.0,55.0,220.0,No
+40213,United States,United Arab Emirates,Patriot-3 SAMS,surface-to-air missile system,Air-defence systems,2008,No,3.0,Yes,2014.0,Yes,New,55.0,55.0,165.0,No
+40254,United States,United Arab Emirates,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2009,No,72.0,No,2013.0,No,New,0.6,0.6,43.2,No
+40254,United States,United Arab Emirates,AIM-120C AMRAAM,long-range air-to-air missile,Missiles,2009,No,152.0,No,2014.0,No,New,0.6,0.6,91.2,No
+50550,United States,United Arab Emirates,THAAD,anti-ballistic missile system,Air-defence systems,2011,No,1.0,Yes,2015.0,Yes,New,700.0,700.0,700.0,No
+50550,United States,United Arab Emirates,THAAD,anti-ballistic missile system,Air-defence systems,2011,No,1.0,Yes,2016.0,No,New,700.0,700.0,700.0,No
+50736,United States,United Arab Emirates,MIM-104 PAC-3,anti-ballistic missile missile,Missiles,2008,Yes,92.0,Yes,2012.0,Yes,New,0.8,0.8,73.6,No
+50736,United States,United Arab Emirates,MIM-104 PAC-3,anti-ballistic missile missile,Missiles,2008,Yes,100.0,Yes,2013.0,Yes,New,0.8,0.8,80.0,No
+50736,United States,United Arab Emirates,MIM-104 PAC-3,anti-ballistic missile missile,Missiles,2008,Yes,100.0,Yes,2014.0,Yes,New,0.8,0.8,80.0,No
+50879,United States,United Arab Emirates,C-17,heavy transport aircraft,Aircraft,2009,Yes,4.0,No,2011.0,No,New,140.0,140.0,560.0,No
+50879,United States,United Arab Emirates,C-17,heavy transport aircraft,Aircraft,2009,Yes,2.0,Yes,2012.0,No,New,140.0,140.0,280.0,No
+57980,United States,United Arab Emirates,ATACMS Block-1A,surface-to-surface missile,Missiles,2015,No,50.0,Yes,2018.0,Yes,New,2.0,2.0,100.0,No
+57980,United States,United Arab Emirates,ATACMS Block-1A,surface-to-surface missile,Missiles,2015,No,50.0,Yes,2019.0,Yes,New,2.0,2.0,100.0,No
+52085,United States,United Arab Emirates,AT-802U -,ground-attack aircraft,Aircraft,2010,No,6.0,No,2011.0,No,New,4.9,4.9,29.4,No
+52085,United States,United Arab Emirates,AT-802U -,ground-attack aircraft,Aircraft,2010,No,4.0,No,2010.0,No,New,4.9,4.9,19.6,No
+52085,United States,United Arab Emirates,AT-802U -,ground-attack aircraft,Aircraft,2010,No,10.0,No,2012.0,No,New,4.9,4.9,49.0,No
+52085,United States,United Arab Emirates,AT-802U -,ground-attack aircraft,Aircraft,2010,No,3.0,No,2013.0,No,New,4.9,4.9,14.7,No
+52085,United States,United Arab Emirates,AT-802U -,ground-attack aircraft,Aircraft,2010,No,1.0,No,2014.0,No,New,4.9,4.9,4.9,No
+52408,France,United Arab Emirates,MICA,long-range air-to-air missile,Missiles,2021,Yes,15.0,Yes,2025.0,Yes,New,0.4,0.4,6.0,No
+53165,United States,United Arab Emirates,F-16E,fighter/ground-attack aircraft,Aircraft,2010,No,1.0,No,2012.0,No,New,37.5,37.5,37.5,No
+56160,France,United Arab Emirates,Ground Master-200,air-search radar,Sensors,2013,No,5.0,Yes,2015.0,Yes,New,10.0,10.0,50.0,No
+56160,France,United Arab Emirates,Ground Master-200,air-search radar,Sensors,2013,No,7.0,Yes,2016.0,Yes,New,10.0,10.0,70.0,No
+56160,France,United Arab Emirates,Ground Master-200,air-search radar,Sensors,2013,No,5.0,Yes,2017.0,Yes,New,10.0,10.0,50.0,No
+57979,United States,United Arab Emirates,HIMARS,multiple rocket launcher,Artillery,2015,No,12.0,No,2018.0,No,New,2.2,2.2,26.4,No
+54,Italy,United Arab Emirates,MB-326K -,ground-attack aircraft,Aircraft,1975,No,2.0,Yes,1978.0,No,New,2.6,2.6,5.2,No
+54,Italy,United Arab Emirates,MB-326K -,ground-attack aircraft,Aircraft,1975,No,2.0,Yes,1979.0,No,New,2.6,2.6,5.2,No
+55,Italy,United Arab Emirates,MB-326K -,ground-attack aircraft,Aircraft,1974,No,2.0,Yes,1976.0,No,New,2.6,2.6,5.2,No
+55,Italy,United Arab Emirates,MB-326K -,ground-attack aircraft,Aircraft,1974,No,2.0,Yes,1977.0,No,New,2.6,2.6,5.2,No
+53,Italy,United Arab Emirates,G-222 -,transport aircraft,Aircraft,1975,No,1.0,No,1976.0,No,New,12.8,12.8,12.8,No
+1158,France,United Arab Emirates,SA-330 Puma,helicopter,Aircraft,1977,No,5.0,No,1978.0,No,New,6.0,6.0,30.0,No
+1210,United Kingdom,United Arab Emirates,Scorpion,light tank,Armoured vehicles,1978,No,18.0,Yes,1980.0,Yes,New,0.83,0.83,14.94,No
+1210,United Kingdom,United Arab Emirates,Scorpion,light tank,Armoured vehicles,1978,No,18.0,Yes,1981.0,Yes,New,0.83,0.83,14.94,No
+1263,France,United Arab Emirates,AMX-10P,infantry fighting vehicle,Armoured vehicles,1976,Yes,5.0,Yes,1977.0,Yes,New,0.9,0.9,4.5,No
+1263,France,United Arab Emirates,AMX-10P,infantry fighting vehicle,Armoured vehicles,1976,Yes,5.0,Yes,1978.0,Yes,New,0.9,0.9,4.5,No
+1263,France,United Arab Emirates,AMX-10P,infantry fighting vehicle,Armoured vehicles,1976,Yes,5.0,Yes,1979.0,Yes,New,0.9,0.9,4.5,No
+1342,France,United Arab Emirates,Crotale SAMS,surface-to-air missile system,Air-defence systems,1976,No,2.0,Yes,1977.0,Yes,New,15.0,15.0,30.0,No
+1342,France,United Arab Emirates,Crotale SAMS,surface-to-air missile system,Air-defence systems,1976,No,1.0,Yes,1978.0,Yes,New,15.0,15.0,15.0,No
+1877,United Kingdom,United Arab Emirates,Rapier SAMS,surface-to-air missile system,Air-defence systems,1974,No,5.0,Yes,1976.0,Yes,New,7.0,7.0,35.0,No
+1877,United Kingdom,United Arab Emirates,Rapier SAMS,surface-to-air missile system,Air-defence systems,1974,No,5.0,Yes,1977.0,Yes,New,7.0,7.0,35.0,No
+1877,United Kingdom,United Arab Emirates,Rapier SAMS,surface-to-air missile system,Air-defence systems,1974,No,2.0,Yes,1978.0,Yes,New,7.0,7.0,14.0,No
+57509,United States,United Arab Emirates,Bell-407,light helicopter,Aircraft,2013,Yes,9.0,Yes,2014.0,No,New,1.3,1.3,11.7,No
+57509,United States,United Arab Emirates,Bell-407,light helicopter,Aircraft,2013,Yes,15.0,Yes,2015.0,No,New,1.3,1.3,19.5,No
+57509,United States,United Arab Emirates,Bell-407,light helicopter,Aircraft,2013,Yes,6.0,Yes,2016.0,No,New,1.3,1.3,7.8,No
+54280,United States,United Arab Emirates,M-ATV,armoured personnel carrier,Armoured vehicles,2012,Yes,750.0,No,2013.0,No,New,0.25,0.25,187.5,No
+67407,United States,United Arab Emirates,MaxxPro,armoured personnel carrier,Armoured vehicles,2023,No,20.0,Yes,2024.0,Yes,Second hand but modernized,0.32,0.21,4.22,No
+67407,United States,United Arab Emirates,MaxxPro,armoured personnel carrier,Armoured vehicles,2023,No,86.0,Yes,2025.0,,Second hand but modernized,0.32,0.21,18.16,No
+68339,Turkiye,United Arab Emirates,Akinci,armed drone,Aircraft,2023,Yes,2.0,Yes,2024.0,,New,4.5,4.5,9.0,No
+33452,United States,United Arab Emirates,ESSM Block-1,surface-to-air missile,Missiles,2006,No,96.0,Yes,2015.0,No,New,0.4,0.4,38.4,No
+32379,France,United Arab Emirates,Baynunah -,corvette,Ships,2005,No,1.0,No,2016.0,No,New,107.25,107.25,107.25,Yes
+32379,France,United Arab Emirates,Baynunah -,corvette,Ships,2005,No,1.0,No,2017.0,No,New,107.25,107.25,107.25,Yes
+36865,United States,United Arab Emirates,Talon LGR,air-to-surface missile,Missiles,2013,No,500.0,Yes,2015.0,No,New,0.01,0.01,5.0,No
+36865,United States,United Arab Emirates,Talon LGR,air-to-surface missile,Missiles,2013,No,500.0,Yes,2016.0,Yes,New,0.01,0.01,5.0,No
+36865,United States,United Arab Emirates,Talon LGR,air-to-surface missile,Missiles,2013,No,500.0,Yes,2017.0,Yes,New,0.01,0.01,5.0,No
+36865,United States,United Arab Emirates,Talon LGR,air-to-surface missile,Missiles,2013,No,500.0,Yes,2018.0,Yes,New,0.01,0.01,5.0,No
+1996,United Kingdom,United Arab Emirates,VIGILANT,anti-tank missile,Missiles,1970,Yes,160.0,Yes,1971.0,Yes,New,0.01,0.01,1.6,No
+1996,United Kingdom,United Arab Emirates,VIGILANT,anti-tank missile,Missiles,1970,Yes,160.0,Yes,1972.0,Yes,New,0.01,0.01,1.6,No
+1996,United Kingdom,United Arab Emirates,VIGILANT,anti-tank missile,Missiles,1970,Yes,160.0,Yes,1973.0,Yes,New,0.01,0.01,1.6,No
+24649,Turkiye,United Arab Emirates,AIFV-APC,armoured personnel carrier,Armoured vehicles,1997,No,76.0,Yes,1999.0,No,New,0.3,0.3,22.8,No
+24649,Turkiye,United Arab Emirates,AIFV-APC,armoured personnel carrier,Armoured vehicles,1997,No,60.0,Yes,2000.0,No,New,0.3,0.3,18.0,No
+2019,France,United Arab Emirates,SS-11,anti-tank missile,Missiles,1974,No,2000.0,Yes,1975.0,No,New,0.01,0.01,20.0,No
+59827,Sweden,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2008,No,2.0,Yes,2008.0,No,New,0.08,0.08,0.16,No
+59827,Sweden,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2008,No,3.0,Yes,2010.0,Yes,New,0.08,0.08,0.24,No
+62590,Canada,United Arab Emirates,Challenger-650,light transport aircraft,Aircraft,2019,No,2.0,No,2022.0,No,New,14.3,14.3,28.6,No
+61721,United States,United Arab Emirates,AIM-9X Sidewinder,long-range air-to-air missile,Missiles,2018,No,100.0,Yes,2019.0,Yes,New,0.18,0.18,18.0,No
+61721,United States,United Arab Emirates,AIM-9X Sidewinder,long-range air-to-air missile,Missiles,2018,No,100.0,Yes,2020.0,No,New,0.18,0.18,18.0,No
+61721,United States,United Arab Emirates,AIM-9X Sidewinder,long-range air-to-air missile,Missiles,2018,No,100.0,Yes,2021.0,Yes,New,0.18,0.18,18.0,No
+37346,United Kingdom,United Arab Emirates,Viper (1200),turbojet,Engines,1990,No,1.0,No,1991.0,No,New,0.4,0.4,0.4,No
+37346,United Kingdom,United Arab Emirates,Viper (1200),turbojet,Engines,1990,No,1.0,No,1992.0,No,New,0.4,0.4,0.4,No
+37591,Canada,United Arab Emirates,aircraft engine 500-1000,aircraft engine,Engines,1981,Yes,14.0,No,1982.0,No,New,0.35,0.35,4.9,No
+34641,United States,United Arab Emirates,AH-64D Apache Longbow,combat helicopter,Aircraft,2007,No,12.0,Yes,2008.0,No,New,15.5,15.5,186.0,No
+34641,United States,United Arab Emirates,AH-64D Apache Longbow,combat helicopter,Aircraft,2007,No,18.0,Yes,2009.0,No,New,15.5,15.5,279.0,No
+21144,United States,United Arab Emirates,TPS-70,air-search radar,Sensors,1993,No,1.0,Yes,1995.0,Yes,New,11.0,11.0,11.0,No
+21145,France,United Arab Emirates,Leclerc DNG -,armoured recovery vehicle,Armoured vehicles,1993,No,5.0,No,1997.0,No,New,1.95,1.95,9.75,No
+21145,France,United Arab Emirates,Leclerc DNG -,armoured recovery vehicle,Armoured vehicles,1993,No,3.0,Yes,1998.0,No,New,1.95,1.95,5.85,No
+21145,France,United Arab Emirates,Leclerc DNG -,armoured recovery vehicle,Armoured vehicles,1993,No,3.0,Yes,1999.0,No,New,1.95,1.95,5.85,No
+21145,France,United Arab Emirates,Leclerc DNG -,armoured recovery vehicle,Armoured vehicles,1993,No,3.0,Yes,2000.0,No,New,1.95,1.95,5.85,No
+21145,France,United Arab Emirates,Leclerc DNG -,armoured recovery vehicle,Armoured vehicles,1993,No,3.0,Yes,2001.0,No,New,1.95,1.95,5.85,No
+21145,France,United Arab Emirates,Leclerc DNG -,armoured recovery vehicle,Armoured vehicles,1993,No,3.0,Yes,2002.0,No,New,1.95,1.95,5.85,No
+21145,France,United Arab Emirates,Leclerc DNG -,armoured recovery vehicle,Armoured vehicles,1993,No,3.0,Yes,2003.0,No,New,1.95,1.95,5.85,No
+21145,France,United Arab Emirates,Leclerc DNG -,armoured recovery vehicle,Armoured vehicles,1993,No,5.0,No,2004.0,No,New,1.95,1.95,9.75,No
+21146,France,United Arab Emirates,Leclerc -,tank,Armoured vehicles,1993,No,5.0,No,1994.0,No,New,3.95,3.95,19.75,No
+21146,France,United Arab Emirates,Leclerc -,tank,Armoured vehicles,1993,No,25.0,No,1995.0,No,New,3.95,3.95,98.75,No
+21146,France,United Arab Emirates,Leclerc -,tank,Armoured vehicles,1993,No,58.0,No,1996.0,No,New,3.95,3.95,229.1,No
+21146,France,United Arab Emirates,Leclerc -,tank,Armoured vehicles,1993,No,63.0,No,1997.0,No,New,3.95,3.95,248.85,No
+21146,France,United Arab Emirates,Leclerc -,tank,Armoured vehicles,1993,No,64.0,No,1998.0,No,New,3.95,3.95,252.8,No
+21146,France,United Arab Emirates,Leclerc -,tank,Armoured vehicles,1993,No,62.0,No,1999.0,No,New,3.95,3.95,244.9,No
+21146,France,United Arab Emirates,Leclerc -,tank,Armoured vehicles,1993,No,32.0,No,2000.0,No,New,3.95,3.95,126.4,No
+21146,France,United Arab Emirates,Leclerc -,tank,Armoured vehicles,1993,No,32.0,No,2001.0,No,New,3.95,3.95,126.4,No
+21146,France,United Arab Emirates,Leclerc -,tank,Armoured vehicles,1993,No,31.0,No,2002.0,No,New,3.95,3.95,122.45,No
+21146,France,United Arab Emirates,Leclerc -,tank,Armoured vehicles,1993,No,7.0,No,2003.0,No,New,3.95,3.95,27.65,No
+21146,France,United Arab Emirates,Leclerc -,tank,Armoured vehicles,1993,No,2.0,No,2005.0,No,New,3.95,3.95,7.9,No
+21146,France,United Arab Emirates,Leclerc -,tank,Armoured vehicles,1993,No,9.0,Yes,2006.0,Yes,New,3.95,3.95,35.55,No
+38194,France,United Arab Emirates,Leclerc EPG -,armoured engineer vehicle,Armoured vehicles,1993,No,1.0,No,2008.0,No,New,2.2,2.2,2.2,No
+38194,France,United Arab Emirates,Leclerc EPG -,armoured engineer vehicle,Armoured vehicles,1993,No,10.0,Yes,2009.0,Yes,New,2.2,2.2,22.0,No
+38194,France,United Arab Emirates,Leclerc EPG -,armoured engineer vehicle,Armoured vehicles,1993,No,7.0,Yes,2010.0,Yes,New,2.2,2.2,15.4,No
+60756,Russia,United Arab Emirates,Kornet,anti-tank missile,Missiles,2017,No,1000.0,Yes,2018.0,Yes,New,0.04,0.04,40.0,No
+60756,Russia,United Arab Emirates,Kornet,anti-tank missile,Missiles,2017,No,2000.0,Yes,2019.0,Yes,New,0.04,0.04,80.0,No
+60756,Russia,United Arab Emirates,Kornet,anti-tank missile,Missiles,2017,No,2000.0,Yes,2020.0,Yes,New,0.04,0.04,80.0,No
+55973,Turkiye,United Arab Emirates,Canavr,multiple rocket launcher,Artillery,2011,Yes,8.0,Yes,2012.0,Yes,New,1.2,1.2,9.6,No
+50236,France,United Arab Emirates,Rafale F-4,fighter/ground-attack aircraft,Aircraft,2021,No,1.0,Yes,2025.0,,New,60.0,60.0,60.0,No
+4812,France,United Arab Emirates,VAB-VTT,armoured personnel carrier,Armoured vehicles,1979,Yes,20.0,Yes,1980.0,Yes,New,0.3,0.3,6.0,No
+57061,United States,United Arab Emirates,C-17,heavy transport aircraft,Aircraft,2015,No,2.0,No,2015.0,No,New,140.0,140.0,280.0,No
+15819,Germany,United Arab Emirates,Bo-105,light helicopter,Aircraft,1974,No,4.0,No,1975.0,No,New,1.2,1.2,4.8,No
+19615,United Kingdom,United Arab Emirates,Saxon,armoured personnel carrier,Armoured vehicles,1988,Yes,10.0,No,1989.0,No,New,0.2,0.2,2.0,No
+23058,United States,United Arab Emirates,Bell-205A,helicopter,Aircraft,1973,Yes,3.0,No,1974.0,No,New,2.2,2.2,6.6,No
+15239,France,United Arab Emirates,Baynunah -,corvette,Ships,2003,No,1.0,No,2011.0,No,New,107.25,107.25,107.25,Yes
+15239,France,United Arab Emirates,Baynunah -,corvette,Ships,2003,No,2.0,No,2013.0,No,New,107.25,107.25,214.5,Yes
+15239,France,United Arab Emirates,Baynunah -,corvette,Ships,2003,No,1.0,No,2015.0,No,New,107.25,107.25,107.25,Yes
+39380,United States,United Arab Emirates,GMLRS,guided rocket,Missiles,2008,Yes,780.0,Yes,2011.0,Yes,New,0.08,0.08,62.4,No
+39380,United States,United Arab Emirates,GMLRS,guided rocket,Missiles,2008,Yes,780.0,Yes,2012.0,Yes,New,0.08,0.08,62.4,No
+26417,North Korea,United Arab Emirates,M-1985 240mm,multiple rocket launcher,Artillery,1988,Yes,20.0,Yes,1989.0,Yes,New,0.6,0.6,12.0,No
+52611,United States,United Arab Emirates,ATACMS Block-1A,surface-to-surface missile,Missiles,2011,Yes,100.0,Yes,2013.0,Yes,New,2.0,2.0,200.0,No
+28485,North Korea,United Arab Emirates,R-17 Elbrus,surface-to-surface missile,Missiles,1989,Yes,25.0,Yes,1989.0,No,New,1.25,1.25,31.25,No
+58718,North Korea,United Arab Emirates,Hwasong-5 TEL,surface-to-surface missile launcher,Artillery,1989,Yes,6.0,Yes,1989.0,No,New,1.0,1.0,6.0,No
+63392,China,United Arab Emirates,SR-5,multiple rocket launcher,Artillery,2018,Yes,6.0,Yes,2020.0,Yes,New,2.2,2.2,13.2,No
+58732,United States,United Arab Emirates,M-ATV,armoured personnel carrier,Armoured vehicles,2014,No,44.0,Yes,2016.0,Yes,Second hand,0.25,0.1,4.4,No
+57184,China,United Arab Emirates,Wing Loong-1,armed drone,Aircraft,2011,Yes,5.0,Yes,2013.0,Yes,New,3.0,3.0,15.0,No
+57184,China,United Arab Emirates,Wing Loong-1,armed drone,Aircraft,2011,Yes,5.0,Yes,2014.0,Yes,New,3.0,3.0,15.0,No
+57184,China,United Arab Emirates,Wing Loong-1,armed drone,Aircraft,2011,Yes,5.0,Yes,2015.0,Yes,New,3.0,3.0,15.0,No
+57184,China,United Arab Emirates,Wing Loong-1,armed drone,Aircraft,2011,Yes,5.0,Yes,2016.0,Yes,New,3.0,3.0,15.0,No
+57184,China,United Arab Emirates,Wing Loong-1,armed drone,Aircraft,2011,Yes,5.0,Yes,2017.0,Yes,New,3.0,3.0,15.0,No
+33451,South Africa,United Arab Emirates,RG-31 Nyala,armoured personnel carrier,Armoured vehicles,2005,No,28.0,No,2006.0,No,New,0.18,0.18,5.04,No
+3,Canada,United Arab Emirates,DHC-5,transport aircraft,Aircraft,1977,No,4.0,Yes,1978.0,No,New,13.22,13.22,52.88,No
+59199,Germany,United Arab Emirates,DM-2A4 Seehecht,anti-ship/anti-submarine torpedo,Missiles,2013,No,10.0,Yes,2014.0,Yes,New,1.8,1.8,18.0,No
+18052,Italy,United Arab Emirates,MB-339A -,trainer/combat aircraft,Aircraft,1987,No,3.0,No,1987.0,No,New,5.1,5.1,15.3,No
+58561,Italy,United Arab Emirates,AW-139,helicopter,Aircraft,2015,No,9.0,Yes,2015.0,No,New,6.0,6.0,54.0,No
+57146,Netherlands,United Arab Emirates,FOPV-850 -,corvette,Ships,2013,No,1.0,No,2018.0,No,New,83.5,83.5,83.5,Yes
+57146,Netherlands,United Arab Emirates,FOPV-850 -,corvette,Ships,2013,No,1.0,No,2017.0,No,New,83.5,83.5,83.5,Yes
+51206,United Kingdom,United Arab Emirates,AS-5 COMINT,signals intelligence system,Sensors,2009,Yes,1.0,No,2018.0,No,New,7.5,7.5,7.5,No
+51206,United Kingdom,United Arab Emirates,AS-5 COMINT,signals intelligence system,Sensors,2009,Yes,1.0,No,2019.0,Yes,New,7.5,7.5,7.5,No
+62666,United States,United Arab Emirates,FGM-148 Javelin,anti-tank missile,Missiles,2020,No,331.0,Yes,2020.0,No,New,0.03,0.03,9.93,No
+59722,United States,United Arab Emirates,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2017,No,1000.0,Yes,2018.0,Yes,New,0.05,0.05,50.0,No
+55800,United States,United Arab Emirates,RIM-116A RAM,surface-to-air missile,Missiles,2016,Yes,50.0,Yes,2018.0,No,New,0.14,0.14,7.0,No
+55800,United States,United Arab Emirates,RIM-116A RAM,surface-to-air missile,Missiles,2016,Yes,75.0,Yes,2019.0,No,New,0.14,0.14,10.5,No
+55800,United States,United Arab Emirates,RIM-116A RAM,surface-to-air missile,Missiles,2016,Yes,75.0,Yes,2020.0,No,New,0.14,0.14,10.5,No
+50980,Sweden,United Arab Emirates,Ghannatha -,missile boat,Ships,2009,No,4.0,Yes,2013.0,No,New,14.5,14.5,58.0,Yes
+50980,Sweden,United Arab Emirates,Ghannatha -,missile boat,Ships,2009,No,4.0,No,2014.0,No,New,14.5,14.5,58.0,Yes
+50980,Sweden,United Arab Emirates,Ghannatha -,missile boat,Ships,2009,No,4.0,No,2015.0,No,New,14.5,14.5,58.0,Yes
+66979,Netherlands,United Arab Emirates,STIR,fire-control radar,Sensors,2019,Yes,1.0,No,2023.0,No,New,4.5,4.5,4.5,No
+66979,Netherlands,United Arab Emirates,STIR,fire-control radar,Sensors,2019,Yes,1.0,,2024.0,,New,4.5,4.5,4.5,No
+62707,Italy,United Arab Emirates,Super Rapid 76mm,naval gun,Naval weapons,2019,Yes,1.0,No,2023.0,No,New,2.75,2.75,2.75,No
+62707,Italy,United Arab Emirates,Super Rapid 76mm,naval gun,Naval weapons,2019,Yes,1.0,,2024.0,,New,2.75,2.75,2.75,No
+63082,France,United Arab Emirates,A-330 MRTT -,tanker/transport aircraft,Aircraft,2021,No,1.0,Yes,2024.0,,New,98.0,98.0,98.0,No
+63082,France,United Arab Emirates,A-330 MRTT -,tanker/transport aircraft,Aircraft,2021,No,1.0,,2025.0,,New,98.0,98.0,98.0,No
+59875,United States,United Arab Emirates,JDAM,guided bomb,Missiles,2017,No,1500.0,Yes,2018.0,Yes,New,0.02,0.02,30.0,No
+59234,United States,United Arab Emirates,JDAM,guided bomb,Missiles,2016,Yes,1750.0,Yes,2017.0,Yes,New,0.02,0.02,35.0,No
+59234,United States,United Arab Emirates,JDAM,guided bomb,Missiles,2016,Yes,1754.0,Yes,2018.0,Yes,New,0.02,0.02,35.08,No
+18065,Singapore,United Arab Emirates,Al Feyi,landing craft,Ships,1986,Yes,1.0,No,1987.0,No,New,11.0,11.0,11.0,No
+62629,China,United Arab Emirates,Blue Arrow-7,anti-tank missile,Missiles,2017,No,50.0,Yes,2017.0,Yes,New,0.04,0.04,2.0,No
+62629,China,United Arab Emirates,Blue Arrow-7,anti-tank missile,Missiles,2017,No,150.0,Yes,2018.0,Yes,New,0.04,0.04,6.0,No
+62629,China,United Arab Emirates,Blue Arrow-7,anti-tank missile,Missiles,2017,No,150.0,Yes,2019.0,Yes,New,0.04,0.04,6.0,No
+62629,China,United Arab Emirates,Blue Arrow-7,anti-tank missile,Missiles,2017,No,150.0,Yes,2020.0,Yes,New,0.04,0.04,6.0,No
+58406,United States,United Arab Emirates,MaxxPro,armoured personnel carrier,Armoured vehicles,2014,No,785.0,Yes,2018.0,No,New,0.32,0.32,251.2,No
+58406,United States,United Arab Emirates,MaxxPro,armoured personnel carrier,Armoured vehicles,2014,No,300.0,Yes,2017.0,No,New,0.32,0.32,96.0,No
+60604,United States,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2015,No,12.0,Yes,2019.0,No,New,0.08,0.08,0.96,No
+60604,United States,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2015,No,30.0,Yes,2018.0,No,New,0.08,0.08,2.4,No
+60604,United States,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2015,No,30.0,Yes,2017.0,No,New,0.08,0.08,2.4,No
+60604,United States,United Arab Emirates,vehicle engine 401-600,vehicle engine,Engines,2015,No,28.0,Yes,2016.0,No,New,0.08,0.08,2.24,No
+60754,Canada,United Arab Emirates,Global Express -,transport aircraft,Aircraft,2017,No,1.0,No,2021.0,No,New,21.0,21.0,21.0,No
+21733,France,United Arab Emirates,AMX-30D,armoured recovery vehicle,Armoured vehicles,1978,Yes,2.0,No,1981.0,No,New,1.4,1.4,2.8,No
+21733,France,United Arab Emirates,AMX-30D,armoured recovery vehicle,Armoured vehicles,1978,Yes,2.0,No,1982.0,No,New,1.4,1.4,2.8,No
+59358,Canada,United Arab Emirates,Global Express -,transport aircraft,Aircraft,2015,No,2.0,No,2020.0,No,New,21.0,21.0,42.0,No
+62708,France,United Arab Emirates,MM-40-3 Exocet,anti-ship/land-attack missile,Missiles,2019,Yes,15.0,Yes,2023.0,No,New,1.0,1.0,15.0,No
+62708,France,United Arab Emirates,MM-40-3 Exocet,anti-ship/land-attack missile,Missiles,2019,Yes,15.0,,2024.0,,New,1.0,1.0,15.0,No
+60896,United States,United Arab Emirates,MIM-104 PAC-2,surface-to-air missile,Missiles,2017,No,50.0,Yes,2019.0,Yes,New,1.0,1.0,50.0,No
+60896,United States,United Arab Emirates,MIM-104 PAC-2,surface-to-air missile,Missiles,2017,No,50.0,Yes,2020.0,Yes,New,1.0,1.0,50.0,No
+50551,United States,United Arab Emirates,MIM-401 Talon,anti-ballistic missile missile,Missiles,2012,No,50.0,Yes,2018.0,No,New,5.5,5.5,275.0,No
+50551,United States,United Arab Emirates,MIM-401 Talon,anti-ballistic missile missile,Missiles,2012,No,21.0,Yes,2015.0,Yes,New,5.5,5.5,115.5,No
+50551,United States,United Arab Emirates,MIM-401 Talon,anti-ballistic missile missile,Missiles,2012,No,21.0,Yes,2019.0,,New,5.5,5.5,115.5,No
+50551,United States,United Arab Emirates,MIM-401 Talon,anti-ballistic missile missile,Missiles,2012,No,50.0,Yes,2016.0,No,New,5.5,5.5,275.0,No
+50551,United States,United Arab Emirates,MIM-401 Talon,anti-ballistic missile missile,Missiles,2012,No,50.0,Yes,2017.0,No,New,5.5,5.5,275.0,No
+52105,United States,United Arab Emirates,RQ-1 Predator UAV,reconnaissance drone,Aircraft,2014,Yes,10.0,Yes,2017.0,No,New,2.0,2.0,20.0,No
+56785,unknown supplier(s),United Arab Emirates,DHC-6,transport aircraft,Aircraft,2004,Yes,1.0,No,2004.0,Yes,Second hand,2.5,1.0,1.0,No
+62056,China,United Arab Emirates,AH-4 155mm,towed gun,Artillery,2018,Yes,6.0,Yes,2019.0,Yes,New,1.0,1.0,6.0,No
+60755,Germany,United Arab Emirates,BR-710 (7600),turbofan,Engines,2017,No,2.0,No,2021.0,No,New,2.5,2.5,5.0,No
+60806,Sweden,United Arab Emirates,SAK-70-2 57mm,naval gun,Naval weapons,2015,No,1.0,No,2017.0,No,New,2.5,2.5,2.5,No
+60806,Sweden,United Arab Emirates,SAK-70-2 57mm,naval gun,Naval weapons,2015,No,1.0,No,2018.0,No,New,2.5,2.5,2.5,No
+35128,France,United Arab Emirates,VBL,armoured reconnaissance vehicle,Armoured vehicles,2003,No,24.0,No,2004.0,No,New,0.12,0.12,2.88,No
+63148,South Korea,United Arab Emirates,K-239 Chunmoo,multiple rocket launcher,Artillery,2021,Yes,8.0,Yes,2021.0,No,New,2.2,2.2,17.6,No
+63148,South Korea,United Arab Emirates,K-239 Chunmoo,multiple rocket launcher,Artillery,2021,Yes,8.0,Yes,2022.0,Yes,New,2.2,2.2,17.6,No
+63148,South Korea,United Arab Emirates,K-239 Chunmoo,multiple rocket launcher,Artillery,2021,Yes,8.0,Yes,2023.0,Yes,New,2.2,2.2,17.6,No
+63148,South Korea,United Arab Emirates,K-239 Chunmoo,multiple rocket launcher,Artillery,2021,Yes,8.0,Yes,2024.0,Yes,New,2.2,2.2,17.6,No
+65980,South Korea,United Arab Emirates,LOGIR,air-to-surface/anti-ship missile,Missiles,2020,Yes,50.0,Yes,2023.0,Yes,New,0.01,0.01,0.5,No
+65980,South Korea,United Arab Emirates,LOGIR,air-to-surface/anti-ship missile,Missiles,2020,Yes,50.0,Yes,2024.0,Yes,New,0.01,0.01,0.5,No
+64810,United States,United Arab Emirates,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2021,No,300.0,Yes,2022.0,Yes,New,0.05,0.05,15.0,No
+64810,United States,United Arab Emirates,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2021,No,400.0,Yes,2023.0,Yes,New,0.05,0.05,20.0,No
+64810,United States,United Arab Emirates,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2021,No,300.0,Yes,2024.0,Yes,New,0.05,0.05,15.0,No
+64564,South Africa,United Arab Emirates,Seeker-400,(armed) reconnaissance drone,Aircraft,2021,No,,,,,New,1.0,1.0,,No
+64494,South Korea,United Arab Emirates,Cheongung,surface-to-air missile system,Air-defence systems,2022,No,2.0,Yes,2024.0,,New,30.0,30.0,60.0,No
+64494,South Korea,United Arab Emirates,Cheongung,surface-to-air missile system,Air-defence systems,2022,No,2.0,Yes,2025.0,Yes,New,30.0,30.0,60.0,No
+66438,China,United Arab Emirates,AR-3 MRL,multiple rocket launcher,Artillery,2023,No,,,,,New,0.0,0.0,,No
+66952,France,United Arab Emirates,MICA,long-range air-to-air missile,Missiles,2021,Yes,,,,,New,0.4,0.4,,No
+65784,Turkiye,United Arab Emirates,Kirpi,armoured personnel carrier,Armoured vehicles,2020,Yes,193.0,Yes,2022.0,Yes,New,0.35,0.35,67.55,No
+67544,Israel,United Arab Emirates,Python-5,long-range air-to-air missile,Missiles,2022,,150.0,Yes,2022.0,,New,0.25,0.25,37.5,No
+67543,Israel,United Arab Emirates,Derby,long-range air-to-air missile,Missiles,2022,,150.0,Yes,2022.0,,New,0.4,0.4,60.0,No
+59876,United States,United Arab Emirates,Paveway,guided bomb,Missiles,2017,No,3000.0,Yes,2018.0,Yes,New,0.02,0.02,60.0,No
+59876,United States,United Arab Emirates,Paveway,guided bomb,Missiles,2017,No,3000.0,Yes,2019.0,Yes,New,0.02,0.02,60.0,No
+59876,United States,United Arab Emirates,Paveway,guided bomb,Missiles,2017,No,3000.0,Yes,2020.0,Yes,New,0.02,0.02,60.0,No
+59876,United States,United Arab Emirates,Paveway,guided bomb,Missiles,2017,No,3000.0,Yes,2021.0,Yes,New,0.02,0.02,60.0,No
+59876,United States,United Arab Emirates,Paveway,guided bomb,Missiles,2017,No,1640.0,Yes,2022.0,Yes,New,0.02,0.02,32.8,No
+62598,United States,United Arab Emirates,Patriot-3 SAMS,surface-to-air missile system,Air-defence systems,2018,No,1.0,Yes,2021.0,Yes,New,55.0,55.0,55.0,No
+62598,United States,United Arab Emirates,Patriot-3 SAMS,surface-to-air missile system,Air-defence systems,2018,No,2.0,Yes,2022.0,Yes,New,55.0,55.0,110.0,No
+62598,United States,United Arab Emirates,Patriot-3 SAMS,surface-to-air missile system,Air-defence systems,2018,No,1.0,Yes,2023.0,Yes,New,55.0,55.0,55.0,No
+33449,United States,United Arab Emirates,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,Missiles,2002,Yes,49.0,Yes,2005.0,Yes,New,0.05,0.05,2.45,No
+33455,France,United Arab Emirates,AM-39 Exocet,anti-ship missile,Missiles,2002,Yes,30.0,No,2003.0,No,New,0.75,0.75,22.5,No
+34260,Bulgaria,United Arab Emirates,Konkurs,anti-tank missile,Missiles,2002,Yes,900.0,Yes,2003.0,No,New,0.02,0.02,18.0,No
+34602,Italy,United Arab Emirates,Orion RTN-25X,fire-control radar,Sensors,2004,No,1.0,No,2011.0,No,New,2.5,2.5,2.5,No
+34602,Italy,United Arab Emirates,Orion RTN-25X,fire-control radar,Sensors,2004,No,2.0,No,2013.0,No,New,2.5,2.5,5.0,No
+34602,Italy,United Arab Emirates,Orion RTN-25X,fire-control radar,Sensors,2004,No,1.0,No,2015.0,No,New,2.5,2.5,2.5,No
+34602,Italy,United Arab Emirates,Orion RTN-25X,fire-control radar,Sensors,2004,No,1.0,No,2016.0,No,New,2.5,2.5,2.5,No
+34602,Italy,United Arab Emirates,Orion RTN-25X,fire-control radar,Sensors,2004,No,1.0,No,2017.0,No,New,2.5,2.5,2.5,No
+34646,United Kingdom,United Arab Emirates,Learjet-35,light transport aircraft,Aircraft,2000,Yes,1.0,No,2001.0,No,Second hand,4.3,1.72,1.72,No
+34917,Germany,United Arab Emirates,vehicle engine 801-1100,vehicle engine,Engines,1981,No,6.0,No,1981.0,No,New,0.16,0.16,0.96,No
+34917,Germany,United Arab Emirates,vehicle engine 801-1100,vehicle engine,Engines,1981,No,6.0,Yes,1982.0,No,New,0.16,0.16,0.96,No
+34917,Germany,United Arab Emirates,vehicle engine 801-1100,vehicle engine,Engines,1981,No,6.0,Yes,1983.0,No,New,0.16,0.16,0.96,No
+34918,Germany,United Arab Emirates,vehicle engine 801-1100,vehicle engine,Engines,1982,Yes,9.0,Yes,1984.0,No,New,0.16,0.16,1.44,No
+34918,Germany,United Arab Emirates,vehicle engine 801-1100,vehicle engine,Engines,1982,Yes,11.0,Yes,1985.0,No,New,0.16,0.16,1.76,No
+34918,Germany,United Arab Emirates,vehicle engine 801-1100,vehicle engine,Engines,1982,Yes,1.0,Yes,1986.0,Yes,New,0.16,0.16,0.16,No
+19154,France,United Arab Emirates,R-440 Crotale,surface-to-air missile,Missiles,1988,No,80.0,Yes,1991.0,Yes,New,0.11,0.11,8.8,No
+19294,France,United Arab Emirates,MM-40 Exocet,anti-ship missile,Missiles,1986,Yes,10.0,Yes,1990.0,Yes,New,0.9,0.9,9.0,No
+19294,France,United Arab Emirates,MM-40 Exocet,anti-ship missile,Missiles,1986,Yes,10.0,Yes,1991.0,Yes,New,0.9,0.9,9.0,No
+19250,United Kingdom,United Arab Emirates,Blowpipe,portable surface-to-air missile,Missiles,1980,Yes,100.0,Yes,1981.0,Yes,New,0.06,0.06,6.0,No
+19306,France,United Arab Emirates,R-440 Crotale,surface-to-air missile,Missiles,1986,Yes,15.0,Yes,1990.0,Yes,New,0.11,0.11,1.65,No
+19306,France,United Arab Emirates,R-440 Crotale,surface-to-air missile,Missiles,1986,Yes,15.0,Yes,1991.0,Yes,New,0.11,0.11,1.65,No
+19336,Netherlands,United Arab Emirates,Goalkeeper,naval gun,Naval weapons,1986,Yes,1.0,No,1991.0,No,New,10.0,10.0,10.0,No
+19336,Netherlands,United Arab Emirates,Goalkeeper,naval gun,Naval weapons,1986,Yes,1.0,No,1990.0,No,New,10.0,10.0,10.0,No
+19402,Germany,United Arab Emirates,TNC-45 -,missile boat,Ships,1986,Yes,2.0,No,1990.0,No,New,44.0,44.0,88.0,No
+19438,United Kingdom,United Arab Emirates,Hawk-100,trainer/combat aircraft,Aircraft,1989,No,16.0,No,1993.0,No,New,10.0,10.0,160.0,No
+19438,United Kingdom,United Arab Emirates,Hawk-100,trainer/combat aircraft,Aircraft,1989,No,2.0,No,1994.0,No,New,10.0,10.0,20.0,No
+19958,France,United Arab Emirates,Mirage-2000,fighter/ground-attack aircraft,Aircraft,1990,No,1.0,No,1991.0,No,New,22.0,22.0,22.0,No
+19959,Switzerland,United Arab Emirates,PC-6B Porter,light transport aircraft,Aircraft,1989,No,2.0,No,1989.0,No,New,0.8,0.8,1.6,No
+20062,United States,United Arab Emirates,AH-64A Apache,combat helicopter,Aircraft,1991,No,6.0,No,1993.0,No,New,14.0,14.0,84.0,No
+20062,United States,United Arab Emirates,AH-64A Apache,combat helicopter,Aircraft,1991,No,14.0,No,1994.0,No,New,14.0,14.0,196.0,No
+20208,South Africa,United Arab Emirates,G-6 155mm,self-propelled gun,Artillery,1990,No,6.0,Yes,1991.0,No,New,1.5,1.5,9.0,No
+20208,South Africa,United Arab Emirates,G-6 155mm,self-propelled gun,Artillery,1990,No,36.0,Yes,1992.0,No,New,1.5,1.5,54.0,No
+20208,South Africa,United Arab Emirates,G-6 155mm,self-propelled gun,Artillery,1990,No,36.0,Yes,1993.0,No,New,1.5,1.5,54.0,No
+20321,United States,United Arab Emirates,AGM-114 Hellfire,anti-tank missile,Missiles,1991,No,200.0,Yes,1993.0,No,New,0.04,0.04,8.0,No
+20321,United States,United Arab Emirates,AGM-114 Hellfire,anti-tank missile,Missiles,1991,No,420.0,Yes,1994.0,No,New,0.04,0.04,16.8,No
+20622,Italy,United Arab Emirates,FIROS 122mm,multiple rocket launcher,Artillery,1984,No,24.0,Yes,1987.0,No,New,0.6,0.6,14.4,No
+20622,Italy,United Arab Emirates,FIROS 122mm,multiple rocket launcher,Artillery,1984,No,24.0,Yes,1988.0,No,New,0.6,0.6,14.4,No
+35790,Libya,United Arab Emirates,CH-47C Chinook,transport helicopter,Aircraft,2003,No,3.0,Yes,2006.0,Yes,Second hand,15.0,6.0,18.0,No
+35790,Libya,United Arab Emirates,CH-47C Chinook,transport helicopter,Aircraft,2003,No,3.0,Yes,2009.0,No,Second hand,15.0,6.0,18.0,No
+35790,Libya,United Arab Emirates,CH-47C Chinook,transport helicopter,Aircraft,2003,No,3.0,Yes,2010.0,No,Second hand,15.0,6.0,18.0,No
+52621,United States,United Arab Emirates,CH-47F,transport helicopter,Aircraft,2008,No,4.0,No,2010.0,No,New,20.0,20.0,80.0,No
+51539,United States,United Arab Emirates,CH-47F,transport helicopter,Aircraft,2011,No,2.0,Yes,2012.0,No,New,20.0,20.0,40.0,No
+51539,United States,United Arab Emirates,CH-47F,transport helicopter,Aircraft,2011,No,4.0,Yes,2013.0,No,New,20.0,20.0,80.0,No
+51539,United States,United Arab Emirates,CH-47F,transport helicopter,Aircraft,2011,No,4.0,Yes,2014.0,Yes,New,20.0,20.0,80.0,No
+51539,United States,United Arab Emirates,CH-47F,transport helicopter,Aircraft,2011,No,2.0,Yes,2015.0,Yes,New,20.0,20.0,40.0,No
+3336,Brazil,United Arab Emirates,EE-11 Urutu,armoured personnel carrier,Armoured vehicles,1982,No,30.0,Yes,1982.0,Yes,New,0.28,0.28,8.25,No
+3336,Brazil,United Arab Emirates,EE-11 Urutu,armoured personnel carrier,Armoured vehicles,1982,No,30.0,Yes,1983.0,Yes,New,0.28,0.28,8.25,No
+1568,Sweden,United Arab Emirates,RBS-70,portable surface-to-air missile,Missiles,1979,No,143.0,No,1980.0,No,New,0.08,0.08,11.44,No
+61944,Malaysia,United Arab Emirates,LCT-80m,landing ship,Ships,2012,Yes,1.0,No,2013.0,Yes,New,15.0,15.0,15.0,No
+61944,Malaysia,United Arab Emirates,LCT-80m,landing ship,Ships,2012,Yes,1.0,No,2014.0,Yes,New,15.0,15.0,15.0,No
+27414,Russia,United Arab Emirates,Pantsyr-S1,self-propelled air-defence system,Air-defence systems,2000,No,8.0,Yes,2009.0,No,New,11.0,11.0,88.0,No
+27414,Russia,United Arab Emirates,Pantsyr-S1,self-propelled air-defence system,Air-defence systems,2000,No,24.0,Yes,2010.0,No,New,11.0,11.0,264.0,No
+27414,Russia,United Arab Emirates,Pantsyr-S1,self-propelled air-defence system,Air-defence systems,2000,No,6.0,Yes,2011.0,No,New,11.0,11.0,66.0,No
+27414,Russia,United Arab Emirates,Pantsyr-S1,self-propelled air-defence system,Air-defence systems,2000,No,6.0,Yes,2012.0,No,New,11.0,11.0,66.0,No
+27414,Russia,United Arab Emirates,Pantsyr-S1,self-propelled air-defence system,Air-defence systems,2000,No,6.0,Yes,2013.0,No,New,11.0,11.0,66.0,No
+27143,United States,United Arab Emirates,AIM-9M Sidewinder,short-range air-to-air missile,Missiles,2002,No,42.0,Yes,2004.0,Yes,New,0.12,0.12,5.04,No
+27143,United States,United Arab Emirates,AIM-9M Sidewinder,short-range air-to-air missile,Missiles,2002,No,56.0,No,2005.0,No,New,0.12,0.12,6.72,No
+27143,United States,United Arab Emirates,AIM-9M Sidewinder,short-range air-to-air missile,Missiles,2002,No,169.0,Yes,2006.0,Yes,New,0.12,0.12,20.28,No
+56868,Germany,United Arab Emirates,Rmah,support ship,Ships,2011,No,2.0,No,2014.0,No,New,25.0,25.0,50.0,No
+61819,United Kingdom,United Arab Emirates,Seaspray,maritime patrol aircraft radar,Sensors,2015,No,2.0,No,2020.0,No,New,2.0,2.0,4.0,No
+23040,Netherlands,United Arab Emirates,M-109A1 155mm,self-propelled gun,Artillery,1995,No,25.0,Yes,1997.0,No,Second hand but modernized,1.1,0.73,18.15,No
+23040,Netherlands,United Arab Emirates,M-109A1 155mm,self-propelled gun,Artillery,1995,No,31.0,Yes,1998.0,No,Second hand but modernized,1.1,0.73,22.51,No
+23040,Netherlands,United Arab Emirates,M-109A1 155mm,self-propelled gun,Artillery,1995,No,31.0,Yes,1999.0,No,Second hand but modernized,1.1,0.73,22.51,No
+40214,Sweden,United Arab Emirates,Erieye SRSS,airborne early-warning radar,Sensors,2015,No,2.0,No,2020.0,No,New,40.0,40.0,80.0,No
+50882,Finland,United Arab Emirates,NEMO 120mm,mortar turret,Artillery,2009,No,2.0,Yes,2013.0,No,New,0.6,0.6,1.2,No
+50882,Finland,United Arab Emirates,NEMO 120mm,mortar turret,Artillery,2009,No,3.0,Yes,2014.0,No,New,0.6,0.6,1.8,No
+50882,Finland,United Arab Emirates,NEMO 120mm,mortar turret,Artillery,2009,No,1.0,No,2015.0,No,New,0.6,0.6,0.6,No
+62080,Germany,United Arab Emirates,BR-710 (7600),turbofan,Engines,2012,Yes,2.0,No,2018.0,No,New,2.5,2.5,5.0,No
+62080,Germany,United Arab Emirates,BR-710 (7600),turbofan,Engines,2012,Yes,2.0,No,2019.0,No,New,2.5,2.5,5.0,No
+63102,Germany,United Arab Emirates,COBRA GR,artillery locating radar,Sensors,2016,Yes,1.0,Yes,2019.0,Yes,New,10.0,10.0,10.0,No
+63102,Germany,United Arab Emirates,COBRA GR,artillery locating radar,Sensors,2016,Yes,1.0,Yes,2020.0,Yes,New,10.0,10.0,10.0,No
+63102,Germany,United Arab Emirates,COBRA GR,artillery locating radar,Sensors,2016,Yes,1.0,Yes,2021.0,Yes,New,10.0,10.0,10.0,No
+31800,Italy,United Arab Emirates,Abu Dhabi -,frigate,Ships,2009,No,1.0,No,2013.0,No,New,142.0,142.0,142.0,No
+39378,United States,United Arab Emirates,HIMARS,multiple rocket launcher,Artillery,2008,No,20.0,Yes,2013.0,,New,2.2,2.2,44.0,No
+57987,France,United Arab Emirates,BlueMaster,anti-submarine sonar,Sensors,2009,Yes,1.0,No,2013.0,No,New,10.0,10.0,10.0,No
+59569,New Zealand,United Arab Emirates,P-750,light transport aircraft,Aircraft,2014,No,1.0,No,2015.0,No,New,0.9,0.9,0.9,No
+61656,China,United Arab Emirates,Wing Loong-2,armed drone,Aircraft,2017,No,5.0,Yes,2017.0,No,New,4.0,4.0,20.0,No
+61656,China,United Arab Emirates,Wing Loong-2,armed drone,Aircraft,2017,No,10.0,Yes,2018.0,Yes,New,4.0,4.0,40.0,No
+66346,United States,United Arab Emirates,RIM-116C RAM Block-2B,surface-to-air missile,Missiles,2019,Yes,30.0,Yes,2023.0,No,New,0.25,0.25,7.5,No
+66346,United States,United Arab Emirates,RIM-116C RAM Block-2B,surface-to-air missile,Missiles,2019,Yes,30.0,Yes,2024.0,,New,0.25,0.25,7.5,No
+24652,France,United Arab Emirates,DRBV-51C,fire-control radar,Sensors,1986,Yes,1.0,No,1990.0,No,New,3.5,3.5,3.5,No
+24652,France,United Arab Emirates,DRBV-51C,fire-control radar,Sensors,1986,Yes,1.0,No,1991.0,No,New,3.5,3.5,3.5,No
+57970,Germany,United Arab Emirates,Wisent-2,armoured engineer/recovery vehicle,Armoured vehicles,2014,No,2.0,Yes,2016.0,Yes,New,2.5,2.5,5.0,No
+57970,Germany,United Arab Emirates,Wisent-2,armoured engineer/recovery vehicle,Armoured vehicles,2014,No,2.0,Yes,2017.0,Yes,New,2.5,2.5,5.0,No
+21375,United Kingdom,United Arab Emirates,PGM-500/2000,air-to-surface missile,Missiles,1985,No,50.0,Yes,1989.0,Yes,New,0.2,0.2,10.0,No
+21375,United Kingdom,United Arab Emirates,PGM-500/2000,air-to-surface missile,Missiles,1985,No,75.0,Yes,1990.0,Yes,New,0.2,0.2,15.0,No
+21375,United Kingdom,United Arab Emirates,PGM-500/2000,air-to-surface missile,Missiles,1985,No,80.0,Yes,1991.0,Yes,New,0.2,0.2,16.0,No
+21375,United Kingdom,United Arab Emirates,PGM-500/2000,air-to-surface missile,Missiles,1985,No,100.0,Yes,1992.0,Yes,New,0.2,0.2,20.0,No
+21375,United Kingdom,United Arab Emirates,PGM-500/2000,air-to-surface missile,Missiles,1985,No,328.0,Yes,1993.0,No,New,0.2,0.2,65.6,No
+21375,United Kingdom,United Arab Emirates,PGM-500/2000,air-to-surface missile,Missiles,1985,No,195.0,Yes,1994.0,No,New,0.2,0.2,39.0,No
+21375,United Kingdom,United Arab Emirates,PGM-500/2000,air-to-surface missile,Missiles,1985,No,168.0,Yes,1996.0,No,New,0.2,0.2,33.6,No
+21375,United Kingdom,United Arab Emirates,PGM-500/2000,air-to-surface missile,Missiles,1985,No,338.0,Yes,1997.0,No,New,0.2,0.2,67.6,No
+21375,United Kingdom,United Arab Emirates,PGM-500/2000,air-to-surface missile,Missiles,1985,No,416.0,Yes,1998.0,No,New,0.2,0.2,83.2,No
+55307,South Africa,United Arab Emirates,Al Tariq,guided bomb,Missiles,2011,No,600.0,No,2015.0,No,New,0.06,0.06,36.0,Yes
+55307,South Africa,United Arab Emirates,Al Tariq,guided bomb,Missiles,2011,No,600.0,Yes,2016.0,No,New,0.06,0.06,36.0,Yes
+55307,South Africa,United Arab Emirates,Al Tariq,guided bomb,Missiles,2011,No,120.0,Yes,2017.0,No,New,0.06,0.06,7.2,Yes
+55307,South Africa,United Arab Emirates,Al Tariq,guided bomb,Missiles,2011,No,100.0,Yes,2018.0,No,New,0.06,0.06,6.0,Yes
+52701,Canada,United Arab Emirates,aircraft engine 1001-2000,aircraft engine,Engines,2009,No,16.0,Yes,2011.0,No,New,0.5,0.5,8.0,No
+52701,Canada,United Arab Emirates,aircraft engine 1001-2000,aircraft engine,Engines,2009,No,9.0,Yes,2012.0,No,New,0.5,0.5,4.5,No
+63092,Canada,United Arab Emirates,aircraft engine 1001-2000,aircraft engine,Engines,2019,No,,,,,New,0.5,0.5,,No
+61461,Canada,United Arab Emirates,aircraft engine 2001-3000,aircraft engine,Engines,2017,No,10.0,Yes,2019.0,No,New,0.75,0.75,7.5,No
+67265,Brazil,United Arab Emirates,MANSUP,anti-ship missile,Missiles,2023,Yes,2.0,Yes,2025.0,No,New,0.7,0.7,1.4,Yes
+65921,Turkiye,United Arab Emirates,Bayraktar TB-2,armed drone,Aircraft,2022,Yes,20.0,Yes,2023.0,Yes,New,2.4,2.4,48.0,No
+60485,United States,United Arab Emirates,AH-64E Apache,combat helicopter,Aircraft,2018,No,6.0,Yes,2023.0,No,New,15.0,15.0,90.0,No
+60485,United States,United Arab Emirates,AH-64E Apache,combat helicopter,Aircraft,2018,No,14.0,Yes,2024.0,,New,15.0,15.0,210.0,No
+60485,United States,United Arab Emirates,AH-64E Apache,combat helicopter,Aircraft,2018,No,12.0,Yes,2025.0,,New,15.0,15.0,180.0,No
+63084,Canada,United Arab Emirates,Global Express -,transport aircraft,Aircraft,2021,No,2.0,,2024.0,,New,21.0,21.0,42.0,No
+66579,Spain,United Arab Emirates,Guardian-30,infantry fighting vehicle turret,Other,2023,No,,,,,New,0.8,0.8,,Yes
+66951,United Kingdom,United Arab Emirates,Meteor MI,long-range air-to-air missile,Missiles,2021,Yes,,,,,New,0.8,0.8,,No
+66981,Italy,United Arab Emirates,Super Rapid Strales 76mm,naval gun,Naval weapons,2021,Yes,1.0,No,2025.0,,New,5.0,5.0,5.0,No
+26837,United Kingdom,United Arab Emirates,Blindfire,fire-control radar,Sensors,1974,Yes,5.0,Yes,1976.0,Yes,New,2.5,2.5,12.5,No
+26837,United Kingdom,United Arab Emirates,Blindfire,fire-control radar,Sensors,1974,Yes,5.0,Yes,1977.0,Yes,New,2.5,2.5,12.5,No
+26837,United Kingdom,United Arab Emirates,Blindfire,fire-control radar,Sensors,1974,Yes,2.0,Yes,1978.0,Yes,New,2.5,2.5,5.0,No
+27160,France,United Arab Emirates,VCR-TT,armoured personnel carrier,Armoured vehicles,1977,Yes,30.0,Yes,1979.0,,New,0.16,0.16,4.8,No
+27160,France,United Arab Emirates,VCR-TT,armoured personnel carrier,Armoured vehicles,1977,Yes,30.0,Yes,1978.0,,New,0.16,0.16,4.8,No
+27160,France,United Arab Emirates,VCR-TT,armoured personnel carrier,Armoured vehicles,1977,Yes,22.0,Yes,1980.0,,New,0.16,0.16,3.52,No
+27142,United States,United Arab Emirates,AIM-120A AMRAAM,long-range air-to-air missile,Missiles,2003,Yes,140.0,Yes,2006.0,No,New,0.4,0.4,56.0,No
+27142,United States,United Arab Emirates,AIM-120A AMRAAM,long-range air-to-air missile,Missiles,2003,Yes,151.0,Yes,2005.0,No,New,0.4,0.4,60.4,No
+27142,United States,United Arab Emirates,AIM-120A AMRAAM,long-range air-to-air missile,Missiles,2003,Yes,100.0,Yes,2004.0,No,New,0.4,0.4,40.0,No
+27142,United States,United Arab Emirates,AIM-120A AMRAAM,long-range air-to-air missile,Missiles,2003,Yes,100.0,Yes,2007.0,No,New,0.4,0.4,40.0,No
+27144,United States,United Arab Emirates,AGM-88B HARM,anti-radar missile,Missiles,2001,No,151.0,No,2006.0,No,New,0.25,0.25,37.75,No
+27144,United States,United Arab Emirates,AGM-88B HARM,anti-radar missile,Missiles,2001,No,2.0,Yes,2007.0,No,New,0.25,0.25,0.5,No
+27145,United States,United Arab Emirates,AGM-65 Maverick,air-to-surface missile,Missiles,2002,Yes,200.0,Yes,2003.0,Yes,New,0.15,0.15,30.0,No
+27145,United States,United Arab Emirates,AGM-65 Maverick,air-to-surface missile,Missiles,2002,Yes,200.0,Yes,2004.0,Yes,New,0.15,0.15,30.0,No
+27145,United States,United Arab Emirates,AGM-65 Maverick,air-to-surface missile,Missiles,2002,Yes,200.0,Yes,2005.0,Yes,New,0.15,0.15,30.0,No
+27145,United States,United Arab Emirates,AGM-65 Maverick,air-to-surface missile,Missiles,2002,Yes,300.0,Yes,2006.0,Yes,New,0.15,0.15,45.0,No
+27145,United States,United Arab Emirates,AGM-65 Maverick,air-to-surface missile,Missiles,2002,Yes,263.0,Yes,2007.0,Yes,New,0.15,0.15,39.45,No
+27146,United States,United Arab Emirates,Harpoon Block-1,anti-ship missile,Missiles,2003,Yes,12.0,Yes,2005.0,Yes,New,0.9,0.9,10.8,No
+27422,Russia,United Arab Emirates,Igla-1,portable surface-to-air missile,Missiles,1997,Yes,200.0,Yes,1998.0,No,New,0.07,0.07,14.0,No
+27422,Russia,United Arab Emirates,Igla-1,portable surface-to-air missile,Missiles,1997,Yes,200.0,Yes,1999.0,No,New,0.07,0.07,14.0,No
+27424,China,United Arab Emirates,Type-59-1 130mm,towed gun,Artillery,1990,Yes,10.0,Yes,1993.0,Yes,New,0.7,0.7,7.0,No
+27424,China,United Arab Emirates,Type-59-1 130mm,towed gun,Artillery,1990,Yes,10.0,Yes,1994.0,Yes,New,0.7,0.7,7.0,No
+28439,France,United Arab Emirates,Storm Shadow,air-to-surface missile,Missiles,1998,No,10.0,Yes,2003.0,No,New,0.64,0.64,6.4,No
+28439,France,United Arab Emirates,Storm Shadow,air-to-surface missile,Missiles,1998,No,40.0,Yes,2008.0,Yes,New,0.64,0.64,25.6,No
+28439,France,United Arab Emirates,Storm Shadow,air-to-surface missile,Missiles,1998,No,100.0,Yes,2004.0,No,New,0.64,0.64,64.0,No
+28439,France,United Arab Emirates,Storm Shadow,air-to-surface missile,Missiles,1998,No,150.0,Yes,2005.0,No,New,0.64,0.64,96.0,No
+28439,France,United Arab Emirates,Storm Shadow,air-to-surface missile,Missiles,1998,No,150.0,Yes,2006.0,No,New,0.64,0.64,96.0,No
+28439,France,United Arab Emirates,Storm Shadow,air-to-surface missile,Missiles,1998,No,150.0,Yes,2007.0,No,New,0.64,0.64,96.0,No
+28478,France,United Arab Emirates,MICA,long-range air-to-air missile,Missiles,1998,No,100.0,Yes,2004.0,Yes,New,0.4,0.4,40.0,No
+28478,France,United Arab Emirates,MICA,long-range air-to-air missile,Missiles,1998,No,100.0,Yes,2006.0,Yes,New,0.4,0.4,40.0,No
+28478,France,United Arab Emirates,MICA,long-range air-to-air missile,Missiles,1998,No,100.0,Yes,2007.0,Yes,New,0.4,0.4,40.0,No
+28478,France,United Arab Emirates,MICA,long-range air-to-air missile,Missiles,1998,No,100.0,Yes,2003.0,No,New,0.4,0.4,40.0,No
+28478,France,United Arab Emirates,MICA,long-range air-to-air missile,Missiles,1998,No,100.0,Yes,2005.0,No,New,0.4,0.4,40.0,No
+28655,France,United Arab Emirates,R-550 Magic-2,short-range air-to-air missile,Missiles,1998,Yes,100.0,Yes,2003.0,Yes,New,0.11,0.11,11.0,No
+28655,France,United Arab Emirates,R-550 Magic-2,short-range air-to-air missile,Missiles,1998,Yes,100.0,Yes,2004.0,Yes,New,0.11,0.11,11.0,No
+28655,France,United Arab Emirates,R-550 Magic-2,short-range air-to-air missile,Missiles,1998,Yes,100.0,Yes,2005.0,Yes,New,0.11,0.11,11.0,No
+28655,France,United Arab Emirates,R-550 Magic-2,short-range air-to-air missile,Missiles,1998,Yes,100.0,Yes,2006.0,Yes,New,0.11,0.11,11.0,No
+28655,France,United Arab Emirates,R-550 Magic-2,short-range air-to-air missile,Missiles,1998,Yes,100.0,Yes,2007.0,Yes,New,0.11,0.11,11.0,No
+29114,United States,United Arab Emirates,King Air,light transport aircraft,Aircraft,1996,No,2.0,Yes,1997.0,No,New,2.85,2.85,5.7,No
+29106,France,United Arab Emirates,TRS-2100 Tiger-S,air-search radar,Sensors,1986,Yes,11.0,Yes,1989.0,No,New,4.75,4.75,52.25,No
+29325,South Africa,United Arab Emirates,Seeker,reconnaissance drone,Aircraft,1995,Yes,4.0,Yes,1996.0,Yes,New,0.2,0.2,0.8,No
+56574,United States,United Arab Emirates,GBU-39 SDB,guided glide bomb,Missiles,2014,Yes,1000.0,Yes,2018.0,Yes,New,0.02,0.02,20.0,No
+56574,United States,United Arab Emirates,GBU-39 SDB,guided glide bomb,Missiles,2014,Yes,1000.0,Yes,2017.0,Yes,New,0.02,0.02,20.0,No
+56574,United States,United Arab Emirates,GBU-39 SDB,guided glide bomb,Missiles,2014,Yes,1000.0,Yes,2016.0,Yes,New,0.02,0.02,20.0,No
+56574,United States,United Arab Emirates,GBU-39 SDB,guided glide bomb,Missiles,2014,Yes,1000.0,Yes,2015.0,Yes,New,0.02,0.02,20.0,No
+56574,United States,United Arab Emirates,GBU-39 SDB,guided glide bomb,Missiles,2014,Yes,1000.0,Yes,2019.0,Yes,New,0.02,0.02,20.0,No
+30053,France,United Arab Emirates,AS-350/H-125,(armed) light helicopter,Aircraft,1999,No,8.0,Yes,2001.0,No,New,1.3,1.3,10.4,No
+30053,France,United Arab Emirates,AS-350/H-125,(armed) light helicopter,Aircraft,1999,No,6.0,Yes,2002.0,No,New,1.3,1.3,7.8,No
+37345,United Kingdom,United Arab Emirates,Viper (1200),turbojet,Engines,1987,No,3.0,No,1987.0,No,New,0.4,0.4,1.2,No
+31127,France,United Arab Emirates,Ocean Master,maritime patrol aircraft radar,Sensors,2009,No,2.0,No,2012.0,No,New,2.5,2.5,5.0,No
+32381,Germany,United Arab Emirates,Frankenthal,minehunter,Ships,2006,No,2.0,No,2006.0,No,Second hand,55.0,22.0,44.0,No
+32382,United Kingdom,United Arab Emirates,Protector PC,patrol boat,Ships,1998,No,2.0,No,1999.0,No,New,11.0,11.0,22.0,No
+32380,Sweden,United Arab Emirates,Giraffe-AMB,air-search radar,Sensors,2004,No,1.0,No,2011.0,No,New,7.5,7.5,7.5,No
+32380,Sweden,United Arab Emirates,Giraffe-AMB,air-search radar,Sensors,2004,No,2.0,No,2013.0,No,New,7.5,7.5,15.0,No
+32380,Sweden,United Arab Emirates,Giraffe-AMB,air-search radar,Sensors,2004,No,1.0,No,2015.0,No,New,7.5,7.5,7.5,No
+32380,Sweden,United Arab Emirates,Giraffe-AMB,air-search radar,Sensors,2004,No,1.0,No,2016.0,No,New,7.5,7.5,7.5,No
+32380,Sweden,United Arab Emirates,Giraffe-AMB,air-search radar,Sensors,2004,No,1.0,No,2017.0,No,New,7.5,7.5,7.5,No
+32485,Italy,United Arab Emirates,A-244,anti-submarine torpedo,Missiles,1990,Yes,24.0,Yes,1991.0,Yes,New,0.25,0.25,6.0,No
+61820,United Kingdom,United Arab Emirates,Seaspray,maritime patrol aircraft radar,Sensors,2017,No,1.0,No,2021.0,No,New,2.0,2.0,2.0,No
+50583,Canada,United Arab Emirates,DHC-6,transport aircraft,Aircraft,2008,No,1.0,Yes,2013.0,No,New,2.5,2.5,2.5,No
+50583,Canada,United Arab Emirates,DHC-6,transport aircraft,Aircraft,2008,No,5.0,Yes,2014.0,No,New,2.5,2.5,12.5,No
+50583,Canada,United Arab Emirates,DHC-6,transport aircraft,Aircraft,2008,No,4.0,Yes,2015.0,No,New,2.5,2.5,10.0,No
+35439,France,United Arab Emirates,AS-550C2,combat helicopter,Aircraft,2000,No,6.0,No,2002.0,No,New,3.0,3.0,18.0,No
+35439,France,United Arab Emirates,AS-550C2,combat helicopter,Aircraft,2000,No,6.0,No,2003.0,No,New,3.0,3.0,18.0,No
+35439,France,United Arab Emirates,AS-550C2,combat helicopter,Aircraft,2000,No,3.0,No,2005.0,No,New,3.0,3.0,9.0,No
+35497,United Kingdom,United Arab Emirates,Learjet-35,light transport aircraft,Aircraft,2004,No,1.0,No,2004.0,No,Second hand,4.3,1.72,1.72,No
+62711,unknown supplier(s),United Arab Emirates,ship engine 6001-8000,ship engine,Engines,2019,Yes,2.0,No,2023.0,No,New,2.5,2.5,5.0,No
+62711,unknown supplier(s),United Arab Emirates,ship engine 6001-8000,ship engine,Engines,2019,Yes,2.0,,2024.0,,New,2.5,2.5,5.0,No
+63420,United States,United Arab Emirates,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2020,No,10.0,Yes,2022.0,Yes,New,1.0,1.0,10.0,No
+63420,United States,United Arab Emirates,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2020,No,15.0,Yes,2023.0,Yes,New,1.0,1.0,15.0,No
+65160,South Africa,United Arab Emirates,Seeker-400,(armed) reconnaissance drone,Aircraft,2020,No,,,,,New,1.0,1.0,,No
+64377,United States,United Arab Emirates,MIM-104 PAC-2,surface-to-air missile,Missiles,2019,No,35.0,Yes,2021.0,Yes,New,1.0,1.0,35.0,No
+64377,United States,United Arab Emirates,MIM-104 PAC-2,surface-to-air missile,Missiles,2019,No,55.0,Yes,2022.0,Yes,New,1.0,1.0,55.0,No
+64377,United States,United Arab Emirates,MIM-104 PAC-2,surface-to-air missile,Missiles,2019,No,60.0,Yes,2023.0,Yes,New,1.0,1.0,60.0,No
+37595,Canada,United Arab Emirates,aircraft engine 500-1000,aircraft engine,Engines,1984,No,8.0,Yes,1986.0,No,New,0.35,0.35,2.8,No
+37595,Canada,United Arab Emirates,aircraft engine 500-1000,aircraft engine,Engines,1984,No,2.0,Yes,1985.0,No,New,0.35,0.35,0.7,No
+64199,United Kingdom,United Arab Emirates,Seaspray,maritime patrol aircraft radar,Sensors,2021,No,2.0,,2024.0,,New,2.0,2.0,4.0,No
+60897,United States,United Arab Emirates,MIM-104 PAC-3 MSE,anti-ballistic missile missile,Missiles,2018,No,60.0,Yes,2020.0,No,New,1.5,1.5,90.0,No
+65923,Turkiye,United Arab Emirates,Bayraktar TB-2,armed drone,Aircraft,2022,Yes,,,,,New,2.4,2.4,,No
+19359,France,United Arab Emirates,Mistral SAM,portable surface-to-air missile,Missiles,1988,No,250.0,Yes,1993.0,No,New,0.09,0.09,22.5,No
+19359,France,United Arab Emirates,Mistral SAM,portable surface-to-air missile,Missiles,1988,No,250.0,Yes,1994.0,No,New,0.09,0.09,22.5,No
+20798,France,United Arab Emirates,Mistral SAM,portable surface-to-air missile,Missiles,1986,Yes,40.0,Yes,1990.0,Yes,New,0.09,0.09,3.6,No
+67471,Estonia,United Arab Emirates,Type X -,armed UGV,Armoured vehicles,2023,No,,,,,New,0.0,0.0,,No
+21487,Italy,United Arab Emirates,MB-339A -,trainer/combat aircraft,Aircraft,1990,Yes,1.0,No,1991.0,No,New,5.1,5.1,5.1,No
+21487,Italy,United Arab Emirates,MB-339A -,trainer/combat aircraft,Aircraft,1990,Yes,1.0,No,1992.0,No,New,5.1,5.1,5.1,No
+21486,United Kingdom,United Arab Emirates,Hawk-60,trainer/combat aircraft,Aircraft,1987,No,1.0,No,1988.0,No,New,9.0,9.0,9.0,No
+21628,Romania,United Arab Emirates,SA-330 Puma,helicopter,Aircraft,1993,No,4.0,No,1993.0,No,Second hand but modernized,6.0,3.96,15.84,No
+21628,Romania,United Arab Emirates,SA-330 Puma,helicopter,Aircraft,1993,No,6.0,No,1994.0,No,Second hand but modernized,6.0,3.96,23.76,No
+21737,United States,United Arab Emirates,AGM-114 Hellfire,anti-tank missile,Missiles,1994,No,360.0,Yes,1996.0,Yes,New,0.04,0.04,14.4,No
+21734,Italy,United Arab Emirates,OF-40 ARV,armoured recovery vehicle,Armoured vehicles,1982,Yes,2.0,Yes,1985.0,Yes,New,1.4,1.4,2.8,No
+21734,Italy,United Arab Emirates,OF-40 ARV,armoured recovery vehicle,Armoured vehicles,1982,Yes,1.0,Yes,1986.0,Yes,New,1.4,1.4,1.4,No
+21735,Soviet Union,United Arab Emirates,Strela-3,portable surface-to-air missile,Missiles,1986,Yes,50.0,Yes,1986.0,No,New,0.06,0.06,3.0,No
+21735,Soviet Union,United Arab Emirates,Strela-3,portable surface-to-air missile,Missiles,1986,Yes,50.0,Yes,1987.0,No,New,0.06,0.06,3.0,No
+21738,United States,United Arab Emirates,AH-64A Apache,combat helicopter,Aircraft,1994,No,10.0,Yes,1996.0,No,New,14.0,14.0,140.0,No
+21895,Switzerland,United Arab Emirates,Skyguard GR,air-search/fire-control radar,Sensors,1983,No,15.0,Yes,1984.0,Yes,New,5.0,5.0,75.0,No
+22250,Romania,United Arab Emirates,SA-330 Puma,helicopter,Aircraft,2001,No,2.0,Yes,2006.0,No,Second hand but modernized,6.0,3.96,7.92,No
+22250,Romania,United Arab Emirates,SA-330 Puma,helicopter,Aircraft,2001,No,8.0,Yes,2007.0,No,Second hand but modernized,6.0,3.96,31.68,No
+22534,Germany,United Arab Emirates,Tpz-1 Fuchs,armoured personnel carrier,Armoured vehicles,2005,No,11.0,Yes,2008.0,No,New,0.35,0.35,3.85,No
+22534,Germany,United Arab Emirates,Tpz-1 Fuchs,armoured personnel carrier,Armoured vehicles,2005,No,10.0,Yes,2007.0,No,New,0.35,0.35,3.5,No
+22534,Germany,United Arab Emirates,Tpz-1 Fuchs,armoured personnel carrier,Armoured vehicles,2005,No,11.0,Yes,2009.0,No,New,0.35,0.35,3.85,No
+22706,United Kingdom,United Arab Emirates,Hawk-60,trainer/combat aircraft,Aircraft,1983,No,8.0,Yes,1984.0,No,New,9.0,9.0,72.0,No
+22706,United Kingdom,United Arab Emirates,Hawk-60,trainer/combat aircraft,Aircraft,1983,No,8.0,Yes,1985.0,No,New,9.0,9.0,72.0,No
+22838,France,United Arab Emirates,MILAN,anti-tank missile,Missiles,1984,Yes,1150.0,Yes,1984.0,Yes,New,0.01,0.01,11.5,No
+22838,France,United Arab Emirates,MILAN,anti-tank missile,Missiles,1984,Yes,1150.0,Yes,1985.0,Yes,New,0.01,0.01,11.5,No
+22847,Germany,United Arab Emirates,G-115,trainer aircraft,Aircraft,1995,No,12.0,Yes,1997.0,No,New,0.1,0.1,1.2,No
+22848,United States,United Arab Emirates,TPS-63,air-search radar,Sensors,1993,No,1.0,Yes,1995.0,Yes,New,5.0,5.0,5.0,No
+22869,France,United Arab Emirates,HOT,anti-tank missile,Missiles,1978,Yes,125.0,Yes,1979.0,Yes,New,0.02,0.02,2.5,No
+22869,France,United Arab Emirates,HOT,anti-tank missile,Missiles,1978,Yes,125.0,Yes,1980.0,Yes,New,0.02,0.02,2.5,No
+22874,France,United Arab Emirates,AM-39 Exocet,anti-ship missile,Missiles,1995,No,10.0,Yes,1995.0,Yes,New,0.75,0.75,7.5,No
+23059,United States,United Arab Emirates,Bell-205A,helicopter,Aircraft,1976,No,1.0,No,1977.0,Yes,New,2.2,2.2,2.2,No
+23041,Russia,United Arab Emirates,BMP-3,infantry fighting vehicle,Armoured vehicles,1994,Yes,43.0,No,1994.0,No,New,1.5,1.5,64.5,No
+23041,Russia,United Arab Emirates,BMP-3,infantry fighting vehicle,Armoured vehicles,1994,Yes,122.0,No,1995.0,No,New,1.5,1.5,183.0,No
+23041,Russia,United Arab Emirates,BMP-3,infantry fighting vehicle,Armoured vehicles,1994,Yes,25.0,No,1996.0,No,New,1.5,1.5,37.5,No
+23041,Russia,United Arab Emirates,BMP-3,infantry fighting vehicle,Armoured vehicles,1994,Yes,68.0,No,1997.0,No,New,1.5,1.5,102.0,No
+23041,Russia,United Arab Emirates,BMP-3,infantry fighting vehicle,Armoured vehicles,1994,Yes,82.0,No,1998.0,No,New,1.5,1.5,123.0,No
+23041,Russia,United Arab Emirates,BMP-3,infantry fighting vehicle,Armoured vehicles,1994,Yes,32.0,No,1999.0,No,New,1.5,1.5,48.0,No
+23041,Russia,United Arab Emirates,BMP-3,infantry fighting vehicle,Armoured vehicles,1994,Yes,30.0,No,2000.0,No,New,1.5,1.5,45.0,No
+23057,United Kingdom,United Arab Emirates,Hawk-60,trainer/combat aircraft,Aircraft,1994,Yes,4.0,No,1995.0,No,New,9.0,9.0,36.0,No
+23430,Russia,United Arab Emirates,Bastion ATM,anti-tank missile,Missiles,1994,Yes,1250.0,Yes,1994.0,Yes,New,0.02,0.02,25.0,No
+23430,Russia,United Arab Emirates,Bastion ATM,anti-tank missile,Missiles,1994,Yes,1250.0,Yes,1995.0,Yes,New,0.02,0.02,25.0,No
+23841,Netherlands,United Arab Emirates,Kortenaer,frigate,Ships,1996,No,1.0,No,1997.0,No,Second hand but modernized,300.0,198.0,198.0,No
+23841,Netherlands,United Arab Emirates,Kortenaer,frigate,Ships,1996,No,1.0,No,1998.0,No,Second hand but modernized,300.0,198.0,198.0,No
+23842,Netherlands,United Arab Emirates,Goalkeeper,naval gun,Naval weapons,1996,No,1.0,No,1997.0,No,New,10.0,10.0,10.0,No
+23842,Netherlands,United Arab Emirates,Goalkeeper,naval gun,Naval weapons,1996,No,1.0,No,1998.0,No,New,10.0,10.0,10.0,No
+23843,United States,United Arab Emirates,M-198 155mm,towed gun,Artillery,1994,Yes,12.0,No,1995.0,No,New,0.85,0.85,10.2,No
+24405,United States,United Arab Emirates,C-130H Hercules,transport aircraft,Aircraft,1983,Yes,2.0,No,1984.0,No,New,28.0,28.0,56.0,No
+24368,Russia,United Arab Emirates,Smerch,multiple rocket launcher,Artillery,1996,No,6.0,Yes,1999.0,Yes,New,2.2,2.2,13.2,No
+24646,Sweden,United Arab Emirates,Giraffe-75,air-search radar,Sensors,1986,Yes,1.0,No,1991.0,No,New,4.0,4.0,4.0,No
+24646,Sweden,United Arab Emirates,Giraffe-75,air-search radar,Sensors,1986,Yes,1.0,No,1990.0,No,New,4.0,4.0,4.0,No
+24647,Sweden,United Arab Emirates,Giraffe-75,air-search radar,Sensors,1994,Yes,2.0,Yes,1998.0,No,New,4.0,4.0,8.0,No
+24647,Sweden,United Arab Emirates,Giraffe-75,air-search radar,Sensors,1994,Yes,2.0,Yes,1997.0,No,New,4.0,4.0,8.0,No
+24647,Sweden,United Arab Emirates,Giraffe-75,air-search radar,Sensors,1994,Yes,2.0,Yes,1996.0,No,New,4.0,4.0,8.0,No
+24648,Sweden,United Arab Emirates,9LV,fire-control radar,Sensors,1977,Yes,4.0,No,1981.0,No,New,2.5,2.5,10.0,No
+24648,Sweden,United Arab Emirates,9LV,fire-control radar,Sensors,1977,Yes,2.0,No,1980.0,No,New,2.5,2.5,5.0,No
+24650,France,United Arab Emirates,Super-530D,long-range air-to-air missile,Missiles,1984,Yes,25.0,Yes,1989.0,Yes,New,0.16,0.16,4.0,No
+24650,France,United Arab Emirates,Super-530D,long-range air-to-air missile,Missiles,1984,Yes,25.0,Yes,1990.0,Yes,New,0.16,0.16,4.0,No
+24650,France,United Arab Emirates,Super-530D,long-range air-to-air missile,Missiles,1984,Yes,25.0,Yes,1991.0,Yes,New,0.16,0.16,4.0,No
+24655,France,United Arab Emirates,Super-530D,long-range air-to-air missile,Missiles,1983,No,50.0,Yes,1989.0,Yes,New,0.16,0.16,8.0,No
+24865,South Africa,United Arab Emirates,Seeker,reconnaissance drone,Aircraft,2002,Yes,5.0,No,2003.0,No,New,0.2,0.2,1.0,No
+24867,Singapore,United Arab Emirates,Baracuda,support ship,Ships,1982,Yes,1.0,No,1983.0,No,New,15.0,15.0,15.0,No
+24890,Sweden,United Arab Emirates,9LV,fire-control radar,Sensors,1986,Yes,1.0,No,1990.0,No,New,2.5,2.5,2.5,No
+24890,Sweden,United Arab Emirates,9LV,fire-control radar,Sensors,1986,Yes,1.0,No,1991.0,No,New,2.5,2.5,2.5,No
+20799,France,United Arab Emirates,MM-40 Exocet,anti-ship missile,Missiles,1986,Yes,20.0,Yes,1990.0,No,New,0.9,0.9,18.0,No
+20800,Sweden,United Arab Emirates,9LV,fire-control radar,Sensors,1986,No,2.0,No,1990.0,No,New,2.5,2.5,5.0,No
+20801,Sweden,United Arab Emirates,Giraffe-75,air-search radar,Sensors,1986,No,2.0,No,1990.0,No,New,4.0,4.0,8.0,No
+20803,Russia,United Arab Emirates,BMP-3,infantry fighting vehicle,Armoured vehicles,1992,No,80.0,No,1992.0,No,New,1.5,1.5,120.0,No
+20803,Russia,United Arab Emirates,BMP-3,infantry fighting vehicle,Armoured vehicles,1992,No,95.0,No,1993.0,No,New,1.5,1.5,142.5,No
+20803,Russia,United Arab Emirates,BMP-3,infantry fighting vehicle,Armoured vehicles,1992,No,75.0,No,1994.0,No,New,1.5,1.5,112.5,No
+20967,Indonesia,United Arab Emirates,CN-235 -,transport aircraft,Aircraft,1992,No,2.0,No,1993.0,No,New,9.0,9.0,18.0,No
+20967,Indonesia,United Arab Emirates,CN-235 -,transport aircraft,Aircraft,1992,No,2.0,Yes,1994.0,No,New,9.0,9.0,18.0,No
+20967,Indonesia,United Arab Emirates,CN-235 -,transport aircraft,Aircraft,1992,No,3.0,Yes,1995.0,No,New,9.0,9.0,27.0,No
+40259,United States,United Arab Emirates,MIM-104 PAC-2,surface-to-air missile,Missiles,2008,No,50.0,Yes,2012.0,Yes,New,1.0,1.0,50.0,No
+40259,United States,United Arab Emirates,MIM-104 PAC-2,surface-to-air missile,Missiles,2008,No,75.0,Yes,2013.0,Yes,New,1.0,1.0,75.0,No
+40259,United States,United Arab Emirates,MIM-104 PAC-2,surface-to-air missile,Missiles,2008,No,91.0,Yes,2014.0,No,New,1.0,1.0,91.0,No
+30372,France,United Arab Emirates,SLAR-2000,ground-surveillance radar,Sensors,1984,Yes,8.0,Yes,1985.0,Yes,New,2.0,2.0,16.0,No
+2004,France,United Arab Emirates,SA-316 Alouette-3,light helicopter,Aircraft,1971,Yes,5.0,No,1972.0,No,New,0.95,0.95,4.75,No
+2011,United Kingdom,United Arab Emirates,BN-2 Islander,light transport aircraft,Aircraft,1967,Yes,1.0,Yes,1972.0,Yes,New,0.6,0.6,0.6,No
+1994,United Kingdom,United Arab Emirates,Saladin,armoured reconnaissance/fire-support vehicle,Armoured vehicles,1968,Yes,70.0,Yes,1970.0,Yes,New,0.7,0.7,49.0,No
+1995,United Kingdom,United Arab Emirates,Ferret,armoured reconnaissance vehicle,Armoured vehicles,1968,Yes,15.0,Yes,1970.0,No,New,0.12,0.12,1.8,No
+1995,United Kingdom,United Arab Emirates,Ferret,armoured reconnaissance vehicle,Armoured vehicles,1968,Yes,20.0,Yes,1971.0,No,New,0.12,0.12,2.4,No
+1995,United Kingdom,United Arab Emirates,Ferret,armoured reconnaissance vehicle,Armoured vehicles,1968,Yes,12.0,Yes,1972.0,,New,0.12,0.12,1.44,No
+2006,Canada,United Arab Emirates,DHC-4,transport aircraft,Aircraft,1970,Yes,1.0,No,1971.0,No,New,3.75,3.75,3.75,No
+2001,France,United Arab Emirates,Mirage-5,fighter/ground-attack aircraft,Aircraft,1972,No,7.0,Yes,1973.0,No,New,11.25,11.25,78.75,No
+2001,France,United Arab Emirates,Mirage-5,fighter/ground-attack aircraft,Aircraft,1972,No,7.0,Yes,1974.0,No,New,11.25,11.25,78.75,No
+2001,France,United Arab Emirates,Mirage-5,fighter/ground-attack aircraft,Aircraft,1972,No,3.0,Yes,1976.0,No,New,11.25,11.25,33.75,No
+2002,France,United Arab Emirates,SA-330 Puma,helicopter,Aircraft,1972,Yes,2.0,Yes,1974.0,No,New,6.0,6.0,12.0,No
+2012,United Kingdom,United Arab Emirates,Rapier-1,surface-to-air missile,Missiles,1974,No,80.0,Yes,1976.0,Yes,New,0.1,0.1,8.0,No
+2012,United Kingdom,United Arab Emirates,Rapier-1,surface-to-air missile,Missiles,1974,No,90.0,Yes,1977.0,Yes,New,0.1,0.1,9.0,No
+2012,United Kingdom,United Arab Emirates,Rapier-1,surface-to-air missile,Missiles,1974,No,80.0,Yes,1978.0,Yes,New,0.1,0.1,8.0,No
+2018,France,United Arab Emirates,AS-12,air-to-surface/anti-ship missile,Missiles,1974,Yes,1000.0,Yes,1975.0,No,New,0.02,0.02,20.0,No
+2008,United Kingdom,United Arab Emirates,Hunter-FGA,fighter/ground-attack aircraft,Aircraft,1968,Yes,6.0,No,1970.0,No,Second hand but modernized,4.0,2.64,15.84,No
+2008,United Kingdom,United Arab Emirates,Hunter-FGA,fighter/ground-attack aircraft,Aircraft,1968,Yes,6.0,No,1971.0,No,Second hand but modernized,4.0,2.64,15.84,No
+30783,Russia,United Arab Emirates,57-E6,surface-to-air missile,Missiles,2000,No,240.0,Yes,2009.0,No,New,0.25,0.25,60.0,No
+30783,Russia,United Arab Emirates,57-E6,surface-to-air missile,Missiles,2000,No,240.0,Yes,2010.0,No,New,0.25,0.25,60.0,No
+30783,Russia,United Arab Emirates,57-E6,surface-to-air missile,Missiles,2000,No,240.0,Yes,2011.0,No,New,0.25,0.25,60.0,No
+30783,Russia,United Arab Emirates,57-E6,surface-to-air missile,Missiles,2000,No,240.0,Yes,2012.0,No,New,0.25,0.25,60.0,No
+30783,Russia,United Arab Emirates,57-E6,surface-to-air missile,Missiles,2000,No,240.0,Yes,2013.0,No,New,0.25,0.25,60.0,No
+40345,Finland,United Arab Emirates,AMV-IFV -,infantry fighting vehicle,Armoured vehicles,2008,No,2.0,No,2008.0,No,New,1.05,1.05,2.1,No
+40345,Finland,United Arab Emirates,AMV-IFV -,infantry fighting vehicle,Armoured vehicles,2008,No,3.0,Yes,2010.0,Yes,New,1.05,1.05,3.15,No
+54582,Finland,United Arab Emirates,AMV,armoured personnel carrier,Armoured vehicles,2016,No,40.0,No,2016.0,No,New,0.4,0.4,16.0,No
+25241,United States,United Arab Emirates,AIM-7M,long-range air-to-air missile,Missiles,1997,No,36.0,Yes,1998.0,Yes,New,0.18,0.18,6.48,No
+25241,United States,United Arab Emirates,AIM-7M,long-range air-to-air missile,Missiles,1997,No,36.0,Yes,1999.0,Yes,New,0.18,0.18,6.48,No
+25240,United States,United Arab Emirates,Harpoon Block-1,anti-ship missile,Missiles,1998,No,8.0,No,2000.0,No,New,0.9,0.9,7.2,No
+25240,United States,United Arab Emirates,Harpoon Block-1,anti-ship missile,Missiles,1998,No,1.0,Yes,2001.0,Yes,New,0.9,0.9,0.9,No
+25240,United States,United Arab Emirates,Harpoon Block-1,anti-ship missile,Missiles,1998,No,15.0,No,1998.0,No,New,0.9,0.9,13.5,No
+61537,United States,United Arab Emirates,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2000,Yes,5.0,Yes,2004.0,Yes,New,1.0,1.0,5.0,No
+61537,United States,United Arab Emirates,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2000,Yes,10.0,Yes,2005.0,Yes,New,1.0,1.0,10.0,No
+61537,United States,United Arab Emirates,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2000,Yes,10.0,Yes,2006.0,Yes,New,1.0,1.0,10.0,No
+61537,United States,United Arab Emirates,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2000,Yes,10.0,Yes,2007.0,Yes,New,1.0,1.0,10.0,No
+61537,United States,United Arab Emirates,AAQ-33 Sniper ATP,aircraft electro-optical system,Sensors,2000,Yes,5.0,Yes,2008.0,Yes,New,1.0,1.0,5.0,No
+2003,France,United Arab Emirates,SA-330 Puma,helicopter,Aircraft,1971,Yes,3.0,No,1972.0,No,New,6.0,6.0,18.0,No
+2020,France,United Arab Emirates,Mirage-5RAD,fighter/ground-attack aircraft,Aircraft,1975,No,8.0,Yes,1976.0,No,New,14.0,14.0,112.0,No
+2020,France,United Arab Emirates,Mirage-5RAD,fighter/ground-attack aircraft,Aircraft,1975,No,7.0,Yes,1977.0,No,New,14.0,14.0,98.0,No
+1997,United States,United Arab Emirates,C-130H Hercules,transport aircraft,Aircraft,1973,Yes,2.0,No,1975.0,No,New,28.0,28.0,56.0,No
+2014,United States,United Arab Emirates,Bell-205A,helicopter,Aircraft,1972,Yes,2.0,No,1973.0,No,New,2.2,2.2,4.4,No
+50883,Italy,United Arab Emirates,Marte-2,anti-ship missile,Missiles,2009,No,25.0,Yes,2013.0,Yes,New,0.4,0.4,10.0,No
+50883,Italy,United Arab Emirates,Marte-2,anti-ship missile,Missiles,2009,No,40.0,Yes,2014.0,Yes,New,0.4,0.4,16.0,No
+50883,Italy,United Arab Emirates,Marte-2,anti-ship missile,Missiles,2009,No,35.0,Yes,2015.0,Yes,New,0.4,0.4,14.0,No
+58257,South Africa,United Arab Emirates,G-5 155mm,towed gun,Artillery,2013,Yes,6.0,No,2014.0,No,Second hand but modernized,1.0,0.66,3.96,No
+33093,France,United Arab Emirates,M-3 VDA-RA-20S,anti-aircraft gun turret,Air-defence systems,1974,No,8.0,Yes,1977.0,Yes,New,3.25,3.25,26.0,No
+33093,France,United Arab Emirates,M-3 VDA-RA-20S,anti-aircraft gun turret,Air-defence systems,1974,No,8.0,Yes,1978.0,Yes,New,3.25,3.25,26.0,No
+58432,United States,United Arab Emirates,JDAM,guided bomb,Missiles,2014,No,1800.0,Yes,2015.0,No,New,0.02,0.02,36.0,No
+58432,United States,United Arab Emirates,JDAM,guided bomb,Missiles,2014,No,1800.0,Yes,2016.0,No,New,0.02,0.02,36.0,No

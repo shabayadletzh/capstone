@@ -1,0 +1,7 @@
+case,supplier,hs4,shock_start,window_months,drop_log,drop_pct,placebo_windows,share_of_placebos_as_bad_or_worse_pct,pre_trend_last6_vs_first6_pct
+"Japan quake, cars",JPN,8703,2011-03,3,-0.86,-58.0,167,1.8,4.0
+"Thailand floods, trucks",THA,8704,2011-10,3,-0.8,-55.0,157,11.5,4.0
+India wheat ban,IND,1001,2022-09,12,-16.88,-100.0,114,0.0,67.0
+Indonesia palm oil ban,IDN,1511,2022-05,1,-0.32,-28.0,122,29.5,9.0
+"Ukraine war, sunflower oil",UKR,1512,2022-03,10,-0.37,-31.0,90,16.7,-11.0
+India onion ban,IND,0703,2023-12,5,-1.6,-80.0,135,0.7,-48.0
