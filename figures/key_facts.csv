@@ -1,0 +1,47 @@
+fact,value,unit,source
+Years where BACI is within 10% of UAE-reported total,14.0,of 25,"BACI, Comtrade"
+"BACI / UAE-reported, average 2013-2016",0.73,,"BACI, Comtrade"
+Strategic products with UAE imports in 2023,59.0,,BACI HS4
+"Strategic products where one supplier has more than 50%, 2023",20.0,,BACI HS4
+"China's share of UAE computer imports (8471), 2023",79.4,%,BACI HS4
+"China's share of UAE phone imports (8525 in HS92), 2019",59.5,%,BACI HS4
+"China's share of UAE phone imports (8525 in HS92), 2023",75.7,%,BACI HS4
+"UAE goods imports, 2023",391.6,USD bn,BACI HS2
+"China's share of UAE goods imports, average 1995-1999",4.79,%,BACI HS2
+"China's share of UAE goods imports, 2023",19.9,%,BACI HS2
+"Japan's share of UAE truck imports (870422), 2009",79.5,%,BACI HS6
+"Japan's share of UAE truck imports (870422), 2010",81.6,%,BACI HS6
+"Iran's share of UAE semi-finished steel (7207), 2018",70.9,%,BACI HS4
+"Iran's share of UAE semi-finished steel (7207), 2019",10.6,%,BACI HS4
+"India's share of UAE wheat (1001), 2021",33.5,%,BACI HS4
+"India's share of UAE wheat (1001), 2022",43.3,%,BACI HS4
+"India's share of UAE wheat (1001), 2023",0.53,%,BACI HS4
+"Russia's share of UAE wheat (1001), 2022",15.9,%,BACI HS4
+"Russia's share of UAE wheat (1001), 2023",39.2,%,BACI HS4
+"Ukraine's share of UAE sunflower oil (1512), 2021",56.8,%,BACI HS4
+"Ukraine's share of UAE sunflower oil (1512), 2022",36.4,%,BACI HS4
+"Japan's car exports to UAE, monthly, Oct 2010-Mar 2011",193.8,USD m,Comtrade monthly
+"Japan's car exports to UAE, monthly, Apr-May 2011",49.7,USD m,Comtrade monthly
+"Japan's car exports to UAE, change (Apr-May 2011 vs Oct-Mar)",-74.3,%,Comtrade monthly
+"US car exports to UAE, same windows, change",0.66,%,Comtrade monthly
+"China's exports to the UAE, Feb 2020",1.00,USD bn,Comtrade monthly
+Feb 2020 / average of the two months either side,0.33,,Comtrade monthly
+  same ratio in a normal February: lowest,0.52,,Comtrade monthly
+  same ratio in a normal February: highest,0.90,,Comtrade monthly
+"India's share of UAE wheat imports, 2021",33.5,%,BACI exports to Gulf
+"India's share of Saudi Arabia wheat imports, 2021",0.00,%,BACI exports to Gulf
+"India's share of Oman wheat imports, 2021",5.40,%,BACI exports to Gulf
+"India's share of Kuwait wheat imports, 2021",0.03,%,BACI exports to Gulf
+"India's share of Qatar wheat imports, 2021",14.9,%,BACI exports to Gulf
+"India's share of Bahrain wheat imports, 2021",1.06,%,BACI exports to Gulf
+Products (HS4) in the data,"1,241.0",,BACI HS4
+"Products that ever had a big supplier (50%, 2 of 3 years)",937.0,,BACI HS4
+"Median share of loss replaced by next year, supplier-wide, 20%",8.27,%,BACI HS4
+"Median share of loss replaced by next year, supplier-wide, 30%",10.9,%,BACI HS4
+"Median share of loss replaced by next year, supplier-wide, 40%",5.26,%,BACI HS4
+"Median share of loss replaced by next year, supplier-wide, 50%",3.88,%,BACI HS4
+"US share of UAE arms deliveries, 2006-2010",57.6,%,SIPRI
+"US share of UAE arms deliveries, 2011-2015",65.6,%,SIPRI
+"US share of UAE arms deliveries, 2016-2020",64.8,%,SIPRI
+"US share of UAE arms orders, 2016-2020",62.0,%,SIPRI register
+"US share of UAE arms orders, 2021",0.80,%,SIPRI register
