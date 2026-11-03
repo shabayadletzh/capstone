@@ -1,0 +1,65 @@
+id,fact,value,unit
+F01a,Strategic HS4 products with UAE imports in 2023,59.0,
+F01b,Of which top supplier has more than 50% (2023),20.0,
+F02,"China share of UAE computer imports (8471), 2023",79.39,%
+F04a,"China share of UAE phone imports (8525 in HS92), 2019",59.48,%
+F04b,"China share of UAE phone imports (8525 in HS92), 2023",75.7,%
+F09a,"India share of UAE wheat imports (1001), 2021",33.54,%
+F09b,"India share of UAE wheat imports (1001), 2022",43.26,%
+F09c,"India share of UAE wheat imports (1001), 2023",0.53,%
+F09d,"Russia share of UAE wheat imports, 2022",15.93,%
+F09e,"Russia share of UAE wheat imports, 2023",39.22,%
+F10a,"Ukraine share of UAE sunflower oil imports (1512), 2021",56.82,%
+F10b,"Ukraine share of UAE sunflower oil imports (1512), 2022",36.4,%
+F03a,"China share of all UAE goods imports, average 1995-1999",4.79,%
+F03b,"China share of all UAE goods imports, 2023",19.88,%
+F03c,"UAE goods imports, 2023",391.56,USD bn
+F05a,"Japan share of UAE imports of trucks 870422, 2009",79.52,%
+F05b,"Japan share of UAE imports of trucks 870422, 2010",81.6,%
+F06a,"Iran share of UAE semi-finished steel imports (7207), 2018",70.9,%
+F06b,"Iran share of UAE semi-finished steel imports (7207), 2019",10.64,%
+F11ARE,"India share of ARE wheat imports, 2021",33.54,%
+F11SAU,"India share of SAU wheat imports, 2021",0.0,%
+F11OMN,"India share of OMN wheat imports, 2021",5.4,%
+F11KWT,"India share of KWT wheat imports, 2021",0.03,%
+F11QAT,"India share of QAT wheat imports, 2021",14.86,%
+F11BHR,"India share of BHR wheat imports, 2021",1.06,%
+F07a,"Japan car exports to UAE, monthly avg Oct 2010-Mar 2011",193.77,USD m
+F07b,"Japan car exports to UAE, monthly avg Apr-May 2011",49.74,USD m
+F07c,Change,-74.33,%
+F08a,"China exports to UAE, Feb 2020",1.0,USD bn
+F08b,"Feb 2020 / avg of Dec, Jan, Mar, Apr",0.33,
+F08c,Same ratio in other years: lowest,0.52,
+F08d,Same ratio in other years: highest,0.9,
+F08e,Same ratio in other years: number of years,9.0,
+F13_2006,"US share of UAE arms deliveries (TIV), 2006-2010",57.61,%
+F13_2011,"US share of UAE arms deliveries (TIV), 2011-2015",65.62,%
+F13_2016,"US share of UAE arms deliveries (TIV), 2016-2020",64.84,%
+F13o_2016,"US share of UAE arms orders (TIV of order), 2016-2020",62.04,%
+F13o_2021,"US share of UAE arms orders (TIV of order), 2021-2021",0.8,%
+F14,"HS4 products with a big supplier (50%, 2 of 3 years) at least once",937.0,
+F14b,HS4 products in the data,1241.0,
+F12n20,Big-supplier drops at 20% (1996-2023 excl. 2013-16),988.0,
+F12ra20,"  median share of loss replaced by next year, all drops",26.58,%
+F12ta20,"  median change in total UAE imports by next year, all drops",-14.41,%
+F12w20,  of which supplier-wide,260.0,
+F12r20,"  median share of loss replaced by next year, supplier-wide",8.27,%
+F12t20,"  median change in total UAE imports by next year, supplier-wide",-32.82,%
+F12n30,Big-supplier drops at 30% (1996-2023 excl. 2013-16),677.0,
+F12ra30,"  median share of loss replaced by next year, all drops",20.05,%
+F12ta30,"  median change in total UAE imports by next year, all drops",-18.88,%
+F12w30,  of which supplier-wide,175.0,
+F12r30,"  median share of loss replaced by next year, supplier-wide",10.86,%
+F12t30,"  median change in total UAE imports by next year, supplier-wide",-32.81,%
+F12n40,Big-supplier drops at 40% (1996-2023 excl. 2013-16),467.0,
+F12ra40,"  median share of loss replaced by next year, all drops",11.92,%
+F12ta40,"  median change in total UAE imports by next year, all drops",-30.16,%
+F12w40,  of which supplier-wide,133.0,
+F12r40,"  median share of loss replaced by next year, supplier-wide",5.26,%
+F12t40,"  median change in total UAE imports by next year, supplier-wide",-39.12,%
+F12n50,Big-supplier drops at 50% (1996-2023 excl. 2013-16),313.0,
+F12ra50,"  median share of loss replaced by next year, all drops",11.13,%
+F12ta50,"  median change in total UAE imports by next year, all drops",-36.89,%
+F12w50,  of which supplier-wide,97.0,
+F12r50,"  median share of loss replaced by next year, supplier-wide",3.88,%
+F12t50,"  median change in total UAE imports by next year, supplier-wide",-48.92,%
